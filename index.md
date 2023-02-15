@@ -1,5 +1,5 @@
 # Dissertation Wiki 👋
-No introduction at the moment. This is the wiki-in-the-becoming for the dissertation of Adrian Demleitner.
+This is the wiki-in-the-becoming for the dissertation of Adrian Demleitner. No more introduction for the moment. 
 
 ## Temporary table of contents
 - [Journal](notes/Journal.md)
