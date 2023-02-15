@@ -146,10 +146,13 @@ th {
     text-align: left;
     text-transform: capitalize;
 }
+tr.odd {
+    background-color: rgba(0, 0, 0, 0.05);
+}
 
-td {
+th, td {
     vertical-align: top;
-    padding-right: 2rem;
+    padding: 4px 10px;
 }
 
 ul.dataview {
