@@ -4,7 +4,7 @@ system: Amiga
 ---
 
 # Ball Raider
-I've collected all the visual material I could find under https://www.are.na/adrian-demleitner/ball-raider.
+I've collected all the visual material I could find under [https://www.are.na/adrian-demleitner/ball-raider](https://www.are.na/adrian-demleitner/ball-raider).
 
 ## Playing Notes
 - Two version
