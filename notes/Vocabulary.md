@@ -1,7 +1,7 @@
 # Vocabulary
 - critical path / ideal experience
 - emergence vs. progression gameplay
-- [Spaces](Spaces.md) (Nitsche)
+- [Spaces](notes/Spaces.md) (Nitsche)
 - rules, mechanics
 - presentation (Nitsche): mood, atmosphere, vibes, juicibess (Juul), expressive content (in visual analysis)
 - “[Ergodic Animage](Ergodic%20Animage.md)” (Arsenault et al., p. 88)

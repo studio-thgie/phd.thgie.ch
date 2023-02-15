@@ -1,5 +1,9 @@
 ---
-title: Orlando Petermann
+name: Orlando Petermann
+affiliation: [
+	Golden Gate Crew,
+	Linel
+]
 ---
 
 ## Games
@@ -21,4 +25,4 @@ SORT finished DESC
 
 ## Related
 - [Ball Raider](games/Ball%20Raider.md)
-- [Golden Gate Crew](agents/Golden%20Gate%20Crew.md)
+- [Golden Gate Crew](actants/Golden%20Gate%20Crew.md)

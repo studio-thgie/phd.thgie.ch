@@ -1,8 +1,8 @@
 - Qualitative Research on Images
-	- [Visual Methodologies](Visual%20Methodologies.md)
+	- [Visual Methodologies](notes/Visual%20Methodologies.md)
 	- https://dvstudies.net/
 - Quantitaive Research on Images
-	- [2023-02-11](journal/2023-02-11.md)
+	- [See journal entry on 2023-02-11](journal/2023-02-11.md)
 	- https://visualmethodologies.org/
 - [Emulation](Emulation.md) and Preservation of Video Games
 - Listings
