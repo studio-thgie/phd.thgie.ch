@@ -1,0 +1,15 @@
+# Vocabulary
+- critical path / ideal experience
+- emergence vs. progression gameplay
+- [Spaces](Spaces.md) (Nitsche)
+- rules, mechanics
+- presentation (Nitsche): mood, atmosphere, vibes, juicibess (Juul), expressive content (in visual analysis)
+- “[Ergodic Animage](Ergodic%20Animage.md)” (Arsenault et al., p. 88)
+- “graphical regimes” (Arsenault et al., p. 89)
+- “diegesis” (Arsenault et al., p. 90)
+- “graphical regimes” (Arsenault et al., p. 93) also see semiology here (or whoever wrote on ocular regimes)
+- focalization (Gérard Genette)
+- ocularization (Francois Jost)
+- theoretical imperialism (Heeding Aarseth)
+- animetism (Thomas Lamarre)
+- animetic interval (Thomas Lamarre)
