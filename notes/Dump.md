@@ -1,9 +1,9 @@
 ---
 author: Adrian Demleitner
-title: Questions Dump
+title: Dump
 ---
 
-# Dissertation Thoughts Dump
+# Dump
 ## 2023-02-10
 The endless circulation of the retro game image in todays media landscape. (poping up as a reaction to the Images in Social Media workshop)
 
