@@ -1,13 +1,16 @@
 # Christian Haller
 
 ## Games
-| File                                                        | System                   | Genre       | Year | Actants                             | Studio           |
-| ----------------------------------------------------------- | ------------------------ | ----------- | ---- | ----------------------------------- | ---------------- |
-| [Champion ship Shooting](games/Champion%20ship%20Shooting.md) | Amiga                    | Shooter     | 1991 | Christian Haller                    | Golden Gate Crew |
-| [Leonardo](games/Leonardo.md)                             | Amiga                    | Action      | 1989 | Christian Haller, Orlando Petermann | Golden Gate Crew |
-| [Eliminator](games/Eliminator.md)                         | Atari ST, Amiga, Android | Shoot'em Up | 1988 | Christian Haller, Christian Weber   | \-               |
-| [Crack](games/Crack.md)                                   | Amiga                    | Breakout    | 1987 | Christian Haller, Orlando Petermann | Linel            |
-| [Insanity Fight](games/Insanity%20Fight.md)                 | Amiga                    | Shoot'em Up | 1987 | Christian Haller, Orlando Petermann | Linel            |
+| File                                                        | Affiliati               |
+| ----------------------------------------------------------- | ----------------------- |
+| [Christian Haller](actants/Christian%20Haller.md)           | \-                      |
+| [Christian Weber](actants/Christian%20Weber.md)             | \-                      |
+| [Golden Gate Crew](actants/Golden%20Gate%20Crew.md)           | \-                      |
+| [Heinz Lüem](actants/Heinz%20Lüem.md)                       | \-                      |
+| [Linel](actants/Linel.md)                                 | \-                      |
+| [Nightmare Productions](actants/Nightmare%20Productions.md) | \-                      |
+| [Orlando Petermann](actants/Orlando%20Petermann.md)         | Golden Gate Crew, Linel |
+
 
 
 

@@ -6,7 +6,7 @@ author: Adrian Demleitner
 
 **Table of Contents**
 
-- [Vocabulary](#vocabulary)
+- [Vocabulary](notes/Vocabulary.md)
 - [Methodologies](#methodologies)
 	- [HGP (Horror Game Politics)](#hgp-horror-game-politics)
 	- [Introduction to Game Analysis](#introduction-to-game-analysis)
