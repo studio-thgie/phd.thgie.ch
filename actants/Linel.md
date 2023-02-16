@@ -8,7 +8,7 @@
 
 ## Members included
 - [Christian Haller](actants/Christian%20Haller.md)
-- [Christian A. Weber](actants/Christian%20A.%20Weber.md)
+- [Christian Weber](actants/Christian%20Weber.md)
 - [Orlando Petermann](actants/Orlando%20Petermann.md)
 
 ## Sources
