@@ -1,6 +1,6 @@
 ---
-played: yes
 system: Amiga
+year: 1987
 studio: Golden Gate Crew
 actants: [
 	Orlando Petermann,
