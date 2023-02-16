@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <base href="/"/>
-    <title>templater-games</title>
+    <title>templater-games-studio</title>
 
     <meta name="generator" content="pandoc" />
         
@@ -27,8 +27,8 @@
     <main role="main">
         <p>&lt;%* const dv = app.plugins.plugins[“dataview”].api; const
         te = await
-        dv.queryMarkdown(<code>TABLE join(system) as System, genre as Genre, year as Year, join(actants) as Actants, studio as Studio     FROM "games"     SORT year DESC</code>);
-        // replace wikilinks with markdown links let table =
+        dv.queryMarkdown(<code>TABLE join(system) as System, genre as Genre, year as Year, join(actants) as Actants, studio as Studio     FROM "games"     WHERE studio = "${tp.file.title}"     SORT year DESC</code>);</p>
+        <p>// replace wikilinks with markdown links let table =
         te.value.replace(/[[([^|]+)\|([^|]+)]]/gm, “<a
         href="$1">$2</a>”);</p>
         <p>// clean up markdown link var reg = /((.*))/g; var result;
