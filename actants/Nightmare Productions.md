@@ -2,7 +2,7 @@
 
 ## Games
 ```dataview
-TABLE join(system) as System, genre, year, join(agents) as Agents
+TABLE join(system) as System, genre, year, join(actants) as Actants
 FROM "games"
 WHERE studio="Nightmare Productions"
 SORT finished DESC

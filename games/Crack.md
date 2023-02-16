@@ -4,7 +4,7 @@ year: 1987
 genre: Breakout
 studio: Linel
 publisher: Linel
-agents: [
+actants: [
 	Christian Haller,
 	Orlando Petermann
 ]

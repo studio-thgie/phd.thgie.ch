@@ -4,7 +4,7 @@ year: 1989
 genre: Action
 studio: Golden Gate Crew
 publisher: Starbyte
-agents: [
+actants: [
 	Christian Haller,
 	Orlando Petermann
 ]

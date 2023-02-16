@@ -1,10 +1,16 @@
 ---
 played: yes
 system: Amiga
+studio: Golden Gate Crew
+actants: [
+	Orlando Petermann,
+	Heinz Lüem
+]
 ---
-
 # Ball Raider
 I've collected all the visual material I could find under [https://www.are.na/adrian-demleitner/ball-raider](https://www.are.na/adrian-demleitner/ball-raider).
+
+![](assets/ball_raider_start_screen.png)
 
 ## Playing Notes
 - Two version
@@ -12,8 +18,8 @@ I've collected all the visual material I could find under [https://www.are.na/ad
 	- (assuming) Preview distro under the name Golden Gate Software (changed to golden gate crew in Robtek distro)
 - Greeted by a screen with a figure holding up a ball. Reminds me of Dolph Lundgren's character in Master of the Universe
 - Credit screen, opacity oscilating red font on black
-	- produced by The Golden Gate crew
-	- written by Heinz Luem
+	- produced by [Golden Gate Crew](actants/Golden%20Gate%20Crew.md)
+	- written by [Heinz Lüem](actants/Heinz%20Lüem.md)
 	- graphics by [Orlando Petermann](notes/Orlando%20Petermann.md)
 	- (c) 1997 Robtek
 - Game is hardly playable, the ball is a bright green color and breaks brutaly with the redish artwork in the background. Level 1 not solved after several attempts. The input is keyboard only and clunky. The interaction of the ball with the paddle seems random and not very accurate.

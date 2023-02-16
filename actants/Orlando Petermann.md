@@ -5,14 +5,16 @@ affiliation: [
 	Linel
 ]
 ---
-
+# Orlando Petermann
 ## Games
-```dataview
-TABLE join(system) as System, genre, year, join(agents) as Agents
-FROM "games"
-WHERE contains(agents, "Orlando Petermann")
-SORT finished DESC
-```
+| File                                        | System | Genre       | Year | Actants                             | Studio           |
+| ------------------------------------------- | ------ | ----------- | ---- | ----------------------------------- | ---------------- |
+| [Leonardo](games/Leonardo.md)             | Amiga  | Action      | 1989 | Christian Haller, Orlando Petermann | Golden Gate Crew |
+| [Ringside](games/Ringside.md)             | Amiga  | Boxing      | 1989 | Heinz Lüem, Orlando Petermann       | Golden Gate Crew |
+| [Crack](games/Crack.md)                   | Amiga  | Breakout    | 1987 | Christian Haller, Orlando Petermann | Linel            |
+| [Insanity Fight](games/Insanity%20Fight.md) | Amiga  | Shoot'em Up | 1987 | Christian Haller, Orlando Petermann | Linel            |
+| [Ball Raider](games/Ball%20Raider.md)       | Amiga  | \-          | \-   | Orlando Petermann, Hein Lüem        | Golden Gate Crew |
+
 
 ## Notes
 - Found via 1992 Interview for [R.A.W 4, a diskmag](https://demozoo.org/productions/60488/), turned out to be another Orlando

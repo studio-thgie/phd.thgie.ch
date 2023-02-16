@@ -4,7 +4,7 @@ year: 1987
 genre: Shoot'em Up
 studio: Linel
 publisher: Microdeal
-agents: [
+actants: [
 	Christian Haller,
 	Orlando Petermann
 ]

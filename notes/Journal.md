@@ -11,3 +11,4 @@ author: Adrian Demleitner
 | [1st Feb 2023](journal/2023-02-01.md)                                    | February 01, 2023  | goals                          |
 | [30th September 2022 - Proposal Sketch](journal/2022-09-30.md)           | September 30, 2022 | dissertation, proposal, sketch |
 | [24th September 2022 - Proposal Sketch](journal/2022-09-24.md)           | September 24, 2022 | dissertation, proposal, sketch |
+

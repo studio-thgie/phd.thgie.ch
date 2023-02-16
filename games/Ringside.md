@@ -4,8 +4,8 @@ year: 1989
 genre: Boxing
 studio: Golden Gate Crew
 publisher: EAS Software
-agents: [
-	Heinz Luem,
+actants: [
+	Heinz Lüem,
 	Orlando Petermann
 ]
 ---

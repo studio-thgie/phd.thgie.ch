@@ -2,7 +2,7 @@
 system: [Atari ST, Amiga, Android]
 year: 1988
 genre: Shoot'em Up
-agents: [
+actants: [
 	Christian Haller
 ]
 ---

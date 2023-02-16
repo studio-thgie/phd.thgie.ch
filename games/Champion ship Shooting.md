@@ -4,7 +4,7 @@ year: 1991
 genre: Shooter
 studio: Golden Gate Crew
 publisher: Golem
-agents: [
+actants: [
 	Christian Haller
 ]
 ---
@@ -14,7 +14,7 @@ agents: [
 
 The game was brief but entertaining. It was published by Golem, and there was a special controller for this type of game, the [Golem Lightgun](https://binarium.de/kupke_computertechnik_golem_light_gun). It only worked with CRT monitors and was infrared based.
 
-![Golem Lightgun](assets/Pasted%20image%2020230215143812.png)
+![Golem Lightgun](assets/wwh.jpeg)
 
 ## Sources
 - https://amiga.haller.ch/index.php/amiga-games/sport-worldwide-hunting-1991
