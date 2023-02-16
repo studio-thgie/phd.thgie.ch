@@ -3,8 +3,6 @@ title: "Visual methodologies: an introduction to researching with visual materia
 authors: "Gillian Rose"
 year: 2016
 tags: [Bildanalyse, Bildwissenschaft, Communication visuelle, Éducation visuelle, Media Studies, Qualitative research Methodology, Semiotik, Textanalyse, Visual communication, visual literacy, Visual literacy, Visuelle Kommunikation, Visuelle Medien, Visuelle Wahrnehmung]
-priority:
-status:
 ---
 # Visual methodologies: an introduction to researching with visual materials
 
@@ -14,16 +12,13 @@ status:
 - [Reading Notes](#reading-notes)
 
 ## Bibliography
-Rose, G. (2016a). _Visual methodologies: An introduction to researching with visual materials_ (4th edition). SAGE Publications Ltd. [http://study.sagepub.com/rose4e](http://study.sagepub.com/rose4e)
-
-Rose, G. (2016b). _Visual methodologies: An introduction to researching with visual materials_ (4th edition). SAGE Publications Ltd. [http://study.sagepub.com/rose4e](http://study.sagepub.com/rose4e)
-## Notes
-%% begin notes %%%% end notes %%
+Rose, G. (2016). _Visual methodologies: An introduction to researching with visual materials_ (4th edition). SAGE Publications Ltd. [http://study.sagepub.com/rose4e](http://study.sagepub.com/rose4e)
 
 ## Abstract
 "Now in its Fourth Edition, Visual Methodologies: An Introduction to Researching with Visual Methodologies is a bestselling critical guide to the study and analysis of visual culture. Existing chapters have been fully updated to offer a rigorous examination and demonstration of an individual methodology in a clear and structured style. Reflecting changes in the way society consumes and creates its visual content, new features include: Brand new chapters dealing with social media platforms, the development of digital methods and the modern circulation and audiencing of research images. More 'Focus' features covering interactive documentaries, digital story-telling and participant mapping. A Companion Website featuring links to useful further resources relating to each chapter. A now classic text, Visual Methodologies appeals to undergraduates, graduates, researchers and academics across the social sciences and humanities who are looking to get to grips with the complex debates and ideas in visual analysis and interpretation"-- Publisher
 
-## Reading Notes
+## Notes
+%% begin notes %%%% end notes %%
 # Visual Methodologies
 
 ## 1
@@ -168,4 +163,4 @@ Social semiotics concentrates on the act of doing meanings, instead of the sign/
 ## Related
 %% begin related %%%% end related %%
 
-%% Import Date: 2023-02-15T16:04:39.455+01:00 %%
+%% Import Date: 2023-02-16T07:59:11.920+01:00 %%

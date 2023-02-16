@@ -15,7 +15,6 @@ author: Adrian Demleitner
 ### HGP (Horror Game Politics)
 
 - Pfister, E. (n.d.). How to analyse a Video game from a historical, source-critical perspective: The HGP-Method [Billet]. _Horror - Game - Politics_. Retrieved 17 September 2022, from [https://hgp.hypotheses.org/1754](https://hgp.hypotheses.org/1754)
-- Reading notes under [How to analyse a Video game from a historical, source-critical perspective - The HGP-Method](reading/hypothes.is/How%20to%20analyse%20a%20Video%20game%20from%20a%20historical,%20source-critical%20perspective%20-%20The%20HGP-Method.md)
 
 The HGP-approach takes Roland Barthes concept of myth as a centerpiece and has a focus on historical source criticism, which is the critical viewing of the historical sources that inform research. The approach then goes through four main phases to analyse a game.
 
@@ -26,7 +25,7 @@ The HGP-approach takes Roland Barthes concept of myth as a centerpiece and has a
 
 ### Introduction to Game Analysis
 - Fernández-Vara, C. (2014). _Introduction to Game Analysis_. Routledge. [https://doi.org/10.4324/9780203794777](https://doi.org/10.4324/9780203794777)
-- Reading notes under [@fernandez-varaIntroductionGameAnalysis2014](reading/@fernandez-varaIntroductionGameAnalysis2014.md)
+- Reading notes under [fernandez-varaIntroductionGameAnalysis2019](literature/fernandez-varaIntroductionGameAnalysis2019.md)
 
 Clara Fernández-Vara's approach proposes to read games like texts, akin to the approach developed by Roland Barthes. The book then contains various aspects of what can be "read", well organized into three major categories: context, game overview, formal aspects.
 
