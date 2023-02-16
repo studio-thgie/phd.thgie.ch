@@ -31,6 +31,5 @@ I've collected all the visual material I could find under [https://www.are.na/ad
 - The preview version plays slighty easier; ball is slightly slower, but interaction of ball with env. seems even simpler. no written feedbacks on powerups.
 
 ## Related
-- Various Links to metainfo and review in personal Zotero library
 - [Orlando Petermann](notes/Orlando%20Petermann.md)
 - [Video Games](notes/Video%20Games.md)
