@@ -2,12 +2,14 @@
 - animetism (Thomas Lamarre)
 - animetic interval (Thomas Lamarre)
 - critical path / ideal experience
-- diegesis (Arsenault et al., p. 90)
+- [Diegesis](notes/Diegesis.md) (Bordwell & Thompson)
 - emergence vs. progression gameplay
 - [Ergodic Animage](notes/Ergodic%20Animage.md) (Arsenault et al., p. 88)
 - focalization (Gérard Genette)
+- [Game world](notes/Game%20World.md) (Juul)
+- [Game space](notes/Game%20Space.md) (Juul)
 - graphical regimes (Arsenault et al., p. 93) also see semiology here (respetively occular regimes)
-- ocularization (Francois Jost)
+- [Ocularization](notes/Ocularization.md) (Francois Jost)
 - presentation (Nitsche): mood, atmosphere, vibes, juicibess (Juul), expressive content (in visual analysis)
 - rules, mechanics
 - [Spaces](notes/Spaces.md) (Nitsche)

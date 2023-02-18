@@ -7,3 +7,4 @@ What's this about? Some places to start
 - [Areas of Interests](notes/Areas%20of%20Interests.md)
 - [Dump](notes/Dump.md)
 - [Game Studies](notes/Game%20Studies.md)
+- [Visuality in Video Games](notes/Visuality%20in%20Video%20Games.md)

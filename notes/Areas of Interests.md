@@ -1,6 +1,6 @@
 - The Image in Video Games
 	- Qualitative Research on Images
-		- [Visual Methodologies](notes/Visual%20Methodologies.md)
+		- [Visuality in Video Games](notes/Visuality%20in%20Video%20Games.md)
 		- https://dvstudies.net/
 	- Quantitative Research on Images
 		- [See journal entry on 2023-02-11](journal/2023-02-11.md)
