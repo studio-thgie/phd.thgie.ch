@@ -2,7 +2,7 @@
 title: "How to analyse a Video game from a historical, source-critical perspective: The HGP-Method"
 authors: "Eugen Pfister, Arno Görgen"
 year: 2022
-tags: [read]
+tags: [Methodology, Video Game Analysis, Horror Game Politics]
 ---
 # How to analyse a Video game from a historical, source-critical perspective: The HGP-Method
 
@@ -12,8 +12,6 @@ tags: [read]
 - [Reading Notes](#reading-notes)
 
 ## Bibliography
-Pfister, E. (2022, August 3). How to analyse a Video game from a historical, source-critical perspective: The HGP-Method [Billet]. _Horror - Game - Politics_. [https://hgp.hypotheses.org/1754](https://hgp.hypotheses.org/1754)
-
 Pfister, E., & Görgen, A. (2022, March 8). How to analyse a Video game from a historical, source-critical perspective: The HGP-Method [Billet]. _Horror - Game - Politics_. [https://hgp.hypotheses.org/1754](https://hgp.hypotheses.org/1754)
 
 ## Abstract
@@ -26,4 +24,4 @@ by Eugen Pfister & Arno Görgen Four years ago, when we began to examine digital
 ## Related
 %% begin related %%%% end related %%
 
-%% Import Date: 2023-02-16T07:59:36.607+01:00 %%
+%% Import Date: 2023-02-22T14:37:20.257+01:00 %%

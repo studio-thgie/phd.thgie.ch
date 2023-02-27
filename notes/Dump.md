@@ -4,6 +4,17 @@ title: Dump
 ---
 
 # Dump
+## 2023-02-27
+Where is the invisible labour in all of these games? Can we avoid recreating a narrative of white and priviledged men? Why are the gameworls we look at mostly about shooting, and scifi, economics and such things, traditionally ascribed to masculinity?
+
+What is absent (intersectionaly seen) in our corpus?
+
+## 2023-02-24
+How about having a good look at all the platforms that, mostly illegaly, collect old games for preservation purposes?
+
+## 2023-02-22
+How do emulators and their contextual technologies, such as displays, change our experience of game play?
+
 ## 2023-02-10
 The endless circulation of the retro game image in todays media landscape. (poping up as a reaction to the Images in Social Media workshop)
 

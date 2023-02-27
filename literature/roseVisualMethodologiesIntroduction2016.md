@@ -2,7 +2,7 @@
 title: "Visual methodologies: an introduction to researching with visual materials"
 authors: "Gillian Rose"
 year: 2016
-tags: [Bildanalyse, Bildwissenschaft, Communication visuelle, Éducation visuelle, Media Studies, Qualitative research Methodology, Semiotik, Textanalyse, Visual communication, visual literacy, Visual literacy, Visuelle Kommunikation, Visuelle Medien, Visuelle Wahrnehmung]
+tags: [Media Studies, Visual Literacy, Visual Analysis, Visual Studies]
 ---
 # Visual methodologies: an introduction to researching with visual materials
 
@@ -163,4 +163,4 @@ Social semiotics concentrates on the act of doing meanings, instead of the sign/
 ## Related
 %% begin related %%%% end related %%
 
-%% Import Date: 2023-02-16T07:59:11.920+01:00 %%
+%% Import Date: 2023-02-22T14:39:58.520+01:00 %%

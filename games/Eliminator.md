@@ -4,7 +4,9 @@ year: 1988
 genre: Shoot'em Up
 actants: [
 	Christian Haller,
-	Christian Weber
+	Christian Weber,
+	Michael Tschoegl,
+	Roman Werner
 ]
 ---
 # Eliminator
@@ -19,3 +21,5 @@ The Amiga version was ported from Atari ST. The porting team [added a new intro]
 
 ## Sources
 - https://amiga.haller.ch/index.php/amiga-games/eliminator-1988
+- https://www.lemonamiga.com/games/reviews/view.php?id=116
+- https://www.mobygames.com/game/amiga/eliminator-

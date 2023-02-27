@@ -1,4 +1,6 @@
 # Vocabulary
+
+## Visuality
 - animetism (Thomas Lamarre)
 - animetic interval (Thomas Lamarre)
 - critical path / ideal experience
@@ -14,3 +16,15 @@
 - rules, mechanics
 - [Spaces](notes/Spaces.md) (Nitsche)
 - theoretical imperialism (Heeding Aarseth)
+
+## [[Preservation]]
+- [Emulation](notes/Emulation.md)
+- bit rot and media decay: ‘the gradual and natural decay of digital information and storage media over time, causing information to become unreadable’ (Monnens et al., 2009, p. 141)
+- hardware failure: original hardware becomes defunct 
+- format obsolescence: older software and games stop being supported
+---
+- [Intertextuality](notes/Intertextuality.md)
+- [Paratext](notes/Paratext.md)
+- [Aura](notes/Aura.md)
+- [Assemblage](notes/Assemblage.md)
+- [Articulation](notes/Articulation.md)

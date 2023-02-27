@@ -12,6 +12,8 @@ I've collected all the visual material I could find under [https://www.are.na/ad
 
 ![](assets/ball_raider_start_screen.png)
 
+- Soundtrack: https://youtu.be/-nAawc1DyD0?t=255
+
 ## Playing Notes
 - Two version
 	- cracked Robtek distro with intro (group HQC from Munich); has Diamond Game, distributed by Robtek logo on startscreen

@@ -6,5 +6,6 @@
 		- [See journal entry on 2023-02-11](journal/2023-02-11.md)
 		- https://visualmethodologies.org/
 - [Emulation](Emulation.md) and Preservation of Video Games
+- MUDs: Games without visualities
 - Listings
 	- https://www.vintagecomputing.ch/?browseid=801
