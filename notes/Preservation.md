@@ -1,3 +1,5 @@
+# Preservation
+
 ## [Assembling Auras](literature/guay-belangerAssemblingAurasMethodology2022.md)
 
 In this paper the author Dany Guay-Bélanger attempts to redefine what makes up a game, showing that we need to understand them much more as fluid assemblages that hold auras of "the original". The final question then being:
