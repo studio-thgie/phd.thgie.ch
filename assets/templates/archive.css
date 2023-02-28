@@ -335,14 +335,6 @@ blockquote p:last-child {
     margin: 0;
 }
 
-blockquote p:before {
-    content: "“";
-}
-
-blockquote p:after {
-    content: "”";
-}
-
 blockquote a {
     color: white;
 }
