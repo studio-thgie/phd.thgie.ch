@@ -4,7 +4,7 @@ author: Adrian Demleitner
 ---
 # Game Studies
 
-- [Vocabulary](notes/Vocabulary.md)
+- [Glossary](notes/Glossary.md)
 - Methodologies
 	- [HGP Method](notes/HGP%20Method.md)
 	- [Texts, Paratexts and Blocks](notes/Texts,%20Paratexts%20and%20Blocks.md)

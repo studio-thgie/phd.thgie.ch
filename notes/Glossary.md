@@ -1,4 +1,4 @@
-# Vocabulary
+# Glossary
 
 ## Visuality
 - animetism (Thomas Lamarre)
