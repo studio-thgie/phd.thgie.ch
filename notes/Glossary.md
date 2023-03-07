@@ -30,3 +30,8 @@
 - [Aura](notes/Aura.md)
 - [Assemblage](notes/Assemblage.md)
 - [Articulation](notes/Articulation.md)
+
+## Design Research
+- [[Authenticity]]
+- [Multimodality](notes/Multimodality.md)
+- [Semiotics](notes/Semiotics.md)

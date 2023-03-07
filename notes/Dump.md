@@ -4,6 +4,11 @@ title: Dump
 ---
 
 # Dump
+## 2023-03-07
+- My gut feeling tells me, there is some interesting link between authenticity, [emulation](notes/Emulation.md) and [semiotics](notes/Semiotics.md), in regards to the image.
+- How to machine assisted semiology in traversing large archives of pop-cultural images?
+- Are video games multimodal?
+
 ## 2023-02-27
 Where is the invisible labour in all of these games? Can we avoid recreating a narrative of white and priviledged men? Why are the gameworls we look at mostly about shooting, and scifi, economics and such things, traditionally ascribed to masculinity?
 
