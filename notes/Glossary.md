@@ -32,6 +32,6 @@
 - [Articulation](notes/Articulation.md)
 
 ## Design Research
-- [[Authenticity]]
+- [Authenticity](notes/Authenticity.md)
 - [Multimodality](notes/Multimodality.md)
 - [Semiotics](notes/Semiotics.md)
