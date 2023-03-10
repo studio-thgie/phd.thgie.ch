@@ -36,4 +36,4 @@
 - [Multimodality](notes/Multimodality.md)
 - [Networked Image](notes/Networked%20Image.md)
 - [Semiotics](notes/Semiotics.md)
-- 
+- [Pixel](notes/Pixel.md)
