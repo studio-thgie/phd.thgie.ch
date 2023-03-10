@@ -34,4 +34,6 @@
 ## Design Research
 - [Authenticity](notes/Authenticity.md)
 - [Multimodality](notes/Multimodality.md)
+- [Networked Image](notes/Networked%20Image.md)
 - [Semiotics](notes/Semiotics.md)
+- 
