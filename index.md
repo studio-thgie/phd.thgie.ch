@@ -8,4 +8,4 @@ What's this about? Some places to start
 - [Dump](notes/Dump.md)
 - [Game Studies](notes/Game%20Studies.md)
 - [Visuality in Video Games](notes/Visuality%20in%20Video%20Games.md)
-- Testing this
+- Testing this.
