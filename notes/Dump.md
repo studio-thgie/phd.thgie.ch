@@ -4,6 +4,12 @@ title: Dump
 ---
 
 # Dump
+## 2023-03-24
+- What's the impact of loading times on the game experience?
+
+## 2023-03-17
+- If the [research of Fabian Sanglard](https://fabiensanglard.net/) shows one thing, then that the visuality of video games is inherently linked to materiality. There is not one without the other.
+
 ## 2023-03-07
 - My gut feeling tells me, there is some interesting link between authenticity, [emulation](notes/Emulation.md) and [semiotics](notes/Semiotics.md), in regards to the image.
 - How to machine assisted semiology in traversing large archives of pop-cultural images?
