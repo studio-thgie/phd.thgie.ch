@@ -15,3 +15,11 @@
 - Emulation then becomse semiological infrastructure
 	- Case Amiga Emulation (the past that was)
 	- Case https://www.emuvr.net/ (that past that is an imagined possibility)
+
+## Thoughts
+- Emulation as semiological infrastructure
+- Ever growing field of software and devices that enable a re-enactment of the past
+- Emulation as important for research as for players
+- https://www.emuvr.net/
+- pixel aesthetics, came into being because of techno historic limits. They are still present in emulation despite that today's systems could easily interpolate and enhance graphics. What is the semiology of pixel aesthetics?
+>>>>>>> 2fba58445ff5518d7c946acdf1476b18b5f9bafa
