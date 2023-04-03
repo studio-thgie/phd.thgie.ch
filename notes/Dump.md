@@ -4,6 +4,9 @@ title: Dump
 ---
 
 # Dump
+## 2023-03-30
+How is visual meaning derrived from code? How does code turn into meaningful visuality?
+
 ## 2023-03-24
 - What's the impact of loading times on the game experience?
 
