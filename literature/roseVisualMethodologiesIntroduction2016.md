@@ -12,7 +12,7 @@ tags: [Media Studies, Visual Literacy, Visual Analysis, Visual Studies]
 - [Reading Notes](#reading-notes)
 
 ## Bibliography
-Rose, G. (2016). _Visual methodologies: An introduction to researching with visual materials_ (4th edition). SAGE Publications Ltd. [http://study.sagepub.com/rose4e](http://study.sagepub.com/rose4e)
+
 
 ## Abstract
 "Now in its Fourth Edition, Visual Methodologies: An Introduction to Researching with Visual Methodologies is a bestselling critical guide to the study and analysis of visual culture. Existing chapters have been fully updated to offer a rigorous examination and demonstration of an individual methodology in a clear and structured style. Reflecting changes in the way society consumes and creates its visual content, new features include: Brand new chapters dealing with social media platforms, the development of digital methods and the modern circulation and audiencing of research images. More 'Focus' features covering interactive documentaries, digital story-telling and participant mapping. A Companion Website featuring links to useful further resources relating to each chapter. A now classic text, Visual Methodologies appeals to undergraduates, graduates, researchers and academics across the social sciences and humanities who are looking to get to grips with the complex debates and ideas in visual analysis and interpretation"-- Publisher
@@ -158,9 +158,53 @@ That said, of late the terminology “ideological complex” is used in order to
 -   Semiology often focuses on the site of the image itself, as the place where meaning resides and has a good look at the compositional as well as social modality. 
 -   A good amount of semiologic approaches focus on the social modality at the other sites, ie audiencing, giving way to **social semiotics**.
 
-Social semiotics concentrates on the act of doing meanings, instead of the sign/the meaning itself. On the downside, semiology is heavily theoretical loaded and uses a distinct analytical vocabulary, which makes it a very elaborate and work-intensive methodology.
+Social semiotics concentrates on the act of doing meanings, instead of the sign/the meaning itself. On the downside, semiology is heavily theoretical loaded and uses a distinct analytical vocabulary, which makes it a very elaborate and work-intensive methodology. 
+
+## 8 Discourse Analysis 1 - Text, intertextuality and context
+
+Concentrates on how texts are involved in the construction of social difference, hence, concentrates on power relations and their politics. One of this methods main intellectual is Michel Foucault. He saw discourse as a form of discipline, hence the focus on power.
+
+-   discourse: groups of statements that structure the way a thing is thought, and the way we act on the basis of that thinking
+-   intertextuality: the meaning of a text depends on a meaning of another text
+-   discursive formation: how meanings in a particular discourse are linked together
+-   power: is not only applied top down, but is present everywhere, as there is discourse everywhere
+-   power/knowledge constitute each other
+-   regimes of truth: knowledge is power because it defines what is true
+
+Discourse produces the world as it understands it. Foucault said that painting “is discursive practice that is embodied in techniques and effects”. That said, he was rejecting methodological and theoretical analysis and focused mainly on how the power in question works.
+
+-   How do images construct accounts of the social world? The discourse analyst focus is on the image itself and its social modality.
+-   “In particular, discourse analysis explores how those specific views or accounts are constructed as real or truthful or natural through particular regimes of truth”
+-   iconography shares some approaches with discourse analysis, especially intertextuality: how were symbols and signs understood by their contemporary audience. Panofsky differentiated three ways of interpretation.
+    
+    -   primary, natural, pre-iconographic
+    -   secondary, conventional, iconographic
+    -   intrinsic, symbolic, iconological
+
+### How to discourse analysis 1
+
+-   sources are eclectic and intertextual: look for “coherent pattern of statements across a range of archives and sites”
+-   after the establishing some of the more obvious sources, start to widen. this can be time-consuming and one of the difficulties is to know, when to stop gathering sources
+-   Cowling: look and state commonalities in the different texts
+-   look at your sources with fresh eyes, forget all preconceptions
+-   immerse yourself in the sources; read and re-read them again and again, look carefully
+-   identify key themes
+-   how do these produce their effects of truth; look for processes of persuasion (works that try to establish truth dominance, ie “scientific” studies)
+-   also look at complexity and contradictions within a given discourse; also called interpretative repertoire
+-   last but not least, look for invisibility; that which is not seen or said
+-   read your sources with great care for detail
+
+An important aspect is to find the institutional location of a discourse, to locate the social site from where particular statements are made, what social authority authors of a statement have.
+
+### How to be reflexive
+
+-   acknowledge the choices made, open up your work to other readings, be aware of the engagements of your own works with others
+-   use detailed evidence to support arguments
+-   coherence towards the discourse, the analysis, the study itself in relation to previous research
+-   examine deviations to the studied discourse
+-   acknowledge your own, and your institution’s, part in the study
 
 ## Related
 %% begin related %%%% end related %%
 
-%% Import Date: 2023-02-22T14:39:58.520+01:00 %%
+%% Import Date: 2023-04-10T09:32:25.292+02:00 %%
