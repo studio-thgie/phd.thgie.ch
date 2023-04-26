@@ -1,3 +1,7 @@
+---
+tags: Glossary
+---
+# Game Space
 > video game spaces are understood to be the procedural outcomes of geometrically articulated orders derived from using program code and the physics of game engines. But, video game spaces are more than simply the sum of their code – they are experiential spaces generated through code and the player’s interaction with the execution of that code through the medium of the screen.
 
 - https://www.gamestudies.org/0302/taylor/

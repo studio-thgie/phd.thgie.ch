@@ -1,3 +1,6 @@
+---
+tags: Glossary, Visuality
+---
 # Ergodic Animage
 The two terms composing ergodic animage are defined as following.
 

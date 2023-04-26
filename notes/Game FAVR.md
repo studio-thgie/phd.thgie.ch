@@ -1,4 +1,7 @@
-# The Game FAVR
+---
+tags: Glossary, Methods
+---
+# Game FAVR
 > Arsenault, D., Côté, P.-M., & Larochelle, A. (2015). _The Game FAVR: A Framework for the Analysis of Visual Representation in Video Games_.
 
 - Reading notes under [arsenaultGameFAVRFramework2015](literature/arsenaultGameFAVRFramework2015.md).

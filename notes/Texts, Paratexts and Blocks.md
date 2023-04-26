@@ -1,3 +1,6 @@
+---
+tags: Notes
+---
 # Texts, Paratexts and Blocks
 ## Introduction to Game Analysis
 

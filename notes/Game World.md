@@ -1,3 +1,6 @@
+---
+tags: Glossary
+---
 # Game World
 > A game world is a place of imagination and is usually placed in an alternate fictional universe and its aim is to immerse the player and make them feel as if they are in control of this game world with their decisions and actions affecting everything around them.
 

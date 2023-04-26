@@ -1,6 +1,7 @@
 ---
 title: Video Games
 author: Adrian Demleitner
+tags: Notes
 ---
 # Video Games
 | File                                                      | System                   | Genre       | Year | Actants                                                           | Studio                |

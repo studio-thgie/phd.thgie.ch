@@ -1,3 +1,6 @@
+---
+tags: Glossary
+---
 # Multimodality
 The anthropological concept of multimodality raises interesting questions when applied to video [game studies](notes/Game%20Studies.md).
 

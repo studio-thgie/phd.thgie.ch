@@ -17,8 +17,6 @@ I screamed of joy. What a fantastic game. It has a very hollistic UI, everything
 
 The Amiga version was ported from Atari ST. The porting team [added a new intro](https://www.youtube.com/watch?v=OZqoEipRP78). More information on the process can be found on the website from [Christian Haller](actants/Christian%20Haller.md).
 
-
-
 ## Sources
 - https://amiga.haller.ch/index.php/amiga-games/eliminator-1988
 - https://www.lemonamiga.com/games/reviews/view.php?id=116

@@ -1,3 +1,6 @@
+---
+tags: Glossary
+---
 # Pixel
 A pixel is a point in space rather then a little square. An image is then reconstructed from point samples, using different reconstruction filters. On of the poorest of these is the box filter. This on just applies a box to a point sample.
 

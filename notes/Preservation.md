@@ -1,3 +1,6 @@
+---
+tags: Glossary
+---
 # Preservation
 
 ## [Assembling Auras](literature/guay-belangerAssemblingAurasMethodology2022.md)

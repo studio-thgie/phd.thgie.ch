@@ -1,3 +1,6 @@
+---
+tags: Glossary
+---
 # Metadata
 If I'm not mistaken, not to much has been done on the subject of image metadata ontologies specifically for video games. It would be interesting to develop some templates for Tropy. In general I see that there is some work to be done here that I could use for my dissertation.
 

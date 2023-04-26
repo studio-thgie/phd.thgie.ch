@@ -1,3 +1,6 @@
+---
+tags: Glossary
+---
 # Diegisis
 > The terms are used in film theory to separate elements that can be said to be part of the depicted fictional world [diegetic] from elements that the fictional characters cannot see or hear [non-diegetic] and which should be considered non-existent in the fictional world (Bordwell, 1986; Bordwell & Thompson, 1997)
 

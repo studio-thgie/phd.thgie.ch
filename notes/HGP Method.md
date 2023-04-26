@@ -1,3 +1,6 @@
+---
+tags: Glossary, Methods
+---
 # HGP (Horror Game Politics) Method
 
 > Pfister, E. (n.d.). How to analyse a Video game from a historical, source-critical perspective: The HGP-Method [Billet]. _Horror - Game - Politics_. Retrieved 17 September 2022, from [https://hgp.hypotheses.org/1754](https://hgp.hypotheses.org/1754)

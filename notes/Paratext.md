@@ -1,3 +1,6 @@
+---
+tags: Glossary
+---
 # Paratext
 
 > “formulates a simple algorithm that governs the whole of Paratexts: Paratext = peritext + epitext. The peritext includes elements ‘inside’ the confines of a bound volumeeverything between and on the covers, as it were. The epitext, then, denotes elements ‘outside’ the bound volume—public or private elements such as interviews, reviews, correspondence, diaries etc.—although Genette does comment that ‘in principle, every context serves as a paratext.’” (Koenig-Woodyard, 1999)

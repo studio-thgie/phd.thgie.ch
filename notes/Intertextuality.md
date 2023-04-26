@@ -1,3 +1,6 @@
+---
+tags: Glossary
+---
 # Intertextuality
 
 > ‘meaning in a text can only ever be understood in relation to other texts; no work stands alone but is interlinked with the tradition that came before it and the context in which it is produced’ (Allen, 2000, p. i)

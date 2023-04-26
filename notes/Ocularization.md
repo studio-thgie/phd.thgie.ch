@@ -1,3 +1,6 @@
+---
+tags: Glossary
+---
 # Ocularization
 In video game studies, ocularization “describes the player’s visual positioning regarding his access to the implied game environment” (Arsenault et al., 2015, p. 109)
 

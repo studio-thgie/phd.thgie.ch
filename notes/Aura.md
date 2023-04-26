@@ -1,3 +1,6 @@
+---
+tags: Glossary
+---
 # Aura
 
 > “Games are much more than entertainment; they are art, they are software, but they are also inherently social. They are represented in movies and books and are the source for a plethora of derivative material, such as clothing and toys. All of which hold on to the game’s aura.” ([Guay-Bélanger, 2022, p. 667](zotero://select/library/items/D5S5C3ZS))

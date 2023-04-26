@@ -1,3 +1,6 @@
+---
+tags: Glossary
+---
 # Assemblage
 
 > “DeLanda defines assemblages as ‘wholes whose properties emerge from the interactions between parts’.” ([Guay-Bélanger, 2022, p. 668](zotero://select/library/items/D5S5C3ZS))
