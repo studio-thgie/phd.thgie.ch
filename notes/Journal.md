@@ -6,6 +6,7 @@ author: Adrian Demleitner
 | Title                                                               | Date               | Tags                          |
 | ------------------------------------------------------------------- | ------------------ | ----------------------------- |
 | [Memo on Videospiele by Jakob Birken](journal/2023-04-08.md)      | April 08, 2023     | digital image, image cultures |
+| [VICE and Voyant Tools](journal/2023-05-07.md)                    | April 08, 2023     | vice, voyant                  |
 | [Diss-Storming Session](journal/2023-03-31.md)                    | March 31, 2023     | dissertation, brainstorming   |
 | [March Reflection on Dissertation Topic](journal/2023-03-23.md)   | March 23, 2023     | dissertation, reflection      |
 | [Corpus, corpora and visual methodologies](journal/2023-03-10.md) | March 10, 2023     | corpus, corpora, ball-raider  |
@@ -16,6 +17,8 @@ author: Adrian Demleitner
 | [Kick-off](journal/2023-02-01.md)                                 | February 01, 2023  | goals                         |
 | [Another Proposal Sketch](journal/2022-09-30.md)                  | September 30, 2022 | dissertation, proposal        |
 | [Proposal Sketch](journal/2022-09-24.md)                          | September 24, 2022 | dissertation, proposal        |
+
+
 
 
 
