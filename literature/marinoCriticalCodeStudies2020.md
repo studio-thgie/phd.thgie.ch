@@ -2,7 +2,7 @@
 title: "Critical code studies"
 authors: "Mark C. Marino"
 year: 2020
-tags: [Rhetoric, Codierung, Coding theory Philosophy, COMPUTER SCIENCE/General, Computer software Social aspects, COMPUTERS Programming General, DIGITAL HUMANITIES & NEW MEDIA/New Media Theory, DIGITAL HUMANITIES & NEW MEDIA/Software Studies, Hermeneutik, Logiciels Aspect social, Programmanalyse, Programming languages (Electronic computers), Rhétorique]
+tags: [Rhetoric, Coding theory Philosophy, Computer software Social aspects, Hermeneutik, Programmanalyse, New Media Theory, Programming languages]
 ---
 # Critical code studies
 
@@ -24,4 +24,4 @@ tags: [Rhetoric, Codierung, Coding theory Philosophy, COMPUTER SCIENCE/General, 
 ## Related
 %% begin related %%%% end related %%
 
-%% Import Date: 2023-04-20T17:19:28.611+02:00 %%
+%% Import Date: 2023-05-17T15:01:50.491+02:00 %%
