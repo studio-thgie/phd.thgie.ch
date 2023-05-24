@@ -66,8 +66,9 @@ def search_and_copy_files(folder_path, regex_pattern):
 
                 # Open the new file for writing
                 with open(new_file_path, 'w') as new_file:
-                    # Write the matching content to the new file
-                    new_file.write('\n'.join(matches))
+                    # Write the matching content to the new file and remove license stuff
+                    comments = re.sub(r" \*? {1,2}This [VICE|file|library|program][\s\S]*(USA|licenses\/>)\.?", '', '\n'.join(matches))
+                    new_file.write(comments)
 
                 print(f"Matches found in {filename}. Copied to {new_filename}")
 
@@ -79,4 +80,33 @@ regex_pattern = re.compile(r'/\*(.*?)\*/', re.DOTALL)
 search_and_copy_files(folder_path, regex_pattern)
 ```
 
-I already had the regex pattern in place. After the clean-up, I loaded everything into a new corpus and started to play a bit. It shows that I don't have much experience with text mining, but at least it already seemed more meaningful. This new corpus, based just on the comment, will be the starting point for a later exploration.
+I already had the regex pattern in place. After the clean-up, I loaded everything into a new corpus and started to play a bit. It indicates that I don't have much experience with text mining, but at least it already seemed more meaningful. This new corpus, based just on the comment, will be the starting point for a later exploration.
+
+## 2023-05-24
+I worked on the python script to also remove the licence from the text files. Since they have been present in every document, they clogged up Voyant Tools with their presence. The script block in the former log entry is updated accordingly. Spinning up Voyant with this cleaned up corpus feels at least like a proper text.
+
+Not advancing with reading the corpus through Voyant Tools. The comments are heavily segmented and include plenty of technical terms. Often the comments are brief and referential, respectively, again coded. Examples include what type a function is – peek, open, init, close, store, read, reset, and my favourite the "NO poke function".
+
+**What style and what intent drives a comment?** Of course brevity and precision, but many comments wouldn't fit one or the other. Some comments indicate what should happen, or comment the process along the lines of code.
+
+> detect 35..42 track d64 image, determine image parameters.
+			 Walk from 35 to 42, calculate expected image file size for each track,
+			 and compare this with the size of the given image. 
+		start at track 35 
+		check if image matches "checkimage_tracks" 
+		image file matches size-with-no-error-info 
+		image file matches size-with-error-info 
+		try next track (all tracks from 35 to 42 have 17 blocks) 
+		we tried them all up to 42, none worked, image must be corrupt 
+
+Then again, other comments tell little stories.
+
+> HACK: if the image has an error map, and the "FDC" did not detect an
+		error in the GCR stream, use the error from the error map instead.
+		FIXME: what should really be done is encoding the errors from the
+		error map into the GCR stream. this is a lot more effort and will
+		give the exact same results, so i will leave it to someone else :)
+
+There are also strong indications that different authors follow different comment styles and approaches.
+
+Maybe I'll research around VICE next to get a better picture. Since critical code analysis is an interpretative method, it “requires reading an object in its (post)human context through a particular critical lens.” (Marino, 2012, p. 15) Community, history, but also the embeded values and frame of reference will be important.
