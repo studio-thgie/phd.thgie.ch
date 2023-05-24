@@ -150,23 +150,68 @@
 <span id="cb1-26"><a href="/notes/VICE and Voyant Tools.html#cb1-26" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-27"><a href="/notes/VICE and Voyant Tools.html#cb1-27" aria-hidden="true" tabindex="-1"></a>                <span class="co"># Open the new file for writing</span></span>
 <span id="cb1-28"><a href="/notes/VICE and Voyant Tools.html#cb1-28" aria-hidden="true" tabindex="-1"></a>                <span class="cf">with</span> <span class="bu">open</span>(new_file_path, <span class="st">&#39;w&#39;</span>) <span class="im">as</span> new_file:</span>
-<span id="cb1-29"><a href="/notes/VICE and Voyant Tools.html#cb1-29" aria-hidden="true" tabindex="-1"></a>                    <span class="co"># Write the matching content to the new file</span></span>
-<span id="cb1-30"><a href="/notes/VICE and Voyant Tools.html#cb1-30" aria-hidden="true" tabindex="-1"></a>                    new_file.write(<span class="st">&#39;</span><span class="ch">\n</span><span class="st">&#39;</span>.join(matches))</span>
-<span id="cb1-31"><a href="/notes/VICE and Voyant Tools.html#cb1-31" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-32"><a href="/notes/VICE and Voyant Tools.html#cb1-32" aria-hidden="true" tabindex="-1"></a>                <span class="bu">print</span>(<span class="ss">f&quot;Matches found in </span><span class="sc">{</span>filename<span class="sc">}</span><span class="ss">. Copied to </span><span class="sc">{</span>new_filename<span class="sc">}</span><span class="ss">&quot;</span>)</span>
-<span id="cb1-33"><a href="/notes/VICE and Voyant Tools.html#cb1-33" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-34"><a href="/notes/VICE and Voyant Tools.html#cb1-34" aria-hidden="true" tabindex="-1"></a><span class="co"># Specify the folder path and regex pattern</span></span>
-<span id="cb1-35"><a href="/notes/VICE and Voyant Tools.html#cb1-35" aria-hidden="true" tabindex="-1"></a>folder_path <span class="op">=</span> <span class="st">&#39;files/&#39;</span></span>
-<span id="cb1-36"><a href="/notes/VICE and Voyant Tools.html#cb1-36" aria-hidden="true" tabindex="-1"></a>regex_pattern <span class="op">=</span> re.<span class="bu">compile</span>(<span class="vs">r&#39;/\*(.*?)\*/&#39;</span>, re.DOTALL)</span>
-<span id="cb1-37"><a href="/notes/VICE and Voyant Tools.html#cb1-37" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-38"><a href="/notes/VICE and Voyant Tools.html#cb1-38" aria-hidden="true" tabindex="-1"></a><span class="co"># Call the function to search and copy files</span></span>
-<span id="cb1-39"><a href="/notes/VICE and Voyant Tools.html#cb1-39" aria-hidden="true" tabindex="-1"></a>search_and_copy_files(folder_path, regex_pattern)</span></code></pre></div>
+<span id="cb1-29"><a href="/notes/VICE and Voyant Tools.html#cb1-29" aria-hidden="true" tabindex="-1"></a>                    <span class="co"># Write the matching content to the new file and remove license stuff</span></span>
+<span id="cb1-30"><a href="/notes/VICE and Voyant Tools.html#cb1-30" aria-hidden="true" tabindex="-1"></a>                    comments <span class="op">=</span> re.sub(<span class="vs">r&quot; \*? {1,2}This [VICE|file|library|program][\s\S]*(USA|licenses\/&gt;)\.?&quot;</span>, <span class="st">&#39;&#39;</span>, <span class="st">&#39;</span><span class="ch">\n</span><span class="st">&#39;</span>.join(matches))</span>
+<span id="cb1-31"><a href="/notes/VICE and Voyant Tools.html#cb1-31" aria-hidden="true" tabindex="-1"></a>                    new_file.write(comments)</span>
+<span id="cb1-32"><a href="/notes/VICE and Voyant Tools.html#cb1-32" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-33"><a href="/notes/VICE and Voyant Tools.html#cb1-33" aria-hidden="true" tabindex="-1"></a>                <span class="bu">print</span>(<span class="ss">f&quot;Matches found in </span><span class="sc">{</span>filename<span class="sc">}</span><span class="ss">. Copied to </span><span class="sc">{</span>new_filename<span class="sc">}</span><span class="ss">&quot;</span>)</span>
+<span id="cb1-34"><a href="/notes/VICE and Voyant Tools.html#cb1-34" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-35"><a href="/notes/VICE and Voyant Tools.html#cb1-35" aria-hidden="true" tabindex="-1"></a><span class="co"># Specify the folder path and regex pattern</span></span>
+<span id="cb1-36"><a href="/notes/VICE and Voyant Tools.html#cb1-36" aria-hidden="true" tabindex="-1"></a>folder_path <span class="op">=</span> <span class="st">&#39;files/&#39;</span></span>
+<span id="cb1-37"><a href="/notes/VICE and Voyant Tools.html#cb1-37" aria-hidden="true" tabindex="-1"></a>regex_pattern <span class="op">=</span> re.<span class="bu">compile</span>(<span class="vs">r&#39;/\*(.*?)\*/&#39;</span>, re.DOTALL)</span>
+<span id="cb1-38"><a href="/notes/VICE and Voyant Tools.html#cb1-38" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-39"><a href="/notes/VICE and Voyant Tools.html#cb1-39" aria-hidden="true" tabindex="-1"></a><span class="co"># Call the function to search and copy files</span></span>
+<span id="cb1-40"><a href="/notes/VICE and Voyant Tools.html#cb1-40" aria-hidden="true" tabindex="-1"></a>search_and_copy_files(folder_path, regex_pattern)</span></code></pre></div>
         <p>I already had the regex pattern in place. After the clean-up,
         I loaded everything into a new corpus and started to play a bit.
-        It shows that I don’t have much experience with text mining, but
-        at least it already seemed more meaningful. This new corpus,
+        It indicates that I don’t have much experience with text mining,
+        but at least it already seemed more meaningful. This new corpus,
         based just on the comment, will be the starting point for a
         later exploration.</p>
+        <h2 id="section-2">2023-05-24</h2>
+        <p>I worked on the python script to also remove the licence from
+        the text files. Since they have been present in every document,
+        they clogged up Voyant Tools with their presence. The script
+        block in the former log entry is updated accordingly. Spinning
+        up Voyant with this cleaned up corpus feels at least like a
+        proper text.</p>
+        <p>Not advancing with reading the corpus through Voyant Tools.
+        The comments are heavily segmented and include plenty of
+        technical terms. Often the comments are brief and referential,
+        respectively, again coded. Examples include what type a function
+        is – peek, open, init, close, store, read, reset, and my
+        favourite the “NO poke function”.</p>
+        <p><strong>What style and what intent drives a comment?</strong>
+        Of course brevity and precision, but many comments wouldn’t fit
+        one or the other. Some comments indicate what should happen, or
+        comment the process along the lines of code.</p>
+        <blockquote>
+        <p>detect 35..42 track d64 image, determine image parameters.
+        Walk from 35 to 42, calculate expected image file size for each
+        track, and compare this with the size of the given image. start
+        at track 35 check if image matches “checkimage_tracks” image
+        file matches size-with-no-error-info image file matches
+        size-with-error-info try next track (all tracks from 35 to 42
+        have 17 blocks) we tried them all up to 42, none worked, image
+        must be corrupt</p>
+        </blockquote>
+        <p>Then again, other comments tell little stories.</p>
+        <blockquote>
+        <p>HACK: if the image has an error map, and the “FDC” did not
+        detect an error in the GCR stream, use the error from the error
+        map instead. FIXME: what should really be done is encoding the
+        errors from the error map into the GCR stream. this is a lot
+        more effort and will give the exact same results, so i will
+        leave it to someone else :)</p>
+        </blockquote>
+        <p>There are also strong indications that different authors
+        follow different comment styles and approaches.</p>
+        <p>Maybe I’ll research around VICE next to get a better picture.
+        Since critical code analysis is an interpretative method, it
+        “requires reading an object in its (post)human context through a
+        particular critical lens.” (Marino, 2012, p. 15) Community,
+        history, but also the embeded values and frame of reference will
+        be important.</p>
     </main>
 
     <footer class="text-sm">
