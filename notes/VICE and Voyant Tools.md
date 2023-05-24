@@ -89,22 +89,22 @@ Not advancing with reading the corpus through Voyant Tools. The comments are hea
 
 **What style and what intent drives a comment?** Of course brevity and precision, but many comments wouldn't fit one or the other. Some comments indicate what should happen, or comment the process along the lines of code.
 
-> detect 35..42 track d64 image, determine image parameters.
-			 Walk from 35 to 42, calculate expected image file size for each track,
-			 and compare this with the size of the given image. 
-		start at track 35 
-		check if image matches "checkimage_tracks" 
-		image file matches size-with-no-error-info 
-		image file matches size-with-error-info 
-		try next track (all tracks from 35 to 42 have 17 blocks) 
+> detect 35..42 track d64 image, determine image parameters.<br>
+			 Walk from 35 to 42, calculate expected image file size for each track,<br>
+			 and compare this with the size of the given image. <br>
+		start at track 35 <br>
+		check if image matches "checkimage_tracks" <br>
+		image file matches size-with-no-error-info <br>
+		image file matches size-with-error-info <br>
+		try next track (all tracks from 35 to 42 have 17 blocks) <br>
 		we tried them all up to 42, none worked, image must be corrupt 
 
 Then again, other comments tell little stories.
 
-> HACK: if the image has an error map, and the "FDC" did not detect an
-		error in the GCR stream, use the error from the error map instead.
-		FIXME: what should really be done is encoding the errors from the
-		error map into the GCR stream. this is a lot more effort and will
+> HACK: if the image has an error map, and the "FDC" did not detect an<br>
+		error in the GCR stream, use the error from the error map instead.<br>
+		FIXME: what should really be done is encoding the errors from the<br>
+		error map into the GCR stream. this is a lot more effort and will<br>
 		give the exact same results, so i will leave it to someone else :)
 
 There are also strong indications that different authors follow different comment styles and approaches.
