@@ -7,6 +7,7 @@
 | [Authenticity](notes/Authenticity.md)                     | Glossary            |
 | [Critical Code Analysis](notes/Critical%20Code%20Analysis.md) | Glossary, Methods   |
 | [Diegesis](notes/Diegesis.md)                             | Glossary            |
+| [Discourse Analysis](notes/Discourse%20Analysis.md)         | Glossary, Methods   |
 | [Emulation](notes/Emulation.md)                           | Glossary            |
 | [Ergodic Animage](notes/Ergodic%20Animage.md)               | Glossary, Visuality |
 | [Game FAVR](notes/Game%20FAVR.md)                           | Glossary, Methods   |
@@ -20,15 +21,14 @@
 | [Networked Image](notes/Networked%20Image.md)               | Glossary, Visuality |
 | [Ocularization](notes/Ocularization.md)                   | Glossary            |
 | [Paratext](notes/Paratext.md)                             | Glossary            |
+| [Performativity](notes/Performativity.md)                 | Glossary            |
 | [Pixel](notes/Pixel.md)                                   | Glossary            |
 | [Preservation](notes/Preservation.md)                     | Glossary            |
+| [Rhetorics](notes/Rhetorics.md)                           | Glossary            |
 | [Semiotics](notes/Semiotics.md)                           | Glossary, Methods   |
 | [Spaces](notes/Spaces.md)                                 | Glossary            |
 | [Visuality](notes/Visuality.md)                           | Glossary, Notes     |
-| [Discourse Analysis](notes/Discourse%20Analysis.md)         | Glossary, Methods   |
-
-
-
+| [Design Rhetoric](notes/Design%20Rhetoric.md)               | Glossary            |
 
 ## Leftovers
 - animetism (Thomas Lamarre)
