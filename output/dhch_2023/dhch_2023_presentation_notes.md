@@ -1,0 +1,16 @@
+- 5 Slides, 1 minute each
+- 1. slide: introduction
+	- background, ludens
+- 2. slide: dissertation subject
+	- image, resp. visuality in video games
+	- what's on it, why does it exist, how was it made, what does it mean
+	- from code to the image; two halves of a proposed whole
+- 3. slide: research objectives
+	- coding for visuality as a multimodal designerly activity; how this new class of creatives shapes the foundation for image discourses (see pixels and glitches in our aesthetic vocabulary)
+	- translation and transformation of meaning from one semantic system to another
+- 4. slide: methods
+	- lots and lots of critical reading
+	- critical code analysis
+	- design rhetoric and discourse analysis
+- 5. slide: questions
+	- 
