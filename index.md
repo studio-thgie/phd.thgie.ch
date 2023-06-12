@@ -1,4 +1,4 @@
-# On code, visuality and meaning: Interdisciplinary perspectives on the image in Swiss video games pre-2000[^1]
+# Code, visuality and meaning: Interdisciplinary perspectives on the image in Swiss video games pre-2000[^1]
 
 I assume a hitherto invisible rift between the research on the image of the video game and its material base. The image of video games brings with its own specificities. The constituted image, visible on the screen, is being born from the hardware's calculation. It is interactive and as such holds within itself a plurality of different futures, actualizing itself upon the player's input. Research on the image of video games more often than not focuses either on the constituted and visible image, or it's material basis – either on visuality or technology.
 
