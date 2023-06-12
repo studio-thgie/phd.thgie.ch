@@ -1,5 +1,5 @@
 ---
-tags: Glossary
+tags: [Glossary, Notes]
 ---
 # Emulation
 Emulation can make gameplay accessible, but it will also change it. It is thus important to be reflective of that aspect and to contextualize it. It should not be the sole source of analyzing a game. It differs from virtualization. Where as “Virtualization **relies on software to simulate hardware functionality and create a virtual computer system**.” (VMWare)
