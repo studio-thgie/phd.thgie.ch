@@ -1,0 +1,34 @@
+- 30 minutes slot; Q&A?, speaker change
+- ~20 minutes speaking time
+- Total 3504 Words, my part 1050 Words; equals roughly 1/3 or 7 minutes speaking time
+
+## Outline
+- Intro: Demut, Sache, Publikum
+	- auf die schon vorhandenen Datenbanken und Plattformen eingehen um ersichtlich zu machen, warum wir uns an eine eigene gemacht haben
+- Die Frage: Was war eigentlich das Problem
+	- Dreierlei Datenbanken: generelle, Spiel-bezogen und Spiel-bezogen mit Fokus; und dreierlei Probleme
+	- Generelle Wissensdatenbanken
+		- Wikipedia
+		- Problem 1: sehr limitiert, vor allem bezüglich der frühen entwicklungsgeschichte von spielen aus dem deutschsprachigen raum
+	- Spiel-bezogene
+		- Mobygames, UVL
+		- deutschsprachige OGDB, dännisches Play:Right: fehlen von frühen spielen
+		- Problem 2: zwar umfangreich, jedoch schlecht durchsuchbar, Komplexität der Länderzuschreibung
+	- Spiel-bezogene mit Fokus
+		- HOL, Lemon Amiga, Gamebase 64, Atari Mania, C64-Wiki, 
+		- sind generell von der gleichen Problematik geplagt: auch wenn sie besser über frühe spiele informiert sind, lässt der Zugang doch zu wünschen übrig
+		- Problem 3: Wissenschaftlichkeit der Daten
+		- Freiwilligen-Arbeit und dessen problematische Aspekte
+- Erklärung: Was brauchen wir
+	- Inhalt, Zugang, Qualität
+	- Gestaltung und Prozesse der Plattformen sowie Sammlungstätigkeit lassen bez. Wissenschaftlichkeit zu wünschen übrig: Beispiel Mobygames
+	- Gestaltung der Plattformen ebenso aus spezifischen Bedürfnissen der blossen Sammlung und als Nachschlagewerke, jedoch nicht im Bezug auf wissenschaftliches oder journalistisches Arbeiten. Es lassen sich keine Forschungsfragen in Suchanfragen übersetzen
+	- Epistemologie und Datenmodelle von solchen Plattformen
+	- Erwähnte Datenbanken sind vor allem ein gemeinschaftlicher Versuch der digitalen Representation von Informationen zu den Spielen und variieren enorm in Qualität und Normierung. Vieles hängt von den einzelnen Bearbeiter:innen ab.
+- Erläuterung/Ausbli Was machen wir
+	- Kollaboratives Arbeiten
+	- Triangulation von Quellen
+		- Abgleichung mit Datenbanken verschiedener Typen, Informationen aus Magazinen oder paratextuellem Material wie zB Boxscans
+	- SGG und Wikidata als Versuche wissenschaftliche Zugänge zu schaffen 
+		- Swiss Games Garden beinhaltet erste Versuche einer sensiblen Suche, Filterung und Sortierung des beinhalteten Wissen zu Schweizer Videospiele
+		- Wikidata und das Video Games Project

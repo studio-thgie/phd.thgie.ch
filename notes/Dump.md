@@ -4,6 +4,9 @@ title: Dump
 ---
 
 # Dump
+## 2023-06-16
+Why is it, that we have so little C64 games in Switzerland?
+
 ## 2023-05-28
 What is the social relevance of my dissertation approach? I could think of the power in the hands of people who can code in order to produce images. How does this class of creatives structure the image in video games? Maybe there is something to be found in the research on the networked image.
 

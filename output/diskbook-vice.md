@@ -1,3 +1,0 @@
-- Was genau emuliert VICE?
-- Siehe auch „5 global levels of accuracy“ [Tijms 2000]
-- 4.3.4 Emulatoren als epistemische Objekte

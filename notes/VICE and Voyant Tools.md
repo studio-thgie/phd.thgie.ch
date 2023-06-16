@@ -1,3 +1,6 @@
+---
+tags: Notes, Methods
+---
 # VICE and Voyant Tools
 
 ## Journal
