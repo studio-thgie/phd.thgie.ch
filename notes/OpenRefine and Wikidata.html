@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base href="/"/>
+    <title>OpenRefine and Wikidata</title>
+
+    <meta name="generator" content="pandoc" />
+        
+    <link rel="stylesheet" href="/assets/templates/archive.css">
+
+</head>
+<body>
+
+    <nav role="navigation">
+        <ul class="nav-h">
+            <li><a target="_self" href="/">Home</a></li>
+	        <li><a target="_self" href="/notes/Journal.html">Journal</a></li>
+	        <li><a target="_self" href="/notes/Notes.html">Notes</a></li>
+	        <li><a target="_self" href="/notes/Glossary.html">Glossary</a></li>
+        </ul>
+
+    </nav>
+
+    <main role="main">
+        <h1 id="openrefine-and-wikidata">OpenRefine and Wikidata</h1>
+        <p>This entry is a work in progress and will be expanded in the
+        future.</p>
+        <p>I worked extensively with OpenRefine in order to import the
+        CH-part of our <a
+        href="https://spielkult.hypotheses.org/3999">list of digital
+        games from the German-speaking countries</a> into Wikidata.
+        OpenRefine feels a bit like a batch-tool for spreadsheets. It’s
+        main purpose is to cleanup and transform spreadsheet data. It
+        also has this fantastic connection to Wikidata, enabling the
+        user to reconciliate (compare and link) spreadsheet data to
+        entries on Wikidata. After cleanup and reconciliation you then
+        can import your data to Wikidata.</p>
+        <p>This <a
+        href="https://www.youtube.com/watch?v=wfS1qTKFQoI">OpenRefine
+        Beginners Tutorial</a> gave me a good verview on the basics of
+        OpenRefine.</p>
+        <p>After some tryouts, my process looked like this:</p>
+        <ol type="1">
+        <li>Import prepared Google spreadsheet into OpenRefine</li>
+        <li>Split columns where necessary, ie if the platform or
+        developer column contained several comma-separated values. For
+        the reconciliation, a column can only contain one value.</li>
+        <li>Reconciliate the data you want to import. Most importantly
+        the game title column. This one links your row of information to
+        the entry on Wikidata.</li>
+        <li>Built your Wikidata schema of the things you want to import.
+        This is a crucial step and can be messy, ie you have the game
+        developer attribute, but not all the developers in your data
+        exist on Wikidata yet. That might lead to the creation of said
+        developers on Wikidata, but their not automatic reconciliated in
+        your local data. If you don’t reconciliate and import again, the
+        developer might be created again and you have a duplicate on
+        Wikidata.</li>
+        <li>Import your data. That works mostly fine, but I run into a
+        problem when trying to import some new attributes to already
+        existing entries. When no single value was present in a row and
+        it tried to import it anyway, OpenRefine got stuck.</li>
+        </ol>
+        <p>Especially the fourth step is very important to take care of.
+        I organised it such that all linked entries are created first.
+        If I have the attribute developers in my video game scheme, I
+        see that all the mentioned developers exist already on Wikidata.
+        That means that before the main import, you might want to build
+        and import a developing people schema first.</p>
+    </main>
+
+    <footer class="text-sm">
+        <p class="flex">
+        </p>
+        <p>All content, where not noted otherwise on <a href="https://dissertation.thgie.ch">dissertation.thgie.ch</a> is released and distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC-BY-SA 4.0 license</a>.</p>
+    </footer>
+
+    <script>
+
+        document.addEventListener('DOMContentLoaded', () => {
+            document.querySelectorAll('p').forEach(el => {
+                if(el.querySelectorAll('img').length > 1) {
+                    el.classList.add('gallery')
+                }
+            })
+        })
+
+    </script>
+</body>
+</html>
