@@ -237,7 +237,7 @@
         meaningful information through distant reading. A graph based
         approach would be interesting, but then it is definitely not a
         textual reading anymore.</p>
-        <h2 id="section-5">2023-06-18</h2>
+        <h3 id="section-5">2023-06-18</h3>
         <p>I followed my last insight and tried to have a look at the
         VICE source code corpus through the eyes of <a
         href="https://gephi.org/">Gephi</a>, which is a tool for network
@@ -246,8 +246,8 @@
         code files by looking for <code>#includes</code>. The second
         extracts the relation between authors and on which files they
         worked.</p>
-        <h3 id="relations-between-source-code-files">Relations between
-        source code files</h3>
+        <h4 id="relations-between-source-code-files">Relations between
+        source code files</h4>
         <div class="sourceCode" id="cb2"><pre
         class="sourceCode python"><code class="sourceCode python"><span id="cb2-1"><a href="/notes/VICE and Distant Reading.html#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> os</span>
 <span id="cb2-2"><a href="/notes/VICE and Distant Reading.html#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> csv</span>
@@ -271,9 +271,9 @@
 <span id="cb2-20"><a href="/notes/VICE and Distant Reading.html#cb2-20" aria-hidden="true" tabindex="-1"></a>csv_file_path <span class="op">=</span> <span class="st">&#39;gephidata.csv&#39;</span></span>
 <span id="cb2-21"><a href="/notes/VICE and Distant Reading.html#cb2-21" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb2-22"><a href="/notes/VICE and Distant Reading.html#cb2-22" aria-hidden="true" tabindex="-1"></a>extract_includes(folder_path, csv_file_path)</span></code></pre></div>
-        <h3
+        <h4
         id="relations-between-authors-and-source-code-files">Relations
-        between authors and source code files</h3>
+        between authors and source code files</h4>
         <div class="sourceCode" id="cb3"><pre
         class="sourceCode python"><code class="sourceCode python"><span id="cb3-1"><a href="/notes/VICE and Distant Reading.html#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> os</span>
 <span id="cb3-2"><a href="/notes/VICE and Distant Reading.html#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> csv</span>
@@ -317,14 +317,14 @@
 <span id="cb3-40"><a href="/notes/VICE and Distant Reading.html#cb3-40" aria-hidden="true" tabindex="-1"></a>process_folder(folder_path, output_file)</span></code></pre></div>
         <p>The second script needed to accommodate for different ways of
         noting down the authors of a file.</p>
-        <h3 id="visualisation-of-the-two-networks">Visualisation of the
-        two networks</h3>
-        <h4 id="relations-between-files">Relations between files</h4>
+        <h4 id="visualisation-of-the-two-networks">Visualisation of the
+        two networks</h4>
+        <h5 id="relations-between-files">Relations between files</h5>
         <p><img src="assets/Sourcecode.png" /></p>
-        <h4 id="relations-between-author-and-source-files">Relations
-        between author and source files</h4>
+        <h5 id="relations-between-author-and-source-files">Relations
+        between author and source files</h5>
         <p><img src="assets/Authors.png" /></p>
-        <h3 id="quick-insights">Quick Insights</h3>
+        <h4 id="quick-insights">Quick Insights</h4>
         <p>The network between the source files, through act of
         <code>#include</code>, reveals a hot mess. There is no way of
         bringing this corpus into a linear order. There were 2839 nodes
