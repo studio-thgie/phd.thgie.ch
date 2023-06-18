@@ -20,5 +20,5 @@ The community behind the emulator is well established and visible under [Acknowl
 
 ## Related
 - [Emulation](notes/Emulation.md)
-- [VICE and Voyant Tools](notes/VICE%20and%20Voyant%20Tools.md)
+- [VICE and Distant Reading](notes/VICE%20and%20Distant%20Reading.md)
 - [André Fachats insightful text on aspects of the VICE emulator](literature/holtgenShiftRestoreEscapeRetrocomputingUnd2014.md) 

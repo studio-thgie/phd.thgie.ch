@@ -6,4 +6,4 @@
 - [diskbook-vice_abstract](output/diskbook-vice/diskbook-vice_abstract.md)
 - [VICE](notes/VICE.md)
 - [Emulation](notes/Emulation.md)
-- [VICE and Voyant Tools](notes/VICE%20and%20Voyant%20Tools.md)
+- [VICE and Distant Reading](notes/VICE%20and%20Distant%20Reading.md)

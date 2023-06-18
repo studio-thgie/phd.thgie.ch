@@ -1,7 +1,7 @@
 ---
 tags: Notes, Methods
 ---
-# VICE and Voyant Tools
+# VICE and Distant Reading
 
 ## Journal
 ### 2023-05-07
@@ -127,6 +127,96 @@ Maybe I'll research around VICE next to get a better picture. Since critical cod
 Expanded [python script ](#python%20script) to split into comments and into code files.
 
 By reading through [André Fachats insightful text on aspects of the VICE emulator](literature/holtgenShiftRestoreEscapeRetrocomputingUnd2014.md) I learned that the V in VICE stands for versatile. That means the emulator incorporates several different Commodore hardware configurations. I guess, this makes it even harder to process meaningful information through distant reading. A graph based approach would be interesting, but then it is definitely not a textual reading anymore.
+
+## 2023-06-18
+I followed my last insight and tried to have a look at the VICE source code corpus through the eyes of [Gephi](https://gephi.org/), which is a tool for network visualisations. I produced two new python scripts. The first script is attempting extracting the relations between the source code files by looking for `#includes`. The second extracts the relation between authors and on which files they worked.
+
+### Relations between source code files
+
+```python
+import os
+import csv
+
+def extract_includes(folder_path, csv_file_path):
+    with open(csv_file_path, 'w', newline='') as csv_file:
+        writer = csv.writer(csv_file, delimiter=';')
+        writer.writerow(['filename', 'value'])  # Write header row
+
+        for root, dirs, files in os.walk(folder_path):
+            for file_name in files:
+                file_path = os.path.join(root, file_name)
+                with open(file_path, 'r') as file:
+                    for line in file:
+                        if line.strip().startswith('#include'):
+                            value = line.strip().split('#include')[1].strip().replace('"','')
+                            writer.writerow([file_name, value])
+
+# Provide the folder path and CSV file path
+folder_path = 'files/'
+csv_file_path = 'gephidata.csv'
+
+extract_includes(folder_path, csv_file_path)
+
+```
+
+### Relations between authors and source code files
+
+```python
+import os
+import csv
+
+def extract_authors(file_path):
+    with open(file_path, 'r') as file:
+        lines = file.readlines()
+
+    authors = []
+    written_by = False
+    for i, line in enumerate(lines):
+        if "\\author" in line:
+            author = line.replace("* \\author ", "").strip()
+            authors.append(author)
+        elif "Written by" in line:
+            written_by = True
+            continue
+        elif written_by and "<" in line:
+            author = line.replace("* ", "").strip()
+            authors.append(author)
+        elif written_by and "<" not in line:
+            written_by = False
+
+    return authors
+
+def process_folder(folder_path, output_file):
+    with open(output_file, 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile, delimiter=';')
+
+        for filename in os.listdir(folder_path):
+            file_path = os.path.join(folder_path, filename)
+            if os.path.isfile(file_path):
+                authors = extract_authors(file_path)
+                if authors:
+                    for author in authors:
+                        writer.writerow([filename, author])
+
+# Example usage:
+folder_path = 'files/'
+output_file = 'authors.csv'
+process_folder(folder_path, output_file)
+```
+
+The second script needed to accommodate for different ways of noting down the authors of a file.
+
+### Visualisation of the two networks
+#### Relations between files
+![](assets/Sourcecode.png)
+
+#### Relations between author and source files
+![](assets/Authors.png)
+
+### Quick Insights
+The network between the source files, through act of `#include`, reveals a hot mess. There is no way of bringing this corpus into a linear order. There were 2839 nodes and 19463 edges. Such a corpus needs to be treated as a hypertext, but I have no idea right now, how to extract meaningful distant readings form such a thing. Nevertheless, it confirmed my assumptions about the non-linearity of the source code. I probably should have thought of that earlier…
+
+The authors networked had 2590 nodes and 3390 edges. In contrast to the source code files networked, this visualisation lead to the clear insight, that just a handful of people developed the majority of the code base, with around five to ten key players. In a quick check I could figure out that more than half of the key players are not listed as "current developers" anymore. It is also the key players which collaborated on files, while also having many areas on their own. I believe a clustering by functional area within the VICE emulator could be interesting here.
 
 ## Related
 - [Sourcecode as Text](notes/Sourcecode%20as%20Text.md)
