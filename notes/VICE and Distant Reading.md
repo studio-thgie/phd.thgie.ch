@@ -128,10 +128,10 @@ Expanded [python script ](#python%20script) to split into comments and into code
 
 By reading through [André Fachats insightful text on aspects of the VICE emulator](literature/holtgenShiftRestoreEscapeRetrocomputingUnd2014.md) I learned that the V in VICE stands for versatile. That means the emulator incorporates several different Commodore hardware configurations. I guess, this makes it even harder to process meaningful information through distant reading. A graph based approach would be interesting, but then it is definitely not a textual reading anymore.
 
-## 2023-06-18
+### 2023-06-18
 I followed my last insight and tried to have a look at the VICE source code corpus through the eyes of [Gephi](https://gephi.org/), which is a tool for network visualisations. I produced two new python scripts. The first script is attempting extracting the relations between the source code files by looking for `#includes`. The second extracts the relation between authors and on which files they worked.
 
-### Relations between source code files
+#### Relations between source code files
 
 ```python
 import os
@@ -159,7 +159,7 @@ extract_includes(folder_path, csv_file_path)
 
 ```
 
-### Relations between authors and source code files
+#### Relations between authors and source code files
 
 ```python
 import os
@@ -206,14 +206,14 @@ process_folder(folder_path, output_file)
 
 The second script needed to accommodate for different ways of noting down the authors of a file.
 
-### Visualisation of the two networks
-#### Relations between files
+#### Visualisation of the two networks
+##### Relations between files
 ![](assets/Sourcecode.png)
 
-#### Relations between author and source files
+##### Relations between author and source files
 ![](assets/Authors.png)
 
-### Quick Insights
+#### Quick Insights
 The network between the source files, through act of `#include`, reveals a hot mess. There is no way of bringing this corpus into a linear order. There were 2839 nodes and 19463 edges. Such a corpus needs to be treated as a hypertext, but I have no idea right now, how to extract meaningful distant readings form such a thing. Nevertheless, it confirmed my assumptions about the non-linearity of the source code. I probably should have thought of that earlier…
 
 The authors networked had 2590 nodes and 3390 edges. In contrast to the source code files networked, this visualisation lead to the clear insight, that just a handful of people developed the majority of the code base, with around five to ten key players. In a quick check I could figure out that more than half of the key players are not listed as "current developers" anymore. It is also the key players which collaborated on files, while also having many areas on their own. I believe a clustering by functional area within the VICE emulator could be interesting here.
