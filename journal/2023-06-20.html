@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base href="/"/>
+    <title>Close Reading the VICE Source Code</title>
+
+    <meta name="generator" content="pandoc" />
+        <meta name="author" content="Adrian Demleitner" />
+            <meta name="date" content="2023-06-20" />
+    
+    <link rel="stylesheet" href="/assets/templates/archive.css">
+
+</head>
+<body>
+
+    <nav role="navigation">
+        <ul class="nav-h">
+            <li><a target="_self" href="/">Home</a></li>
+	        <li><a target="_self" href="/notes/Journal.html">Journal</a></li>
+	        <li><a target="_self" href="/notes/Notes.html">Notes</a></li>
+	        <li><a target="_self" href="/notes/Glossary.html">Glossary</a></li>
+        </ul>
+
+    </nav>
+
+    <main role="main">
+        <h1 id="close-reading-the-vice-source-code">Close Reading the
+        VICE Source Code</h1>
+        <p>Today I’m attempting to close read the code base of the VICE
+        emulator. I already made some attempts at this through going
+        into the source code <a
+        href="notes/VICE%20and%20Distant%20Reading.html#2023-05-24">author’s
+        comments</a>. Meanwhile, I also read the insightful <a
+        href="literature/holtgenShiftRestoreEscapeRetrocomputingUnd2014.html">text
+        on the VICE project</a> by André Fachat and got a more profound
+        understanding of how an emulator tries to translate electronic
+        processes into software. This first inquiry is guided by
+        questions of visuality.</p>
+        <p>I have to admit that I’m neither fluent in C, the language
+        VICE is written in, nor the Commodore 64 architecture. Starting
+        in <code>video.h</code>, the place where declarations and macros
+        for video are set, I forked into different other aspects. In
+        this exploration, I found a few topics I needed to research and
+        could be interesting for further investigation: VIC-II (Video
+        Interface Chip), Graphic Modes and Bad Lines.</p>
+        <h2 id="context">Context</h2>
+        <ul>
+        <li>Video Interface Chip and Graphic Modes
+        <ul>
+        <li>https://dustlayer.com/vic-ii/2013/4/22/when-visibility-matters</li>
+        <li>https://www.c64-wiki.com/wiki/VIC#VIC-II</li>
+        <li>http://www.cebix.net/VIC-Artikel.txt</li>
+        <li>https://www.c64-wiki.com/wiki/Graphics_Modes</li>
+        <li><a
+        href="https://www.youtube.com/watch?v=KWydVEX0n3g">Displaying
+        Commodore 64 Graphics in BASIC and Assembly</a></li>
+        </ul></li>
+        </ul>
+        <blockquote>
+        <p>The <a href="https://www.c64-wiki.com/wiki/Commodore_64"
+        title="Commodore 64">Commodore 64</a> was designed to deliver a
+        number of official <strong>graphics modes</strong> which provide
+        for combinations of <a
+        href="https://www.c64-wiki.com/wiki/character"
+        title="character">character</a> graphics, <a
+        href="https://www.c64-wiki.com/index.php?title=bitmap&amp;action=edit&amp;redlink=1"
+        title="bitmap (page does not exist)">bitmap</a> graphics and <a
+        href="https://www.c64-wiki.com/wiki/sprite"
+        title="sprite">sprites</a> in single and multicolour. All of
+        which can be mixed. The various modes were implemented using the
+        <a href="https://www.c64-wiki.com/wiki/VIC-II"
+        title="VIC-II">VIC-II</a>. As familiarity with the VIC-II grew,
+        users developed non-official techniques which delivered
+        graphical improvements.</p>
+        </blockquote>
+        <ul>
+        <li>Bad Lines
+        <ul>
+        <li>https://www.c64-wiki.de/wiki/Badline</li>
+        <li>https://web.archive.org/web/20230429180816/https://www.lemon64.com/forum/viewtopic.php?t=71390</li>
+        </ul></li>
+        </ul>
+        <blockquote>
+        <p>A <strong>badline</strong> is a <a
+        href="https://www.c64-wiki.de/wiki/Rasterzeile"
+        title="gridline">gridline</a> in which the <a
+        href="https://www.c64-wiki.de/wiki/Prozessor"
+        title="processor">processor</a> is switched off by the <a
+        href="https://www.c64-wiki.de/wiki/VIC" title="VIC">VIC</a> so
+        that the latter can make more memory accesses. The name comes
+        from the fact that this shutdown messes up the timing of the
+        processor. This is problematic with diskette accesses, for
+        example. Badlines also interfere with many raster tricks. But
+        there are also tricks where you have to create such a line on
+        purpose.</p>
+        </blockquote>
+        <h2 id="discussion">Discussion</h2>
+        <p>I can read the source code as text, but it is tedious and
+        quickly grows in complexity. Without being practically involved,
+        such as working on the code base, it is near impossible to grasp
+        the source code in its entirety. Even though the files are
+        exceptionally well commented with pointers to the code’s
+        functionality, inner workings of processes, but also
+        organizational matters (such as TODOs and FIXMEs) there is so
+        much inherent knowledge of what is doing what.</p>
+        <p>That aside, I was fascinated by the concept of badlines,
+        which are glitches that appear when the video interface
+        controller chip turns off the main CPU to be able to read from
+        memory. Theoretically, the emulation of the C64 system could
+        have fixed that, since today’s system has enough resources and
+        possibilities to enable both emulated chips to read at the same
+        time.</p>
+        <p>An interesting problem arises now because badlines were an
+        essential reality at the time of the physical C64, being part of
+        the experience as a player and also being actively used in
+        producing the graphics on screen. The following post goes into
+        the details of this approach.</p>
+        <blockquote>
+        <p>This post will cover three techniques that violate things the
+        VIC-II thinks ought to be invariants. This puts the chip into
+        unusual states and a few surprising things happen as a result.
+        All of these techniques involve cases where a badline does not
+        actually last the complete line it’s intended to cover. Whether
+        something is a badline is checked <em>continuously</em>, so if
+        the chip’s logic says “wait for a badline to happen, then do
+        this thing” it can be made to happen earlier or later. - <a
+        href="https://bumbershootsoft.wordpress.com/2015/10/18/partial-badlines-glitching-on-purpose/">Partial
+        Badlines: Glitching on Purpose</a></p>
+        </blockquote>
+        <p>These specifics of the hardware of the C64 had to be
+        reimplemented, unquestionably! I was wondering in the end, how
+        such a source code is an <a
+        href="literature/hoeltgenOPENHISTORY2020.html">epistemological
+        object</a>, also for machines. The code base of the VICE
+        essentially describes how the C64 should work, but it is
+        describing it in a language which is equally accessible for
+        humans and machines (the compiler).</p>
+        <p>Finally, I was questioning how fluent I have to get in a
+        programming language to be able to truly critically analyse it.
+        Also, can one memorise a “Choose your own Adventure” book?</p>
+        <h2 id="related">Related</h2>
+        <ul>
+        <li><a href="notes/VICE.html">VICE</a></li>
+        <li><a href="notes/VICE%20and%20Distant%20Reading.html">VICE and
+        Distant Reading</a></li>
+        <li><a href="notes/Critical%20Code%20Analysis.html">Critical Code
+        Analysis</a></li>
+        </ul>
+    </main>
+
+    <footer class="text-sm">
+        <p class="flex">
+        </p>
+        <p>All content, where not noted otherwise on <a href="https://dissertation.thgie.ch">dissertation.thgie.ch</a> is released and distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC-BY-SA 4.0 license</a>.</p>
+    </footer>
+
+    <script>
+
+        document.addEventListener('DOMContentLoaded', () => {
+            document.querySelectorAll('p').forEach(el => {
+                if(el.querySelectorAll('img').length > 1) {
+                    el.classList.add('gallery')
+                }
+            })
+        })
+
+    </script>
+</body>
+</html>
