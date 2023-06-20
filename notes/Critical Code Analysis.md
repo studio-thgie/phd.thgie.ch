@@ -4,7 +4,9 @@ tags: Glossary, Methods
 # Critical Code Analysis
 > is an approach that applies critical hermeneutics to the interpretation of computer code, program architecture, and documentation within a socio-historical context. CCS holds that lines of code are not value-neutral and can be analyzed using the theoretical approaches applied to other semiotic systems in addition to particular interpretive methods developed particularly for the discussions of programs. ([Marino 2006](https://en.wikipedia.org/wiki/Critical_code_studies#CITEREFMarino2006))
 
-Our studies asked us to see computer science as an objective discipline, programming as a technical task, and software as a neutral artifact. To wield this gaze, we had to discard our bodies and become mechanical eyes. From this position, we could see people only as disembodied users, objects, or nodes, insulated from their identities. We wrote software into a vacuum. (Zachary et al., 2015)
+> Our studies asked us to see computer science as an objective discipline, programming as a technical task, and software as a neutral artifact. To wield this gaze, we had to discard our bodies and become mechanical eyes. From this position, we could see people only as disembodied users, objects, or nodes, insulated from their identities. We wrote software into a vacuum. (Zachary et al., 2015)
+
+How does one go about this approach, from a practical point of view? What are guiding questions? What is the method?
 
 ## Related
 - [Rhetorics](notes/Rhetorics.md)
