@@ -6,24 +6,24 @@
 - Intro: Demut, Sache, Publikum
 	- auf die schon vorhandenen Datenbanken und Plattformen eingehen um ersichtlich zu machen, warum wir uns an eine eigene gemacht haben
 - Die Quellen
-	- Dreierlei Datenbanken: generelle, Spiel-bezogen und Spiel-bezogen mit Fokus; und dreierlei Probleme
+	- Drei Kategorien von Datenbanken
 	- Generelle Wissensdatenbanken
 		- Wikipedia
 	- Spiel-bezogene
 		- Mobygames, UVL
-		- deutschsprachige OGDB, dännisches Play:Right: fehlen von frühen spielen
+		- deutschsprachige OGDB, dännisches Play:Right
 	- Spiel-bezogene mit Fokus
-		- HOL, Lemon Amiga, Gamebase 64, Atari Mania, C64-Wiki, 
-		- sind generell von der gleichen Problematik geplagt: auch wenn sie besser über frühe spiele informiert sind, lässt der Zugang doch zu wünschen übrig
+		- HOL, Lemon Amiga, Gamebase 64, C64-Wiki, Atari Mania
 - Die Probleme
 	- Inhalt, Zugang, Qualität
-	- Problem 1: sehr limitiert, vor allem bezüglich der frühen entwicklungsgeschichte von spielen aus dem deutschsprachigen raum
-	- Problem 2: jedoch schlecht durchsuchbar, Komplexität der Länderzuschreibung
+	- Problem 1: Kategorie 1 sehr limitiert, vor allem bezüglich der frühen Entwicklungsgeschichte von spielen aus dem deutschsprachigen raum; weniger ein Problem bei Spiele-bezogenen Datenbanken
+	- Problem 2: jedoch schlecht durchsuchbar, Zusammenhang zu unserem Forschungsinteresse, Komplexität der Länderzuschreibung; oft liessen sich die Datenbanken nur rudimentär nach Land oder Sprache durchsuchen
 	- Problem 3: Wissenschaftlichkeit der Daten: Freiwilligen-Arbeit und dessen problematische Aspekte
+		- Beispiel Mobygames
 - Erklärung der Problematik
-	- Gestaltung und Prozesse der Plattformen sowie Sammlungstätigkeit lassen bez. Wissenschaftlichkeit zu wünschen übrig: Beispiel Mobygames
+	- Gestaltung und Prozesse der Plattformen sowie Sammlungstätigkeit lassen bez. Wissenschaftlichkeit zu wünschen übrig
 	- Gestaltung der Plattformen aus spezifischen Bedürfnissen der blossen Sammlung und als Nachschlagewerke, jedoch nicht im Bezug auf wissenschaftliches oder journalistisches Arbeiten. Es lassen sich keine Forschungsfragen in Suchanfragen übersetzen
-	- Erwähnte Datenbanken sind vor allem ein gemeinschaftlicher Versuch der digitalen Representation von Informationen zu den Spielen und variieren enorm in Qualität und Normierung. Vieles hängt von den einzelnen Bearbeiter:innen ab.
+	- Quellen sind vor allem ein gemeinschaftlicher Versuch der digitalen Representation von Informationen zu den Spielen und variieren enorm in Qualität, Normierung und Umfang
 - Erläuterung/Ausblick Was machen wir
 	- Kollaboratives Arbeiten
 	- Triangulation von Quellen
