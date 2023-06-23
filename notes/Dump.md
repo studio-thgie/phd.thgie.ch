@@ -4,6 +4,11 @@ title: Dump
 ---
 
 # Dump
+## 2023-06-21
+> All research methods are based on philosophical assumptions about the nature of the social world and assumptions about how research should proceed. These assumptions guide methodological decision making (although often under the surface). These philosophical assumptions can be thought of as the “philosophical substructure” of research (Hesse-Biber & Leavy, 2011).
+
+What are the philosophical assumptions behind the methods that I'm applying?
+
 ## 2023-06-16
 Why is it, that we have so little C64 games in Switzerland?
 
