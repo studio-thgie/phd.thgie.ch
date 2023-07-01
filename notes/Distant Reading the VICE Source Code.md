@@ -86,7 +86,9 @@ By reading through [André Fachats insightful text on aspects of the VICE emulat
 I followed my last insight and tried to have a look at the VICE source code corpus through the eyes of [Gephi](https://gephi.org/), which is a tool for network visualisations. I produced two new python scripts. The first script is attempting extracting the relations between the source code files by looking for `#includes`. The second extracts the relation between authors and on which files they worked.
 
 #### Visualization of the two networks
+
 - [Source Code of the computational analysis](https://github.com/thgie/critical-reading-vice)<br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8103760.svg)](https://doi.org/10.5281/zenodo.8103760)
+
 ##### Relations between files
 ![](assets/Sourcecode.png)
 
