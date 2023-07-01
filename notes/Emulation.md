@@ -8,7 +8,7 @@ Emulation can make gameplay accessible, but it will also change it. It is thus i
 
 ## Thoughts
 - [15th Feb 2023 - Emulation](journal/2023-02-15.md)
-- *2023-06-12* After reading the two texts from Stefan Höltgen and André Fachat I'm fascinated by the translation of hardware into software. No concrete thoughts, but the meticulousness and decisions that go into emulating a hardware-based clocking process are dense. I also got some insights into [Sourcecode as Text](notes/Sourcecode%20as%20Text.md).
+- *2023-06-12* After reading the two texts from Stefan Höltgen and André Fachat I'm fascinated by the translation of hardware into software. No concrete thoughts, but the meticulousness and decisions that go into emulating a hardware-based clocking process are dense. I also got some insights into [Source Code as Text](notes/Source%20Code%20as%20Text.md).
 
 ## Sources
 - [The routledge companion to video game studies - Emulation](literature/wolfRoutledgeCompanionVideo2014.md#Emulation)

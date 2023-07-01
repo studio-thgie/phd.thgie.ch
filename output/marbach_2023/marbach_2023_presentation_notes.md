@@ -21,9 +21,22 @@
 	- Problem 3: Wissenschaftlichkeit der Daten: Freiwilligen-Arbeit und dessen problematische Aspekte
 		- Beispiel Mobygames
 - Erklärung der Problematik
+	- Quellen sind vor allem ein gemeinschaftlicher Versuch der digitalen Representation von Informationen zu den Spielen und variieren enorm in Qualität, Normierung und Umfang
 	- Gestaltung und Prozesse der Plattformen sowie Sammlungstätigkeit lassen bez. Wissenschaftlichkeit zu wünschen übrig
 	- Gestaltung der Plattformen aus spezifischen Bedürfnissen der blossen Sammlung und als Nachschlagewerke, jedoch nicht im Bezug auf wissenschaftliches oder journalistisches Arbeiten. Es lassen sich keine Forschungsfragen in Suchanfragen übersetzen
-	- Quellen sind vor allem ein gemeinschaftlicher Versuch der digitalen Representation von Informationen zu den Spielen und variieren enorm in Qualität, Normierung und Umfang
+- Alpha Version
+	- Zwei mögliche Wege…
+	- wissenschaftliche saubere, finanziertes Projekt mit bezahlten Mitarbeitenden, neu aufgegleiste Infrastruktur, 3-4 Jahre Zeit für die Umsetzung
+	- Vorteil saubere Umsetzung, Nachteil lange Laufzeit bis Resultate da sind und prekär im Bezug auf die Finanzierung; geschätzte 10-20% chancen
+	- …oder
+	- Eugen took oportunity for course at Heinrich-Heine-Universität; built around our research question; leading to „Spurensuche [nach den] frühen Spiele-Entwickler*innen im deutschsprachigen Raum“
+	- collaborate with students in history
+	- zuerst in kleingruppen wo möglich nach sprachen oder ländern gefiltert und gesucht, sowie die Recherchen der anderen Gruppen gegenkontrolliert
+	- danach auch nach Akteuren, also studios und Entwickler*innen, gesucht welche klar dem DACH Raum zugeschrieben werden können
+	- nach der Übernahme der Listings aus Computronic circa 600 Einträge in einer ersten Alpha Liste
+	- in einer zweiten Runde gründlich kontrolliert, gereinigt (zB Dupletten) sowie weitere Quellenangaben eingefügt
+
+
 - Erläuterung/Ausblick Was machen wir
 	- Kollaboratives Arbeiten
 	- Triangulation von Quellen
