@@ -4,9 +4,9 @@ tags: Glossary, Notes, Emulation
 # Vice
 As part of my research I evaluated to what extend source code can be treated through [Critical Code Analysis](notes/Critical%20Code%20Analysis.md). As a case study I used the code base of the VICE emulator. Further reading on this experiment in relation to the source code can be found in the following entries.
 
-- [Distant Reading](notes/Distant%20Reading%20the%20VICE%20Code%20Base.md)
+- [Distant Reading](notes/Distant%20Reading%20the%20VICE%20Source%20Code.md)
 - [Close Reading](journal/2023-06-20.md)
-- [Visualization of relations](notes/Distant%20Reading%20the%20VICE%20Code%20Base.md#visualization-of-the-two-networks)
+- [Visualization of relations](notes/Distant%20Reading%20the%20VICE%20Source%20Code.md#visualization-of-the-two-networks)
 - [Source Code for the computational analysis](https://github.com/thgie/critical-reading-vice)<br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8103760.svg)](https://doi.org/10.5281/zenodo.8103760)
 
 ## Context

@@ -1,7 +1,7 @@
 ---
 tags: Methods
 ---
-# Distant Reading the VICE Code Base
+# Distant Reading the VICE Source Code
 
 ## Journal
 ### 2023-05-07
@@ -85,10 +85,8 @@ By reading through [André Fachats insightful text on aspects of the VICE emulat
 ### 2023-06-18
 I followed my last insight and tried to have a look at the VICE source code corpus through the eyes of [Gephi](https://gephi.org/), which is a tool for network visualisations. I produced two new python scripts. The first script is attempting extracting the relations between the source code files by looking for `#includes`. The second extracts the relation between authors and on which files they worked.
 
-#### Relations between source code files as well as between authors and source code files
-- [Source Code of the computational analysis](https://github.com/thgie/critical-reading-vice)<br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8103760.svg)](https://doi.org/10.5281/zenodo.8103760)
-
 #### Visualization of the two networks
+- [Source Code of the computational analysis](https://github.com/thgie/critical-reading-vice)<br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8103760.svg)](https://doi.org/10.5281/zenodo.8103760)
 ##### Relations between files
 ![](assets/Sourcecode.png)
 
