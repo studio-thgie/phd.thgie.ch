@@ -19,11 +19,11 @@ The community behind the emulator is well established and visible under [Acknowl
 > The first part of VICE was created in 1993 as an April Fool's joke. The C64 emulator at the time was installed by Jarko Sonninen in fullscreen mode on various Sun workstations. (Höltgen, 2014)
 
 ## Sources
-- https://en.wikipedia.org/wiki/VICE
-- https://vice-emu.sourceforge.io
-- https://vice-emu.pokefinder.org/wiki/Main_Page
-- https://www.linuxjournal.com/article/3943
-- https://www.c64-wiki.de/wiki/VICE
+- [https://en.wikipedia.org/wiki/VICE](https://en.wikipedia.org/wiki/VICE)
+- [https://vice-emu.sourceforge.io](https://vice-emu.sourceforge.io)
+- [https://vice-emu.pokefinder.org/wiki/Main_Page](https://vice-emu.pokefinder.org/wiki/Main_Page)
+- [https://www.linuxjournal.com/article/3943](https://www.linuxjournal.com/article/3943)
+- [https://www.c64-wiki.de/wiki/VICE](https://www.c64-wiki.de/wiki/VICE)
 
 ## Related
 - [Emulation](notes/Emulation.md)
