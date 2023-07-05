@@ -6,6 +6,7 @@ author: Adrian Demleitner
 
 | Title                                                                                         | Date               | Tags                                      |
 | --------------------------------------------------------------------------------------------- | ------------------ | ----------------------------------------- |
+| [Looking back at the Games & Literature Conference](journal/2023-07-05.md)                  | July 05, 2023      | conference                                |
 | [Close Reading the VICE Source Code](journal/2023-06-20.md)                                 | June 20, 2023      | critical code analysis, VICE, visuality   |
 | [DHCH 2023, accuracy in visuality and the OpenRefine-Wikidata combo](journal/2023-06-16.md) | June 16, 2023      | conference, accuracy, emulation, metadata |
 | [Distant reading and computing history](journal/2023-05-29.md)                              | May 29, 2023       | vice, voyant                              |
