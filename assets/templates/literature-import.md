@@ -7,19 +7,23 @@ tags: [{% for tag in tags %}{{tag.tag}}{% if not loop.last %}, {% endif %}{% end
 # {{title}}
 
 - [Bibliography](#bibliography)
-- [Notes](#notes)
 - [Abstract](#abstract)
+- [Notes](#notes)
+- [Annotations](#annotations)
 - [Reading Notes](#reading-notes)
 
 ## Bibliography
 {{bibliography}}
-
 {% if abstractNote %}## Abstract
 {{abstractNote}}{% endif %}
-
 ## Notes
 {% persist "notes" %}{% endpersist %}
 {% if markdownNotes %}{{markdownNotes}}{% endif %}
+
+## Annotations
+{% for annotation in annotations %}{% if annotation.annotatedText %}> {{annotation.annotatedText}} (p. {{annotation.page}}){% endif %}
+{% if annotation.comment %}> – {{annotation.comment}}{% endif %}
+{% endfor %}
 
 ## Related
 {% persist "related" %}{% endpersist %}
