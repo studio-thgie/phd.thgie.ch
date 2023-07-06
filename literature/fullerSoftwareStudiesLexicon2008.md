@@ -16,7 +16,6 @@ tags: [Computers and civilization, Computer software, Encyclopedias, Lexicograph
 Fuller, M. (Ed.). (2008). _Software studies: A lexicon_. MIT Press.
 
 ## Notes
-%% begin notes %%%% end notes %%
 ## Code
 
 - communication codes have their roots in imperial and military history
@@ -36,6 +35,7 @@ There we have it again, our beloved capitalism. So code IS description, and, thr
 - Kittler warns of the fallacy to see code in everything, and reminds of it’s relation to imperialism and capitalism
 
 [Go to annotation](zotero://open-pdf/library/items/VQC93HXY?page=60&annotation=P5NKKQA8)“Today, technology puts code into the practice of realities, that is to say: it encodes the world.” ([“Software studies: a lexicon”, 2008, p. 60](zotero://select/library/items/UT6VETWQ))
+%% begin notes %%%% end notes %%
 
 ## Annotations
 > In 1838, Samuel Morse is said to have inspected a printing plant in New York in order—taking a leaf from Alberti’s book—to learn from the letter case which letters occurred most frequently and therefore required the shortest Morse signals.10 For the first time a system of writing had been optimized according to technical criteria—that is, with no regard to semantics—but the product was not yet known as Morse code. (p. 58)
@@ -55,4 +55,4 @@ There we have it again, our beloved capitalism. So code IS description, and, thr
 ## Related
 %% begin related %%%% end related %%
 
-%% Import Date: 2023-07-06T14:27:35.161+02:00 %%
+%% Import Date: 2023-07-06T14:29:24.765+02:00 %%
