@@ -4,6 +4,11 @@ title: Dump
 ---
 
 # Dump
+## 2023-07-05
+I still struggle with making a meaningful connection between the source code and the playable experience. Cem Kilicarslan made an important remark. The player does not interact with the code. I have the feeling that this might be relevant at a point. What I'm interested in is this link between writing code and the emerging space of possibilities. Or say, the capability of code to create a multiverse. Code is emergent world-building by its ability to foster complexity.
+
+The investigation of source code is becoming more and more complex. Whereas earlier a lot of program code had to be written by people, it is getting more and more mediated by machines. Tools and frameworks take over the writing of code, producing the necessary code base through graphical interfaces. Generative AI will further this process, when people only need to write prompts. Is it possible that this bi-modal designerly activity will vanish soon or is mitigated to the fringes?
+
 ## 2023-06-21
 > All research methods are based on philosophical assumptions about the nature of the social world and assumptions about how research should proceed. These assumptions guide methodological decision making (although often under the surface). These philosophical assumptions can be thought of as the “philosophical substructure” of research (Hesse-Biber & Leavy, 2011).
 

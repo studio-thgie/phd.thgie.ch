@@ -142,6 +142,7 @@ I reported on the current state of the first corpus in 2.4.1. This is partially 
 - Formal Elements: Color schemes, typography, compositions
 - Content: Levels, sprites and characters
 - FAVR: Visual modes, ocularizations, framing mechanisms, construction of tangible space
+- Relevant paratexts: Box art, manuals, advertisement, etc.
 
 As my dissertation is relying on the critical reading of source code I will have to acquire this specific research material into it's own archive. If such an acquisition is possible is unsure at the time of writing this exposé. Being able to research the interplay of technology and visuality in our Swiss digital games corpus would be the best possible outcome. Further thoughts on this problematic can be found in 5.3.1. 
 
