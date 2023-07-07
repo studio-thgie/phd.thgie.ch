@@ -4,6 +4,11 @@ title: Dump
 ---
 
 # Dump
+## 2023-07-07
+I took this from the abstract and leave it here for now:
+
+> If we take a closer look at the image of video games and accept it as an artifact that is calculated and constructed by code and computer hardware, we can conclude that the underlying technology is formative for its discourse and meaning. Respectively, that the technicians, such as programmers and graphic designers familiar with code, are significantly involved in the circulation and formation of meanings and power relations through the image in video games.
+
 ## 2023-07-05
 I still struggle with making a meaningful connection between the source code and the playable experience. Cem Kilicarslan made an important remark. The player does not interact with the code. I have the feeling that this might be relevant at a point. What I'm interested in is this link between writing code and the emerging space of possibilities. Or say, the capability of code to create a multiverse. Code is emergent world-building by its ability to foster complexity.
 

@@ -1,5 +1,5 @@
 # Exposé
-## Code, visuality and meaning: *Interdisciplinary perspectives on the image in Swiss video games pre-2000*
+## Where is Switzerland? Interdisciplinary perspectives on en/decoding nationality in the visuality of early digital games from Switzerland
 
 - [1. Introduction and problem statement](#1.%20Introduction%20and%20problem%20statement)
 - [2. Current state of research](#2.%20Current%20state%20of%20research)

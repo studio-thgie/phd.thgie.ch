@@ -1,7 +1,10 @@
-# Code, visuality and meaning: Interdisciplinary perspectives on the image in Swiss video games pre-2000[^1]
+---
+title: "Where is Switzerland? Interdisciplinary perspectives on en/decoding nationality in the visuality of early digital games from Switzerland"
+author: Adrian Demleitner
+---
+# Where is Switzerland?
+## Interdisciplinary perspectives on en/decoding nationality in the visuality of early digital games from Switzerland
 
-I assume a hitherto invisible rift between the research on the image of the video game and its material base. The image of video games brings with its own specificities. The constituted image, visible on the screen, is being born from the hardware's calculation. It is interactive and as such holds within itself a plurality of different futures, actualizing itself upon the player's input. Research on the image of video games more often than not focuses either on the constituted and visible image, or it's material basis – either on visuality or technology.
+This dissertation project inquires into the complexity of ascribing nationality to digital games in early games attributed to Switzerland. The research focus lies on the visuality, the image seen on screen but also the paratextual material. Continue reading the [abstract](notes/Abstract.md).
 
-Following my assumption is the thesis that there is an unacknowledged interplay between the techno-historic limits of video game development and the reception of the image, respectfully, the generation of meaning for the player. Working on this research question demands an interdisciplinary approach that can handle both domains, technology and visuality, halves of a proposed whole. The methods used in this approach are lent from digital humanities, design research and new materialism with a focus on technology studies.
-
-[^1]: working title…
+Good entry points into this wiki are the main [notes](notes/Notes.md) or the [glossary](notes/Glossary.md). You can also follow my personal research [journal](notes/Journal.md).
