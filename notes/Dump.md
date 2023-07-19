@@ -4,6 +4,13 @@ title: Dump
 ---
 
 # Dump
+## 2023-07-19
+Do I need to have a look at how images are constituted besides digital games? Could a [Correspondence Analysis](notes/Correspondence%20Analysis.md) on visuality be fruitful?
+
+> “new media do not appear in opposition to the old but as emulators of features and functions that are already invented” (Aarseth, 1997, p. 81)
+
+Could there be a Cybertext's equivalent foundational text on the visuality in video games? Are the variables and analysis Aarseth makes mappable onto image studies? Aarseth very much looks at the structure of digital games, but coming from literary studies.
+
 ## 2023-07-10
 Is source code a cybertext-producing cybertext? A meta-cybertext?
 
