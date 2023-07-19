@@ -6,16 +6,14 @@ actants: [
 	Orlando Petermann,
 	Heinz Lüem
 ]
+wikidata: Q104915714
 ---
 # Ball Raider
-I've collected all the visual material I could find under [https://www.are.na/adrian-demleitner/ball-raider](https://www.are.na/adrian-demleitner/ball-raider).
-
 ![](assets/ball_raider_start_screen.png)
 
-- Soundtrack: https://youtu.be/-nAawc1DyD0?t=255
-
-## Notes
-- [These] Ball Raider ist ein Erstlingswerk zweier unerfahrener (in Sachen Business) Bros, welches sich in Qualität und Style ausdrückt. Mehr Schnapsidee als marktreifes Spiel. Das Team kann sich aber positionieren und vernetzen und so in weiteren Projekten agieren
+- [FAVR](#favr)
+- [Produktanalyse visueller Aspekte](#produktanalyse-visueller-aspekte)
+- [Related](#related)
 
 ## Produktanalyse visueller Aspekte
 In der Retrogaming-Szene geht das Meme[^1] um, dass das Verpackungsdesign von Computerspielen der 80er und 90er-Jahre oft weitaus besser war, als die eigentliche Grafik des Spieles selbst. Im Falle von Ball Raider ist es jedoch genau umgekehrt. Die augenscheinliche Differenz zwischen der Darstellung desselben Charakters auf Box-Art und Start-Bildschirm bringt uns gleich zum interessantesten Punkt bezüglich visueller Aspekte. Das Spiel beinhaltet ein, für die damaligen Umstände, herausragendes Artwork.
@@ -37,24 +35,6 @@ Besonders stark ist diese Referenzialität im Protagonisten, welcher auf dem Sta
 Für mich ist im Bezug auf das Artwork des Spieles, vor allem ein Umstand von besonderem Interesse. Ball Raider war sozusagen das Erstlingswerk von Orlando Petermann. Dieser hat sicherlich schon vorher digitale Bilder produziert, welche jedoch nicht in Computerspielen veröffentlicht wurden. Er hat bis mindestens 1993 an weiteren kleineren und grösseren Spielen mitgewirkt. Keines dieser späteren Spiele ist dermassen persönlich im Ausdruck des dargestellten, während in Ball Raider klar die Inspiration und die persönlichen popkulturellen Referenzen zutage treten.
 
 Das macht das Spiel, respektive dessen Artwork in Bezug auf seine Reproduktion von idealisiertem Material interessant. Die Hintergründe zeigen ein spezifisches Bild von Männlichkeit, welches in der Popkultur gängig war. Männliche Helden, welche mit gestählten Körpern jeden Leidensweg durchgehen, um die Welt zu befreien. Hier stellt sich mir die Frage, warum das Artwork von Ball Raider so ungefiltert daher kommen konnte. Es wirkt im Vergleich zu späteren Arbeiten fast schon ehrlich. Einerseits wird ein klarer Bezug zur eigenen Lebens- und Bedeutungswelt sichtbar, andererseits positioniert sich der Grafik-Künstler damit auch innerhalb seines sozialen Netzwerkes. Die offene zur-Schaustellung der eigenen hoch-sexualisierten Werke ist innerhalb dieser Szene, welche vorwiegend aus jungen Männern besteht, auch eine Machtdemonstration.
-
-## Playing Notes
-- Two version
-	- cracked Robtek distro with intro (group HQC from Munich); has Diamond Game, distributed by Robtek logo on startscreen
-	- (assuming) Preview distro under the name Golden Gate Software (changed to golden gate crew in Robtek distro)
-- Greeted by a screen with a figure holding up a ball. Reminds me of Dolph Lundgren's character in Master of the Universe
-- Credit screen, opacity oscilating red font on black
-	- produced by [Golden Gate Crew](actants/Golden%20Gate%20Crew.md)
-	- written by [Heinz Lüem](actants/Heinz%20Lüem.md)
-	- graphics by [Orlando Petermann](notes/Orlando%20Petermann.md)
-	- (c) 1987 Robtek
-- Game is hardly playable, the ball is a bright green color and breaks brutaly with the redish artwork in the background. Level 1 not solved after several attempts. The input is keyboard only and clunky. The interaction of the ball with the paddle seems random and not very accurate.
-- Screen to enter name for scores. Text only.
-- Figure from startscreen is seens again, this time opening the highscore-table with the pulling of a thread from the top. Short and funny animation: The figure opens his eyes widly, probably to simulate astonishement at the "great" score.
-- Level 1: Monster with tongue attacking person.
-- Level 2: Astronaut watching arriving ship with rising moon in background. paddle and ball colors change, have better contrast now to artwork in background
-- Level 3: ghost of methusalem in triangle, framed by red. Paddle and ball colors change again, seems like a thing
-- The preview version plays slighty easier; ball is slightly slower, but interaction of ball with env. seems even simpler. no written feedbacks on powerups.
 
 ## Related
 - [Orlando Petermann](notes/Orlando%20Petermann.md)

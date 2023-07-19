@@ -4,6 +4,9 @@ title: Dump
 ---
 
 # Dump
+## 2023-07-10
+Is source code a cybertext-producing cybertext? A meta-cybertext?
+
 ## 2023-07-07
 I took this from the abstract and leave it here for now:
 

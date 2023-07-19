@@ -1,7 +1,7 @@
 <%*
 const dv = app.plugins.plugins["dataview"].api;
 const te = await dv.queryMarkdown(`
-	TABLE join(system) as System, genre as Genre, year as Year, join(actants) as Actants, studio as Studio
+	TABLE join(system) as System, genre as Genre, year as Year, join(actants) as Actants, studio as Studio, wikidata
 	FROM "games"
 	SORT year DESC
 `);
