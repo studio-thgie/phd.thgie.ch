@@ -27,6 +27,19 @@
 
     <main role="main">
         <h1 id="image-corpus">Image Corpus</h1>
+        <ul>
+        <li><a href="/notes/Image Corpus.html#outline">Outline</a></li>
+        <li><a href="/notes/Image Corpus.html#corpus-generation">Corpus generation</a>
+        <ul>
+        <li><a href="/notes/Image Corpus.html#parameters">Parameters</a></li>
+        <li><a href="/notes/Image Corpus.html#collection-process">Collection process</a></li>
+        <li><a href="/notes/Image Corpus.html#additional-strategies">Additional
+        strategies</a></li>
+        <li><a href="/notes/Image Corpus.html#extracting-colours">Extracting Colours</a></li>
+        </ul></li>
+        <li><a href="/notes/Image Corpus.html#ontology">Ontology</a></li>
+        </ul>
+        <h2 id="outline">Outline</h2>
         <p>The image corpus is built following a strategy to include as
         much material as is necessary to fully represent a games’
         visuality (aesthetics and content). Next to formal and semiotic
@@ -67,7 +80,8 @@
         the developing and publishing actants to keep the analysis
         within the intentions and meaning production of the agencies
         directly involved.</p>
-        <h2 id="corpus-parameters">Corpus parameters</h2>
+        <h2 id="corpus-generation">Corpus generation</h2>
+        <h3 id="parameters">Parameters</h3>
         <ul>
         <li><a href="notes/Game%20FAVR.html">Game FAVR</a>: Visual modes,
         ocularizations, framing mechanisms, construction of tangible
@@ -80,7 +94,7 @@
         <li>Relevant paratexts: Box art, manuals, advertisement,
         etc.</li>
         </ul>
-        <h2 id="collection-process">Collection process</h2>
+        <h3 id="collection-process">Collection process</h3>
         <ol type="1">
         <li>Attempt to gain an overview of scope through rudimentary
         game play</li>
@@ -93,7 +107,7 @@
         scrapped material</li>
         <li>Collect paratextual material</li>
         </ol>
-        <h2 id="additional-strategies">Additional strategies</h2>
+        <h3 id="additional-strategies">Additional strategies</h3>
         <ul>
         <li>Screenshots of videos of play-throughs</li>
         <li>Scraping popular databases for image material regarding the
@@ -102,6 +116,28 @@
         href="literature/guay-belangerAssemblingAurasMethodology2022.html">Assembling
         Auras</a> to collect visual material that seems relevant but is
         not coming from the game directly</li>
+        </ul>
+        <h3 id="extracting-colours">Extracting Colours</h3>
+        <p>For a preliminary formal analysis, I will extract the
+        dominant colours per image.</p>
+        <div class="sourceCode" id="cb1"><pre
+        class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="/notes/Image Corpus.html#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">sample</span><span class="op">=</span>PATH_TO_IMAGE</span>
+<span id="cb1-2"><a href="/notes/Image Corpus.html#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="va">area</span><span class="op">=</span><span class="va">$(</span><span class="ex">magick</span> <span class="va">$sample</span> <span class="at">-format</span> <span class="st">&quot;%[fx:w*h]&quot;</span> info:<span class="va">)</span></span>
+<span id="cb1-3"><a href="/notes/Image Corpus.html#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="ex">magick</span> <span class="va">$sample</span> <span class="at">-kmeans</span> 8 <span class="at">-format</span> <span class="st">&quot;%c&quot;</span> histogram:info:  <span class="kw">|</span> <span class="fu">sed</span> <span class="st">&#39;s/://g&#39;</span> <span class="kw">|</span> <span class="fu">awk</span> <span class="at">-v</span> area=<span class="va">$area</span> <span class="st">&#39;{print 100*$1/area, &quot;%,&quot;, $3, &quot;; &quot;}&#39;</span> <span class="kw">|</span> <span class="fu">sed</span> <span class="st">&#39;s/ *//g&#39;</span> <span class="kw">|</span> <span class="fu">sort</span> <span class="at">-nr</span> <span class="at">-k1,1</span> <span class="at">-t</span> <span class="st">&quot;,&quot;</span></span></code></pre></div>
+        <p>Via
+        https://stackoverflow.com/questions/70397629/imagemagick-extract-dominant-colors-from-an-image-in-hex-and-percentages</p>
+        <h2 id="ontology">Ontology</h2>
+        <p>I use <a href="https://www.tropy.org/">Tropy</a> to collect,
+        maintain and label the image material. To simplify this
+        processes, I built an ontology based on FAVR. The ontology’s
+        repository also holds onto the Tropy templates I created. The
+        repository can be found under</p>
+        <ul>
+        <li><a
+        href="https://github.com/thgie/favr-ontology">https://github.com/thgie/favr-ontology</a></li>
+        <li><a href="https://doi.org/10.5281/zenodo.8158800"><img
+        src="https://zenodo.org/badge/DOI/10.5281/zenodo.8158800.svg"
+        alt="DOI" /></a></li>
         </ul>
         <aside id="footnotes"
         class="footnotes footnotes-end-of-document" role="doc-endnotes">
