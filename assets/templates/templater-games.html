@@ -27,7 +27,7 @@
     <main role="main">
         <p>&lt;%* const dv = app.plugins.plugins[“dataview”].api; const
         te = await
-        dv.queryMarkdown(<code>TABLE join(system) as System, genre as Genre, year as Year, join(actants) as Actants, studio as Studio, wikidata     FROM "games"     SORT year DESC</code>);
+        dv.queryMarkdown(<code>TABLE join(system) as System, genre as Genre, year as Year, join(actants) as Actants, developer as Developer, publisher as Publisher, wikidata     FROM "games"     SORT year DESC</code>);
         // replace wikilinks with markdown links let table =
         te.value.replace(/[[([^|]+)\|([^|]+)]]/gm, “<a
         href="$1">$2</a>”);</p>
