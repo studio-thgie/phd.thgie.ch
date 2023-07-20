@@ -12,4 +12,4 @@ tags: Notes
 	- [Game FAVR](notes/Game%20FAVR.md)
 
 ## Video Games 
-- [Video Games](notes/Video%20Games.md)
+- [Games Corpus](notes/Games%20Corpus.md)

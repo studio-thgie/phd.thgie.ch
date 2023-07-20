@@ -2,7 +2,7 @@
 system: Amiga
 year: 1987
 genre: Shoot'em Up
-studio: Linel
+developer: Linel
 publisher: Microdeal
 actants: [
 	Christian Haller,

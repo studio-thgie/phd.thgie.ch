@@ -12,4 +12,4 @@
 | [Image Corpus](notes/Image%20Corpus.md)                                           | Notes, Method, Corpus      |
 | [Abstract](notes/Abstract.md)                                                   | Notes                      |
 | [Game Studies](notes/Game%20Studies.md)                                           | Notes                      |
-| [Video Games](notes/Video%20Games.md)                                             | Notes                      |
+| [Games Corpus](notes/Games%20Corpus.md)                                             | Notes                      |

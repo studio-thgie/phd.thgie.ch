@@ -9,8 +9,10 @@ tags: Notes, Method, Corpus
 	- [Parameters](#parameters)
 	- [Collection process](#collection-process)
 	- [Additional strategies](#additional-strategies)
-	- [Extracting Colours](#extracting-colours)
 - [Ontology](#ontology)
+- [Aiding scripts](#aiding-scripts)
+	- [Extracting Colours](#extracting-colours)
+	- [Scrapping Images](#scrapping-images)
 
 ## Outline
 The image corpus is built following a strategy to include as much material as is necessary to fully represent a games' visuality (aesthetics and content). Next to formal and semiotic elements and paratextual material, the Game FAVR model of categorization for the visuality of a digital game is applied to collect material. Since building a corpus of images retrieved from digital games can be a considerable effort regarding having to play entire games[^1], additional collecting strategies are considered.
@@ -43,20 +45,40 @@ The paratextual material is restricted to what was issued by the developing and 
 - Scraping popular databases for image material regarding the relevant games
 - [Assembling Auras](literature/guay-belangerAssemblingAurasMethodology2022.md) to collect visual material that seems relevant but is not coming from the game directly
 
-### Extracting Colours
-For a preliminary formal analysis, I will extract the dominant colours per image.
-```bash
-sample=PATH_TO_IMAGE
-area=$(magick $sample -format "%[fx:w*h]" info:)
-magick $sample -kmeans 8 -format "%c" histogram:info:  | sed 's/://g' | awk -v area=$area '{print 100*$1/area, "%,", $3, "; "}' | sed 's/ *//g' | sort -nr -k1,1 -t ","
-```
-Via https://stackoverflow.com/questions/70397629/imagemagick-extract-dominant-colors-from-an-image-in-hex-and-percentages
-
 ## Ontology
 I use [Tropy](https://www.tropy.org/) to collect, maintain and label the image material. To simplify this processes, I built an ontology based on FAVR. The ontology's repository also holds onto the Tropy templates I created. The repository can be found under
 
 - [https://github.com/thgie/favr-ontology](https://github.com/thgie/favr-ontology)
 - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8158800.svg)](https://doi.org/10.5281/zenodo.8158800)
+
+## Aiding scripts
+### Extracting Colours
+For a preliminary formal analysis, I will extract the dominant colours per image.
+```bash
+sample=PATH_TO_IMAGE
+area=$(magick $sample -format "%[fx:w*h]" info:)
+magick $sample -kmeans 8 -format "%c" histogram:info:  | sed 's/://g' | awk -v area=$area '{print 100*$1/area, "%|", $3, ","}' | sed 's/ *//g' | sort -nr -k1,1 -t ","
+```
+Via https://stackoverflow.com/questions/70397629/imagemagick-extract-dominant-colors-from-an-image-in-hex-and-percentages
+
+### Scrapping Images
+**Screen from Hall of Light**
+```js
+let screens = ''
+document.querySelectorAll('.screenshot_thumbnail').forEach(el => {
+	let src = el.src
+	src = src.replace('_preview/', '/')
+	src = src.replace('_preview', '_screen')
+	screens += src + '\n';
+})
+console.log(screens)
+```
+
+HOL is probably blocking `wget` request. But automating the scrapping would look like this. Save console message as text file, then execute:
+```bash
+wget -i images.txt
+```
+
 
 [^1]: One needs to know the entire game to know if all relevant material has been collected.
 [^2]: Classifications of semiotic signs in video games is a difficult topic since at least the 1990ies (Espen, 1997). I'll follow a reflexive approach that documents choices and thoughts made towards the corpus.

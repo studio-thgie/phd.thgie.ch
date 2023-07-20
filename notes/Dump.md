@@ -4,6 +4,10 @@ title: Dump
 ---
 
 # Dump
+## 2023-07-20
+- A project on the maps drawn by people for various video games would be fantastic.
+- Studying a games visuality through its limits and glitches is an interesting approach, and there is probably already material on that.
+
 ## 2023-07-19
 Do I need to have a look at how images are constituted besides digital games? Could a [Correspondence Analysis](notes/Correspondence%20Analysis.md) on visuality be fruitful?
 

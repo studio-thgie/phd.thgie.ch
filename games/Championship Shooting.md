@@ -2,7 +2,7 @@
 system: Amiga
 year: 1991
 genre: Shooter
-studio: Golden Gate Crew
+developer: Golden Gate Crew
 publisher: Golem
 actants: [
 	Christian Haller

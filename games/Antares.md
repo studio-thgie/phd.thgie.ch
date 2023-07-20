@@ -2,7 +2,7 @@
 system: Amiga
 year: 1990
 genre: Adventure
-studio: Nightmare Productions
+developer: Nightmare Productions
 ---
 
 # Antares
