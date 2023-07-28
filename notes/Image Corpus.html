@@ -9,7 +9,7 @@
 
     <meta name="generator" content="pandoc" />
         <meta name="author" content="Adrian Demleitner" />
-        
+            
     <link rel="stylesheet" href="/assets/templates/archive.css">
 
 </head>
@@ -29,6 +29,7 @@
         <h1 id="image-corpus">Image Corpus</h1>
         <ul>
         <li><a href="/notes/Image Corpus.html#outline">Outline</a></li>
+        <li><a href="/notes/Image Corpus.html#considerations">Considerations</a></li>
         <li><a href="/notes/Image Corpus.html#corpus-generation">Corpus generation</a>
         <ul>
         <li><a href="/notes/Image Corpus.html#parameters">Parameters</a></li>
@@ -48,19 +49,12 @@
         much material as is necessary to fully represent a games’
         visuality (aesthetics and content). Next to formal and semiotic
         elements and paratextual material, the Game FAVR model of
-        categorization for the visuality of a digital game is applied to
+        categorisation for the visuality of a digital game is applied to
         collect material. Since building a corpus of images retrieved
         from digital games can be a considerable effort regarding having
         to play entire games<a href="/notes/Image Corpus.html#fn1" class="footnote-ref"
         id="fnref1" role="doc-noteref"><sup>1</sup></a>, additional
         collecting strategies are considered.</p>
-        <p>I exclude videos from my analysis as of now, since they
-        introduce new technical considerations and research
-        problematics, such as the analysis of progression in time, the
-        storage of the collected media or how to properly code (label)
-        videos. This aspect will stay problematic for now, as some
-        objects only reveal themselves in animations, for example
-        special effects that indicate a change of game state.</p>
         <p>The <a href="notes/Game%20FAVR.html">Game FAVR</a> is clear in
         outline and scope and is mostly considered with the macro and
         material perspective on the image in digital games. Formal and
@@ -71,6 +65,34 @@
         loosely along compositional analysis, whereas the FAVR takes
         over the spatial components and semiotic elements over
         content.</p>
+        <p>The paratextual material is restricted to what was issued by
+        the developing and publishing actants to keep the analysis
+        within the intentions and meaning production of the agencies
+        directly involved.</p>
+        <h2 id="considerations">Considerations</h2>
+        <p><em>Ergodicity</em></p>
+        <p>The production of screenshots from a video game is a regress
+        from ergodic media to static images. The gameness or dimension
+        of gameplay is lost in this process and only traces of it are
+        present in the final product. Sebastian Möring calls the
+        screenshot’s dependency on the source game conditional
+        cyberimage. The loss of this aspect in the screenshots need to
+        be considered when analysing the visual material.</p>
+        <ul>
+        <li>what is ok</li>
+        <li>what is not ok</li>
+        </ul>
+        <p><em>Screencasts</em></p>
+        <p>Screencasts would solve the problem of the loss of ergodicity
+        only partially, while introducing other problems. I exclude
+        videos from my analysis as of now, since they introduce new
+        technical considerations and research problematics, such as the
+        analysis of progression in time, the storage of the collected
+        media or how to properly code (label) videos. This aspect will
+        stay problematic for now, as some objects only reveal themselves
+        in animations, for example special effects that indicate a
+        change of game state.</p>
+        <p><em>Image Quality</em></p>
         <p>Another consideration is the balance between quantity and
         quality, as in, complete visual representation of a game versus
         the quality of the collected images. Producing all the
@@ -80,10 +102,6 @@
         regarding their resolution, having compression artefacts or
         faulty colour spaces. If scrapping can be automated, I will
         include the material either way and mark it as such.</p>
-        <p>The paratextual material is restricted to what was issued by
-        the developing and publishing actants to keep the analysis
-        within the intentions and meaning production of the agencies
-        directly involved.</p>
         <h2 id="corpus-generation">Corpus generation</h2>
         <h3 id="parameters">Parameters</h3>
         <ul>
@@ -145,7 +163,10 @@
         <p>Via
         https://stackoverflow.com/questions/70397629/imagemagick-extract-dominant-colors-from-an-image-in-hex-and-percentages</p>
         <h3 id="scrapping-images">Scrapping Images</h3>
-        <p><strong>Screen from Hall of Light</strong></p>
+        <p><em>Screens from Hall of Light</em></p>
+        <p>The following Javascript snippets, pasted to the developer
+        console while being on a page with screenshots, results in a
+        properly formatted list of image URLs.</p>
         <div class="sourceCode" id="cb2"><pre
         class="sourceCode js"><code class="sourceCode javascript"><span id="cb2-1"><a href="/notes/Image Corpus.html#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="kw">let</span> screens <span class="op">=</span> <span class="st">&#39;&#39;</span></span>
 <span id="cb2-2"><a href="/notes/Image Corpus.html#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="bu">document</span><span class="op">.</span><span class="fu">querySelectorAll</span>(<span class="st">&#39;.screenshot_thumbnail&#39;</span>)<span class="op">.</span><span class="fu">forEach</span>(el <span class="kw">=&gt;</span> {</span>
@@ -155,7 +176,7 @@
 <span id="cb2-6"><a href="/notes/Image Corpus.html#cb2-6" aria-hidden="true" tabindex="-1"></a>    screens <span class="op">+=</span> src <span class="op">+</span> <span class="st">&#39;</span><span class="sc">\n</span><span class="st">&#39;</span><span class="op">;</span></span>
 <span id="cb2-7"><a href="/notes/Image Corpus.html#cb2-7" aria-hidden="true" tabindex="-1"></a>})</span>
 <span id="cb2-8"><a href="/notes/Image Corpus.html#cb2-8" aria-hidden="true" tabindex="-1"></a><span class="bu">console</span><span class="op">.</span><span class="fu">log</span>(screens)</span></code></pre></div>
-        <p>HOL is probably blocking <code>wget</code> request. But
+        <p>HOL is probably blocking <code>wget</code> requests. But
         automating the scrapping would look like this. Save console
         message as text file, then execute:</p>
         <div class="sourceCode" id="cb3"><pre
@@ -168,7 +189,7 @@
         relevant material has been collected.<a href="/notes/Image Corpus.html#fnref1"
         class="footnote-back" role="doc-backlink">↩︎</a></p></li>
         <li id="fn2"><p>Classifications of semiotic signs in video games
-        is a difficult topic since at least the 1990ies (Espen, 1997).
+        is a difficult topic since at least the 90ies (Espen, 1997).
         I’ll follow a reflexive approach that documents choices and
         thoughts made towards the corpus.<a href="/notes/Image Corpus.html#fnref2"
         class="footnote-back" role="doc-backlink">↩︎</a></p></li>
