@@ -1,10 +1,12 @@
 ---
 author: Adrian Demleitner
 tags: Notes, Method, Corpus
+updated: 2023-07-21T18:03
 ---
-# Image Corpus
+# Image Corpus 
 
 - [Outline](#outline)
+- [Considerations](#considerations)
 - [Corpus generation](#corpus-generation)
 	- [Parameters](#parameters)
 	- [Collection process](#collection-process)
@@ -15,15 +17,27 @@ tags: Notes, Method, Corpus
 	- [Scrapping Images](#scrapping-images)
 
 ## Outline
-The image corpus is built following a strategy to include as much material as is necessary to fully represent a games' visuality (aesthetics and content). Next to formal and semiotic elements and paratextual material, the Game FAVR model of categorization for the visuality of a digital game is applied to collect material. Since building a corpus of images retrieved from digital games can be a considerable effort regarding having to play entire games[^1], additional collecting strategies are considered.
-
-I exclude videos from my analysis as of now, since they introduce new technical considerations and research problematics, such as the analysis of progression in time, the storage of the collected media or how to properly code (label) videos. This aspect will stay problematic for now, as some objects only reveal themselves in animations, for example special effects that indicate a change of game state.
+The image corpus is built following a strategy to include as much material as is necessary to fully represent a games' visuality (aesthetics and content). Next to formal and semiotic elements and paratextual material, the Game FAVR model of categorisation for the visuality of a digital game is applied to collect material. Since building a corpus of images retrieved from digital games can be a considerable effort regarding having to play entire games[^1], additional collecting strategies are considered.
 
 The [Game FAVR](notes/Game%20FAVR.md) is clear in outline and scope and is mostly considered with the macro and material perspective on the image in digital games. Formal and semiotic elements can vary in their scope and focus towards the micro level of a game. Decisions will have to be made with each game, slightly adjusting what is collected. If needed, I'll expand the outlined parameters below. The approach follows loosely along compositional analysis, whereas the FAVR takes over the spatial components and semiotic elements over content.
 
-Another consideration is the balance between quantity and quality, as in, complete visual representation of a game versus the quality of the collected images. Producing all the screenshots oneself will reduce the amount of treated games because of the needed effort. On the other hand, screenshots of play-throughs or scrapping produce lower quality images regarding their resolution, having compression artefacts or faulty colour spaces. If scrapping can be automated, I will include the material either way and mark it as such.
-
 The paratextual material is restricted to what was issued by the developing and publishing actants to keep the analysis within the intentions and meaning production of the agencies directly involved.
+
+## Considerations
+*Ergodicity*
+
+The production of screenshots from a video game is a regress from ergodic media to static images. The gameness or dimension of gameplay is lost in this process and only traces of it are present in the final product. Sebastian Möring calls the screenshot's dependency on the source game conditional cyberimage. The loss of this aspect in the screenshots need to be considered when analysing the visual material.
+
+- what is ok
+- what is not ok
+
+*Screencasts*
+
+Screencasts would solve the problem of the loss of ergodicity only partially, while introducing other problems. I exclude videos from my analysis as of now, since they introduce new technical considerations and research problematics, such as the analysis of progression in time, the storage of the collected media or how to properly code (label) videos. This aspect will stay problematic for now, as some objects only reveal themselves in animations, for example special effects that indicate a change of game state.
+
+*Image Quality*
+
+Another consideration is the balance between quantity and quality, as in, complete visual representation of a game versus the quality of the collected images. Producing all the screenshots oneself will reduce the amount of treated games because of the needed effort. On the other hand, screenshots of play-throughs or scrapping produce lower quality images regarding their resolution, having compression artefacts or faulty colour spaces. If scrapping can be automated, I will include the material either way and mark it as such.
 
 ## Corpus generation
 ### Parameters
@@ -62,7 +76,10 @@ magick $sample -kmeans 8 -format "%c" histogram:info:  | sed 's/://g' | awk -v a
 Via https://stackoverflow.com/questions/70397629/imagemagick-extract-dominant-colors-from-an-image-in-hex-and-percentages
 
 ### Scrapping Images
-**Screen from Hall of Light**
+*Screens from Hall of Light*
+
+The following Javascript snippets, pasted to the developer console while being on a page with screenshots, results in a properly formatted list of image URLs.
+
 ```js
 let screens = ''
 document.querySelectorAll('.screenshot_thumbnail').forEach(el => {
@@ -74,11 +91,12 @@ document.querySelectorAll('.screenshot_thumbnail').forEach(el => {
 console.log(screens)
 ```
 
-HOL is probably blocking `wget` request. But automating the scrapping would look like this. Save console message as text file, then execute:
+HOL is probably blocking `wget` requests. But automating the scrapping would look like this. Save console message as text file, then execute:
+
 ```bash
 wget -i images.txt
 ```
 
 
 [^1]: One needs to know the entire game to know if all relevant material has been collected.
-[^2]: Classifications of semiotic signs in video games is a difficult topic since at least the 1990ies (Espen, 1997). I'll follow a reflexive approach that documents choices and thoughts made towards the corpus.
+[^2]: Classifications of semiotic signs in video games is a difficult topic since at least the 90ies (Espen, 1997). I'll follow a reflexive approach that documents choices and thoughts made towards the corpus.
