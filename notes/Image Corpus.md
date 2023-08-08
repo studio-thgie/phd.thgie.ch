@@ -1,7 +1,7 @@
 ---
 author: Adrian Demleitner
 tags: Notes, Method, Corpus
-updated: 2023-08-08T11:27
+updated: 2023-08-08T11:34
 ---
 # Image Corpus 
 
@@ -66,7 +66,7 @@ I use [Tropy](https://www.tropy.org/) to collect, maintain and label the image m
 
 ## Aiding scripts
 ### Extracting Colours
-For a preliminary formal analysis, I will extract the dominant colours per image.
+For a specific aspect of formal analysis, I will extract the dominant colours per image.
 ```bash
 sample=PATH_TO_IMAGE
 area=$(magick $sample -format "%[fx:w*h]" info:)
