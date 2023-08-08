@@ -1,5 +1,5 @@
 ---
-updated: 2023-08-08T11:17
+updated: 2023-08-08T11:32
 ---
 # Diskussion Dissertation
 Meine Dissertation ist innerhalb des Forschungsprojektes [Confoederatio Ludens](https://chludens.ch/)[^1] situiert. Dieses interessiert sich für die Geschichte digitaler Spiele aus der Schweiz bis und mit dem Jahr 2000. Ich hatte mich auf eine ausgeschriebene PhD-Stelle beworben, bei der es hauptsächlich um die Analyse der Visualität dieser Spiele geht. Mit meinem Hintergrund Design Forschung und Software-Entwicklung hat das dann hervorragend gepasst.
@@ -19,7 +19,7 @@ Zum Schluss noch ein wenig Kontext. Ich dissertiere kummuliert in den Digital Hu
 	- [5. Research design and methodology](output/expose-v2.md#research-design-and-methodology)
 
 ## Diskussion
-- [Image Corpus](notes/Image-Corpus.md)
+- [Image Corpus](notes/Image%20Corpus.md)
 - [Abstrakt für CEEGS 2023](output/ceegs_2023/ceegs_2023.md) und [Feedback auf meine Eingabe](output/ceegs_2023/ceegs_2023_feedback.md)
 
 [^1]: https://data.snf.ch/grants/grant/209248
