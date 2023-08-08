@@ -1,5 +1,5 @@
 ---
-updated: 2023-07-27T13:47
+updated: 2023-08-08T10:50
 ---
 # Exposé
 ## Where is Switzerland? Interdisciplinary perspectives on en/decoding nationality in the visuality of early digital games from Switzerland
@@ -27,6 +27,8 @@ updated: 2023-07-27T13:47
 - outline literature so far #todo 
 
 ### 2.2 Research gap
+- also see [4. Objectives and research questions](#4.%20Objectives%20and%20research%20questions)
+
 #### 2.2.1 The image in local video game histories #todo
 
 #### 2.2.2 The image in digital games and its materiality
@@ -38,13 +40,14 @@ I am essentially interested in the transformation or translation of meaning from
 
 ### 2.3 Own research #todo
 #### 2.3.1 Corpora
-- Wikidata, Tropy
+- see [Image Corpus](notes/Image%20Corpus.md) and [OpenRefine and Wikidata](notes/OpenRefine%20and%20Wikidata.md)
 
 #### 2.3.2 Discourse Analysis
-- Ball Raider, Masculinity mit Aurelia Brandenburg
+- Case Study [Ball Raider](games/Ball%20Raider.md)
+- Masculinity mit Aurelia Brandenburg
 
 #### 2.3.3 Critical Code Analysis
-- VICE für Disk-Book
+- Case Study [VICE](notes/VICE.md)
 
 ## 3. Theoretical frameworks
 - Semiotics and discourse analysis
@@ -73,6 +76,8 @@ It is hardly possible to see beyond the horizon of transformation from code to i
 
 ### 4.2 Research questions
 - Main Question(s) #todo
+- To what extend was nationality approached through the visuality of digital games made in Switzerland in 20th century?
+- How does the visuality of digital games work with the concept of nationality?
 
 #### Related Questions
 To what extend are the technological foundations of video games and their visuality entangled? Can they be treated as separate domains, or do they have to be read as paratexts to each other? Are they on a semiological continuum, or is there a shift of expression at the moment of transformation from code to image? Can a games code be read meaningful towards the image that it emanates?

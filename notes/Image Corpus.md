@@ -1,7 +1,7 @@
 ---
 author: Adrian Demleitner
 tags: Notes, Method, Corpus
-updated: 2023-07-21T18:03
+updated: 2023-08-08T11:01
 ---
 # Image Corpus 
 
@@ -28,8 +28,7 @@ The paratextual material is restricted to what was issued by the developing and 
 
 The production of screenshots from a video game is a regress from ergodic media to static images. The gameness or dimension of gameplay is lost in this process and only traces of it are present in the final product. Sebastian Möring calls the screenshot's dependency on the source game conditional cyberimage. The loss of this aspect in the screenshots need to be considered when analysing the visual material.
 
-- what is ok
-- what is not ok
+- what is ok, what is not ok #todo
 
 *Screencasts*
 

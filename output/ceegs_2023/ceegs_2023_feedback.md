@@ -1,5 +1,5 @@
 ---
-updated: 2023-07-21T18:04
+updated: 2023-08-08T10:41
 ---
 # CEEGS 2023 Feedback
 
@@ -12,8 +12,6 @@ AUTHORS: Adrian Demleitner
 SCORE: 0 (borderline paper)  
 ----- TEXT: 
 This is an overall well written and inspiring abstract. CCA as an analytical approach is generally underserved in theories of literary/narrative gaming, and more work is needed of the kind proposed here. I'm a little puzzled that absolutely no reference is made to existing research in the field, and that no explanation is given of how DH and CCA intersect here. At the very least, I would have expected reference to the seminal work of Mark Marino, Rita Raley and Nick Montfort. The "borderline" rating is thus motivated by a lack of explicit scholarly context that would situated the proposal in existing work, as well as a lack of specificity with regards to the choice of analytical material and the choice of actual analytical tools.  
-  
-  
   
 ----------------------- REVIEW 2 ---------------------  
 SUBMISSION: 14  
@@ -39,8 +37,7 @@ Source code analysis as a tool for understanding meaning making processes of the
   
 The suggested research shows promise, but needs significant theoretical development and awareness of previous research.  
   
-References  
-  
+## References  
 Montfort, Nick, and Ian Bogost. 2009. Racing the Beam: The Atari Video Computer System. Cambridge, MA, USA: MIT Press.  
   
 Willumsen, Ea Christina. 2016. ‘Source Code and Formal Analysis: A Hermeneutic Reading of Passage’. In DiGRA/FDG ’16 - Proceedings of the First International Joint Conference of DiGRA and FDG. Dundee, Scotland: Digital Games Research Association and Society for the Advancement of the Science of Digital Games. [http://www.digra.org/wp-content/uploads/digital-library/paper_212.pdf](http://www.digra.org/wp-content/uploads/digital-library/paper_212.pdf).
