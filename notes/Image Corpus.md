@@ -1,7 +1,7 @@
 ---
 author: Adrian Demleitner
 tags: Notes, Method, Corpus
-updated: 2023-08-08T11:01
+updated: 2023-08-08T11:27
 ---
 # Image Corpus 
 

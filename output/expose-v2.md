@@ -1,5 +1,5 @@
 ---
-updated: 2023-08-08T10:50
+updated: 2023-08-08T11:27
 ---
 # Exposé
 ## Where is Switzerland? Interdisciplinary perspectives on en/decoding nationality in the visuality of early digital games from Switzerland
