@@ -1,5 +1,6 @@
 ---
-updated: 2023-08-08T11:27
+updated: 2023-08-14T16:09
+created: 2023-08-08T11:34
 ---
 # Exposé
 ## Where is Switzerland? Interdisciplinary perspectives on en/decoding nationality in the visuality of early digital games from Switzerland
@@ -7,24 +8,41 @@ updated: 2023-08-08T11:27
 
 - [1. Introduction and problem statement](#1.%20Introduction%20and%20problem%20statement)
 - [2. Current state of research](#2.%20Current%20state%20of%20research)
+	- todo: literature, image in local video game history, own research
 - [3. Theoretical framework](#3.%20Theoretical%20framework)
+	- todo: is this really necessary?
 - [4. Objectives and research questions](#4.%20Objectives%20and%20research%20questions)
 - [5. Research design and methodology](#5.%20Research%20design%20and%20methodology)
-- [6. Zeit- und Arbeitsplan](#6.%20Zeit-%20und%20Arbeitsplan)
-- [7. Bibliographie](#7.%20Bibliographie)
+	- todo: design rhetoric, discourse analysis and case studies
+- [6. Timetable and pursued output](#6.%20Timetable%20and%20pursued%20output)
+	- todo: pursued output
+- [7. Bibliography](#7.%20Bibliography)
+	- todo
 
-## 1. Introduction and problem statement
+## 1. Introduction and problem statement #todo
 - See [abstract](notes/Abstract.md) for now.
 
 ### 1.1 Visuality
-- what is meant by visuality #todo
+In using the term visuality I depend on the definitions brought forward by Gillian Rose and Paolo Favero. Here, visuality refers to the socio-cultural construction of how and what we see (Rose, 2016). I'm building on these descriptions as I am mainly interested in the image as a medium of communication, a semiotic device that attempts to transport meaning, and using rhetorics to transform intentions into affects. Coming from design rhetorics, I am interested in how designers and developers of games encoded meaning and rhetoric into the images, as well as the effects of these onto the players. Gillian Rose herself is building upon the work by Hal Foster, who defined visuality as the "how we see, how we are able, allowed, or made to see, and how we see this seeing and the unseeing therein". This relates the term visuality to the slightly more complex scopic regime (Jay, 2008). 
 
-### 1.2 Visuality in digital games
-- on the specifics of the visible image in video games, see Stefan Möring's Conditional Cyberimage. #todo
+### 1.2 (Historical) Visuality in digital games #todo
+As in every other medium, the visuality in digital games has its own specifics. Being of high relevancy to this dissertation, I'll try to outline two of them in the following: ergodicity and techno-historic limits.
+
+Digital games are especially demanding of their consumers as the medium relies on a high level of participation. The difference between reading a book, watching a film or playing a digital game was especially well captured by Espen Aarseth's application of ergodicity in his book Cybertext. Coming from literature studies, Aarseth speaks of a "nontrivial effort [that] is required to allow the reader to traverse the text" (Aarseth, 1997). This needed effort does not guarantee an exhaustive capture of the played game or a successful play-through. The player creates a path through the configuration of a textual machine, by participating in the game.
+
+This ergodicity is an important aspect when considering the image visible on the screen. The image represents one possible state, defined by the elements that the designers of the game provided, configured by the player's participation. At the same moment, the image on screen communicates choices for the player, who then can reconfigure it by acting within the game. The image holds its own future possibilities by being within a feedback loop between itself and the player. The above outlined process happens in parallel to the communicative features of the image, which can also speak of information relevant to the game's state, such as highscores or player lives, as well as transporting narratives that are creating context and experience for the player. 
+
+The second aspect of heightened relevance is the relationship between the image and its technological structures, from which it springs forth. Being digital born, the image in digital games is depending on hardware and software in order to be seen. These can be considered the material aspect of visuality in digital games. Analog to Aarseth's coining of cybertext, Stefan Möring applies the term cyberimage to denote the images dependance on its underlying technological structures as well as the player's interaction with the machine (Gerling et al., 2022). 
+
+Todays digital games playing devices are powerful computers and myriad of softwares and frameworks aid in the development and design. Game development in the early days of game design looked quite different. The capabilities of computers were fairly limited and the technical realisation of the games had to be done in early programming languages, such as Basic or even Assembler dialects. This circumstances form the techno-historic limits of early digital game design and directly influenced formal and semiotic aspects of those games' visuality (Hutchison, 2008). These limits as well as the intimate interplay between the technological foundation as a semiotic system in itself and the visible image will be considered in this dissertation through the application of critical code analysis (Marino, 2020).
 
 ## 2. Current state of research
 ### 2.1 Literature
 - outline literature so far #todo 
+	- Critical Code Studies
+	- Ergodicity, Cyberimage
+	- Images, Visuality, Aesthetics
+	- Rhetorics, Semiotics
 
 ### 2.2 Research gap
 - also see [4. Objectives and research questions](#4.%20Objectives%20and%20research%20questions)
@@ -75,9 +93,7 @@ The third objective wants to research the consequences, impact and effects of mo
 It is hardly possible to see beyond the horizon of transformation from code to image. Looking at the visuality one can only make assumption about the code and vice versa. This has a profound impact on designing visuality through code.
 
 ### 4.2 Research questions
-- Main Question(s) #todo
-- To what extend was nationality approached through the visuality of digital games made in Switzerland in 20th century?
-- How does the visuality of digital games work with the concept of nationality?
+To what extend was nationality approached through the visuality of digital games made in Switzerland in 20th century? How does the visuality of digital games work with the concept of nationality?
 
 #### Related Questions
 To what extend are the technological foundations of video games and their visuality entangled? Can they be treated as separate domains, or do they have to be read as paratexts to each other? Are they on a semiological continuum, or is there a shift of expression at the moment of transformation from code to image? Can a games code be read meaningful towards the image that it emanates?
@@ -137,19 +153,34 @@ It is one of this dissertations appeals to open data: In order to study digital 
 #### 5.3.2 Image reception
 As a historical analysis, research into the reception of the image, an important aspect of design rhetoric, is limited. This shortcoming can be balanced by the Horror-Game-Politics method, which is a source-critical approach that builds on research into the  context. 
 
-## 6.  Zeit- und Arbeitsplan
-- 4 Jahre, 2023 - 2027
+## 6.  Timetable and pursued output
+### 6.1 Timetable
 
-- Analyse darf auch konservativ angedacht werden; darf auch mal methodisch konservativer angegangen werden; einfach mal design rethoric durchrattern
-- Was wäre eine Idee für eine praktische Arbeit welche reviewed werden könnte (zB katharinas mapping) > Journey for Digital History; Review kann auch organisiert werden; trotzdem vier Aufsätze planen
+| Timeframe       | Milestones   | Steps                                                                                  |
+| --------------- | ------------ | -------------------------------------------------------------------------------------- |
+| 2023, Feb - Dec | Exposé       | - Literature Research<br> - Development of methodological framework<br> - Case studies |
+| 2024, Jan - Jun | 1. Paper     |                                                                                        |
+| 2024, Jul - Dec | 2. Paper     |                                                                                        |
+| 2025, Jan - Jun | 3. Paper     |                                                                                        |
+| 2025, Jul - Dec | 4. Paper     |                                                                                        |
+| 2026            | Dissertation |                                                                                        |
 
-1. Jahr: Literatur Recherche, Methodenfindung und Testing, Inhaltliche Auseinandersetzung durch Arbeit am Korpus und Prepapers; Expose
-2. Jahr: Arbeit, Forschung und Schreiben an zwei Artikeln
-	- 1ste Hälfte 2024 Particuliarities of visuality in video games, Close Reading Images (Diskurs Analyse, Design Rhetoric)
-	- 2te Hälfte 2024 Particuliarities of Researching (visuality in) old Video Games from a practical aspects (necessity of play in researching video games, emulators, preservation) -> [Themenhefte Zeithistorische Forschungen Themenheft: Digital-born ](https://zzf-potsdam.de/de/news/cfp-neue-themenhefte-zeithistorische-forschungenstudies-contemporary-history-22-2025)
-3. Jahr: Arbeit, Forschung und Schreiben an zwei Artikeln
-	- 1ste Hälfte 2025 Close Reading Technological Foundation (Critical Code analysis, Design Rhetoric, Korpus Analyse?)
-	- 2te Hälfte 2025 Ausarbeitung 
-4. Jahr: Arbeit an der Dissertation, Artikel zusammenbringen 
+### 6.2 Pursued output #todo
+- Historical research on the visuality of digital games
+- Researching the visuality of digital games in the digital humanities; conservative and methodological approach
+- Additional practical output; platform for the exploration of the researched media
 
-## 7.  Bibliographie
+## 7.  Bibliography #todo 
+Aarseth, E. J. (1997). _Cybertext: Perspectives on ergodic literature_. Johns Hopkins University Press.
+
+Favero, P. S. (2020). A Possible Framework for Digital Visuality. _Anthrovision. Vaneasa Online Journal_, _8.1_, Article 8.1. [https://journals.openedition.org/anthrovision/7735](https://journals.openedition.org/anthrovision/7735)
+
+Gerling, W., Möring, S., & De Mutiis, M. (2022). _Screen Images In-Game Photography, Screenshot, Screencast_ (1. Auflage). Kulturverlag Kadmos Berlin.
+
+Hutchison, A. (2008). Making the Water Move: Techno-Historic Limits in the Game Aesthetics of Myst and Doom. _Game Studies_, _8_(1). [http://gamestudies.org/0801/articles/hutch](http://gamestudies.org/0801/articles/hutch)
+
+Jay, M. (2008). Scopic Regime. In _The International Encyclopedia of Communication_. John Wiley & Sons, Ltd. [https://doi.org/10.1002/9781405186407.wbiecs017](https://doi.org/10.1002/9781405186407.wbiecs017)
+
+Marino, M. C. (2020). _Critical code studies_. The MIT Press. [https://mitpress.mit.edu/9780262043656/critical-code-studies/](https://mitpress.mit.edu/9780262043656/critical-code-studies/)
+
+Rose, G. (2016). _Visual methodologies: An introduction to researching with visual materials_ (4th edition). SAGE Publications Ltd. [http://study.sagepub.com/rose4e](http://study.sagepub.com/rose4e)
