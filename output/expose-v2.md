@@ -1,6 +1,6 @@
 ---
-updated: 2023-08-14T16:09
-created: 2023-08-08T11:34
+updated: 2023-08-14T16:14
+created: 2023-08-14T16:12
 ---
 # Exposé
 ## Where is Switzerland? Interdisciplinary perspectives on en/decoding nationality in the visuality of early digital games from Switzerland
@@ -19,13 +19,13 @@ created: 2023-08-08T11:34
 - [7. Bibliography](#7.%20Bibliography)
 	- todo
 
-## 1. Introduction and problem statement #todo
-- See [abstract](notes/Abstract.md) for now.
+## 1. Introduction and problem statement
+- See [abstract](notes/Abstract.md) for now.  #todo
 
 ### 1.1 Visuality
 In using the term visuality I depend on the definitions brought forward by Gillian Rose and Paolo Favero. Here, visuality refers to the socio-cultural construction of how and what we see (Rose, 2016). I'm building on these descriptions as I am mainly interested in the image as a medium of communication, a semiotic device that attempts to transport meaning, and using rhetorics to transform intentions into affects. Coming from design rhetorics, I am interested in how designers and developers of games encoded meaning and rhetoric into the images, as well as the effects of these onto the players. Gillian Rose herself is building upon the work by Hal Foster, who defined visuality as the "how we see, how we are able, allowed, or made to see, and how we see this seeing and the unseeing therein". This relates the term visuality to the slightly more complex scopic regime (Jay, 2008). 
 
-### 1.2 (Historical) Visuality in digital games #todo
+### 1.2 (Historical) Visuality in digital games
 As in every other medium, the visuality in digital games has its own specifics. Being of high relevancy to this dissertation, I'll try to outline two of them in the following: ergodicity and techno-historic limits.
 
 Digital games are especially demanding of their consumers as the medium relies on a high level of participation. The difference between reading a book, watching a film or playing a digital game was especially well captured by Espen Aarseth's application of ergodicity in his book Cybertext. Coming from literature studies, Aarseth speaks of a "nontrivial effort [that] is required to allow the reader to traverse the text" (Aarseth, 1997). This needed effort does not guarantee an exhaustive capture of the played game or a successful play-through. The player creates a path through the configuration of a textual machine, by participating in the game.
