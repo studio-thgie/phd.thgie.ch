@@ -1,7 +1,8 @@
 ---
 author: Adrian Demleitner
 tags: Notes, Method, Corpus
-updated: 2023-08-08T11:35
+updated: 2023-08-15T14:21
+created: 2023-08-14T16:15
 ---
 # Image Corpus 
 
@@ -96,6 +97,12 @@ HOL is probably blocking `wget` requests. But automating the scrapping would loo
 wget -i images.txt
 ```
 
+*Mobygames with HTTrack*
+
+Command generated through WebHTTrack and adjusted.
+```bash
+httrack -q -%i -w 'https://www.mobygames.com/game/1618/commando/' -O "/Users/dna4/Downloads/Scrapping/Commando2" -n -%P -N0 -s2 -p7 -D -a -K0 -c10 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" '-*.webp' '-*.css' '-*.js' '-*.xml' '+*.png' '+*.gif' '+*.jpg' '+*.jpeg' -%s -%u
+```
 
 [^1]: One needs to know the entire game to know if all relevant material has been collected.
 [^2]: Classifications of semiotic signs in video games is a difficult topic since at least the 90ies (Espen, 1997). I'll follow a reflexive approach that documents choices and thoughts made towards the corpus.
