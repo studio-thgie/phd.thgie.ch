@@ -16,6 +16,7 @@ tags: [{% for tag in tags %}{{tag.tag}}{% if not loop.last %}, {% endif %}{% end
 {{bibliography}}
 {% if abstractNote %}## Abstract
 {{abstractNote}}{% endif %}
+
 ## Notes
 {% if markdownNotes %}{{markdownNotes}}{% endif %}
 {% persist "notes" %}{% endpersist %}
