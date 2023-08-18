@@ -1,9 +1,14 @@
 ---
 author: Adrian Demleitner
 title: Dump
+created: 2023-08-17T10:42
+updated: 2023-08-18T15:42
 ---
 
 # Dump
+## 2023-08-18
+How does design rhetorics deal with the death of the author and intentional fallacy?
+
 ## 2023-07-20
 - A project on the maps drawn by people for various video games would be fantastic.
 - Studying a games visuality through its limits and glitches is an interesting approach, and there is probably already material on that.
