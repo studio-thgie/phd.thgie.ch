@@ -7,7 +7,7 @@ tags:
   - authorship
   - formal analysis
   - Source code
-created: 2023-08-18T15:58
+created: 2023-08-18T16:00
 updated: 2023-08-18T16:00
 ---
 # Source Code and Formal Analysis: A Hermeneutic Reading of Passage
@@ -20,6 +20,7 @@ updated: 2023-08-18T16:00
 
 ## Bibliography
 Willumsen, E. C. (2016). _Source Code and Formal Analysis: A Hermeneutic Reading of Passage_. [http://www.digra.org/digital-library/publications/source-code-and-formal-analysis-a-hermeneutic-reading-of-passage/](http://www.digra.org/digital-library/publications/source-code-and-formal-analysis-a-hermeneutic-reading-of-passage/)
+
 ## Abstract
 White-box analysis of video games is not an integrated part of the formal analysis. Rather, few scholars have investigated how an analysis of the source code can inform a hermeneutic reading of the game. In this paper I will present a reading of the source code of Passage (Rohrer, 2007), argue for why a focus on authorial intention is unnecessary when investigating the symbolism and metaphors of a game, and illustrate how the whitebox analysis can inform the formal analysis of the executed game. Finally, I shall discuss how the source code relates to the game as a ‘work’, and how it can be used for studies of symbolism and metaphors. Thus I will conclude that it is indeed a valuable method for game studies, albeit needing more studies on the textual relation between executed game and source code.
 
@@ -106,4 +107,4 @@ White-box analysis of video games is not an integrated part of the formal analys
 ## Related
 %% begin related %%%% end related %%
 
-%% Import Date: 2023-08-18T16:00:03.825+02:00 %%
+%% Import Date: 2023-08-18T16:00:46.929+02:00 %%

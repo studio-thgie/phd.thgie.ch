@@ -14,7 +14,8 @@ tags: [{% for tag in tags %}{{tag.tag}}{% if not loop.last %}, {% endif %}{% end
 
 ## Bibliography
 {{bibliography}}
-{% if abstractNote %}## Abstract
+{% if abstractNote %}
+## Abstract
 {{abstractNote}}{% endif %}
 
 ## Notes
