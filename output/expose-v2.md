@@ -1,6 +1,6 @@
 ---
-updated: 2023-08-14T16:14
-created: 2023-08-14T16:12
+updated: 2023-08-21T13:47
+created: 2023-08-18T16:01
 ---
 # Exposé
 ## Where is Switzerland? Interdisciplinary perspectives on en/decoding nationality in the visuality of early digital games from Switzerland
@@ -20,7 +20,17 @@ created: 2023-08-14T16:12
 	- todo
 
 ## 1. Introduction and problem statement
-- See [abstract](notes/Abstract.md) for now.  #todo
+Video games are manifestations of designerly intentions, which is the conscious and planned execution of a design into a product. People of all trades, from code to graphics, thus transform their knowledge and skills into a playable and meaningful experience. But as cultural products, video games communicate much more than these design intentions. They also integrate unspoken and subconscious assumptions, bias and ideologies.
+
+This is equally true for the visuality of the video game, on which this proposal is concentrating. To analyse this, I will present an approach to a critical and close reading of the transformation of code to images. Drawing on critical code analysis and discourse analysis, I combine methodologies from design research and the digital humanities. Critical readings serve the purpose of unearthing and dissecting power structures and the generation of meaning in and from our cultural artefacts. Such readings open up our research objects to a plethora of interpretations.
+
+The images in video games differ from paintings or photographs. They are not materially fixed in time-space, but procedurally generated in the moment of play. If we take a closer look at the image of video games and accept it as an artefact that is calculated and constructed by code and computer hardware, we must conclude that the underlying technology is formative for its discourse and meaning. Respectively, that programmers and graphic designers alike are significantly involved in the circulation and formation of meanings and power relations through the image in video games.
+
+Research on the visuality of video games largely ignores the interplay and interconnection of visuality and its technological underlayer. There seems to be a hard to bridge gap, a momentum where the description of images is transformed into the visuality of video games. It's a moment where meaning is transfered from one system of signifiers (code) into another (visuality), from one sphere of disciplines to another. This calls for an approach depending on interactional expertise. Coming from design research I am interested into how these two spheres are part of a whole, being created by people with intentions and having effects.
+
+In my approach assume a hitherto invisible rift between the research on the image of the digital game and its material base. The image of digital games brings with its own specificities. The constituted image, visible on the screen, is being born from the hardware's[^1] calculation. It is interactive and as such holds within itself a plurality of different futures, actualizing itself upon the player's input. Research on the image of digital games more often than not focuses either on the constituted and visible image, or its material basis – either on visuality or technology.
+
+Following my assumption is the thesis that there is an unacknowledged interplay between the techno-historic limits of digital game development and the reception of the image, respectfully, the generation of meaning for the player. Working on this research question demands an interdisciplinary approach that can handle both domains, technology and visuality, halves of a proposed whole. The methods used in this project are lent from digital humanities, design research and video game studies and assembled into an interdisciplinary methodology of critical reading the visuality of digital games.
 
 ### 1.1 Visuality
 In using the term visuality I depend on the definitions brought forward by Gillian Rose and Paolo Favero. Here, visuality refers to the socio-cultural construction of how and what we see (Rose, 2016). I'm building on these descriptions as I am mainly interested in the image as a medium of communication, a semiotic device that attempts to transport meaning, and using rhetorics to transform intentions into affects. Coming from design rhetorics, I am interested in how designers and developers of games encoded meaning and rhetoric into the images, as well as the effects of these onto the players. Gillian Rose herself is building upon the work by Hal Foster, who defined visuality as the "how we see, how we are able, allowed, or made to see, and how we see this seeing and the unseeing therein". This relates the term visuality to the slightly more complex scopic regime (Jay, 2008). 
@@ -45,16 +55,14 @@ Todays digital games playing devices are powerful computers and myriad of softwa
 	- Rhetorics, Semiotics
 
 ### 2.2 Research gap
-- also see [4. Objectives and research questions](#4.%20Objectives%20and%20research%20questions)
-
-#### 2.2.1 The image in local video game histories #todo
-
-#### 2.2.2 The image in digital games and its materiality
+#### The image in digital games, and its materiality
 Based on my assumptions, it is my hypothesis that there is an unacknowledged interplay between the techno-historic limits of video game development and the reception of the image, respectfully, the generation of meaning for the player. Working on this research question demands an interdisciplinary approach that can handle both domains, technology and visuality, halves of a proposed whole.
 
 Coding for visuality involves multimodal design. The code written and the output generated by that code does not correlate aesthetically. The brief moment of translation, from one system of signifiers into another happens already in the coders mind (or knowledge) before the computational act itself. There is a double rhetoric at play, one for the code, one for the visuality.
 
 I am essentially interested in the transformation or translation of meaning from one system of signifiers into another. The materiality of visuality in video games is only on the surface comparable to paint in the painting. It is much closer to artworks where the artist wrote instructions. The basis of the image in video games is of textual nature, and as such opens it self to being analysed like a literal text.
+
+Further reading is provided in *[4. Objectives and research questions](#4.%20Objectives%20and%20research%20questions)*.
 
 ### 2.3 Own research #todo
 #### 2.3.1 Corpora
@@ -68,7 +76,6 @@ I am essentially interested in the transformation or translation of meaning from
 - Case Study [VICE](notes/VICE.md)
 
 ## 3. Theoretical frameworks
-- Semiotics and discourse analysis
 - Design rhetorics
 - Cybertext- and image
 
@@ -129,18 +136,13 @@ All three corpora are built and maintained with FAIR/CARE principles in mind. Th
 #### 5.2.3 Horror Game Politics Method
 The HGP method is a historical, source-critical approach to studying video games, which focuses on analysing production, product, and reception. Developed by Eugen Pfister and Arno Görgen, this method aids in reconstructing the original context through production- and reception analysis.
 
-Since I will study the visuality as well as the source code of digital games mainly from the 1980ies and 1990ies it is important to situate the analysis properly in its historical context. The HGP method is building on Roland Barthes approach to myth-making, and was applied to reading into the political myth of horror games. This aspect of the HGP method will help me in the discourse analysis of case studies, outlined in 5.2.7.
-
-#### 5.2.4 Oral History
-An important aspect of the Confoederatio Ludens project is filling in the archival gap on the development of digital games in Switzerland. Researching the intentions of the developers, coders and graphic artists is linked to this dissertation's methods design rhetoric as well as critical code analysis, outlined in 5.2.5 and 5.2.6. I will approach oral history from an anthropological perspective, attempting to research the cultural context from the perspectives of the people entangled within those contexts. A goal of this method is to find and identify the migration, translation and transformation of visual signifiers that are visible in the games as well as understanding where the knowledge and skills regarding programming are coming from.
+Since I will study the visuality as well as the source code of digital games mainly from the 1980ies and 1990ies it is important to situate the analysis properly in its historical context. The HGP method is building on Roland Barthes approach to myth-making, and was applied to reading into the political myth of horror games. This aspect of the HGP method will help me in the discourse analysis of case studies, outlined in 5.2.6.
 
 #### 5.2.5 Design rhetoric #todo
 - I feel that design rhetorics is a key methods in bringing technology and visuality together. There is a beautiful tension between the intentions of the developers and graphic artists, that are deposited into the source code, and the affects created in the image on screen.
 
 #### 5.2.6 Critical code analysis
 Critical code analysis describes source code for software not only as functional instructions for machines, but also as cultural artefacts written by humans for humans, akin literature. This means, that source code could potentially be read in order to acquire knowledge about socio-cultural and historical contexts. To what extend source code can be treated as a literary text, or leaning more on the Foucauldian notion of text, has been tested and described in 2.4.3. First preliminary results indicate that source code is rich in knowledge, but difficult to access through digital humanities distant readings approaches.
-
-#### 5.2.7 Discourse Analysis; Case studies #todo
 
 ### 5.3 Possible problems
 In the following I will reflect on possible weaknesses in outlined research design as well as how to mitigate the risks.
@@ -166,9 +168,11 @@ As a historical analysis, research into the reception of the image, an important
 | 2026            | Dissertation |                                                                                        |
 
 ### 6.2 Pursued output #todo
-- Historical research on the visuality of digital games
-- Researching the visuality of digital games in the digital humanities; conservative and methodological approach
-- Additional practical output; platform for the exploration of the researched media
+- Possible papers
+	- Description and analysis of image-corpus
+	- Historical research on the visuality of digital games
+	- Researching the visuality of digital games in the digital humanities; conservative and methodological approach
+	- Additional practical output; platform for the exploration of the researched media
 
 ## 7.  Bibliography #todo 
 Aarseth, E. J. (1997). _Cybertext: Perspectives on ergodic literature_. Johns Hopkins University Press.
