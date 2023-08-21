@@ -2,13 +2,13 @@
 title: Abstract
 author: Adrian Demleitner
 tags: Notes
-updated: 2023-08-21T13:55
-created: 2023-08-21T13:52
+updated: 2023-08-21T13:59
+created: 2023-08-21T13:58
 ---
 # Abstract
 Video games are manifestations of designerly intentions, which is the conscious and planned execution of a design into a product. People of all trades, from code to graphics, thus transform their knowledge and skills into a playable and meaningful experience. But as cultural products, video games communicate much more than these design intentions. They also integrate unspoken and subconscious assumptions, bias and ideologies.
 
-This is equally true for the visuality of the video game, on which this proposal is concentrating. To analyse this, I will present an approach to a critical and close reading of the transformation of code to images. Drawing on critical code analysis and discourse analysis, I combine methodologies from design research and the digital humanities. Critical readings serve the purpose of unearthing and dissecting power structures and the generation of meaning in and from our cultural artefacts. Such readings open up our research objects to a plethora of interpretations.
+This is equally true for the visuality of the video game, on which this proposal is concentrating. To analyse this, I will present an approach to a critical and close reading of the transformation of code to images. Drawing on critical code analysis and design rethorics, I combine methodologies from design research and the digital humanities. Critical readings serve the purpose of unearthing and dissecting power structures and the generation of meaning in and from our cultural artefacts. Such readings open up our research objects to a plethora of interpretations.
 
 The images in video games differ from paintings or photographs. They are not materially fixed in time-space, but procedurally generated in the moment of play. If we take a closer look at the image of video games and accept it as an artefact that is calculated and constructed by code and computer hardware, we must conclude that the underlying technology is formative for its discourse and meaning. Respectively, that programmers and graphic designers alike are significantly involved in the circulation and formation of meanings and power relations through the image in video games.
 

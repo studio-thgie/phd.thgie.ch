@@ -1,6 +1,6 @@
 ---
-updated: 2023-08-21T13:47
-created: 2023-08-18T16:01
+updated: 2023-08-21T14:00
+created: 2023-08-21T13:58
 ---
 # Exposé
 ## Where is Switzerland? Interdisciplinary perspectives on en/decoding nationality in the visuality of early digital games from Switzerland
@@ -13,7 +13,7 @@ created: 2023-08-18T16:01
 	- todo: is this really necessary?
 - [4. Objectives and research questions](#4.%20Objectives%20and%20research%20questions)
 - [5. Research design and methodology](#5.%20Research%20design%20and%20methodology)
-	- todo: design rhetoric, discourse analysis and case studies
+	- todo: design rhetoric
 - [6. Timetable and pursued output](#6.%20Timetable%20and%20pursued%20output)
 	- todo: pursued output
 - [7. Bibliography](#7.%20Bibliography)
@@ -22,7 +22,7 @@ created: 2023-08-18T16:01
 ## 1. Introduction and problem statement
 Video games are manifestations of designerly intentions, which is the conscious and planned execution of a design into a product. People of all trades, from code to graphics, thus transform their knowledge and skills into a playable and meaningful experience. But as cultural products, video games communicate much more than these design intentions. They also integrate unspoken and subconscious assumptions, bias and ideologies.
 
-This is equally true for the visuality of the video game, on which this proposal is concentrating. To analyse this, I will present an approach to a critical and close reading of the transformation of code to images. Drawing on critical code analysis and discourse analysis, I combine methodologies from design research and the digital humanities. Critical readings serve the purpose of unearthing and dissecting power structures and the generation of meaning in and from our cultural artefacts. Such readings open up our research objects to a plethora of interpretations.
+This is equally true for the visuality of the video game, on which this proposal is concentrating. To analyse this, I will present an approach to a critical and close reading of the transformation of code to images. Drawing on critical code analysis and design rethorics, I combine methodologies from design research and the digital humanities. Critical readings serve the purpose of unearthing and dissecting power structures and the generation of meaning in and from our cultural artefacts. Such readings open up our research objects to a plethora of interpretations.
 
 The images in video games differ from paintings or photographs. They are not materially fixed in time-space, but procedurally generated in the moment of play. If we take a closer look at the image of video games and accept it as an artefact that is calculated and constructed by code and computer hardware, we must conclude that the underlying technology is formative for its discourse and meaning. Respectively, that programmers and graphic designers alike are significantly involved in the circulation and formation of meanings and power relations through the image in video games.
 
