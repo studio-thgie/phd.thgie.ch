@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"type":"group","id":"ebe35be8d581cc64","x":0,"y":-600,"width":595,"height":720,"label":"Layers"},
+		{"type":"group","id":"d42572e5517b3422","x":800,"y":-400,"width":320,"height":320,"label":"Disciplines"},
+		{"type":"text","text":"# [Meso](notes/Micro%20-%20Meso%20-%20Macro.md)\n- *Methode*: Vis/Des Rethoric\n- *Focus*: Visualität","id":"6d176a6e7a34351b","x":40,"y":-300,"width":500,"height":120,"color":"#000000"},
+		{"type":"text","text":"# [Micro](notes/Micro%20-%20Meso%20-%20Macro.md)\n- *Methode*: Critical Code Analysis\n- *Focus*: Code der digitalen Games","id":"5a5da9fb5123ae2f","x":40,"y":-40,"width":500,"height":120,"color":"#000000"},
+		{"type":"text","text":"# [Macro](notes/Micro%20-%20Meso%20-%20Macro.md)\n- *Methode*: Bild-Korpus: Aufbau und Analyse\n- *Focus*: Metadaten, Korpus","id":"9e0e3be0eabd9585","x":40,"y":-560,"width":500,"height":120,"color":"#000000"},
+		{"type":"text","text":"Digital Humanities","id":"8097cd232f2f282a","x":835,"y":-360,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Design Forschung \\**","id":"222c9f54ee701785","x":835,"y":-270,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Design Forschung\n\\+ Digital Humanities","id":"c03347f20c8d90a9","x":835,"y":-180,"width":250,"height":80,"color":"4"},
+		{"type":"text","text":"# Ausgangslage\nLiteraturrecherche zur Visualität des Screen-Bildes in digitalen Spielen","id":"c40283350f73845f","x":-640,"y":-304,"width":354,"height":129,"color":"4"},
+		{"type":"text","text":"# \\* coding for vis. as designerly activity\nWenn wir uns für das Werk einer Autorin interessieren, studieren wir in der Regel ihre Texte, deren Inhalt, den Kontext der Arbeiten, ihr Leben. Analog auf meine Forschung angewandt, interessiere ich mich für das Schreibzeug der Autorin und wie dieses Schreibzeug in Beziehung zum Schreiben und zum Werk steht. Kuli und Schreibmaschine können beide helfen, Texte zu schreiben. Jedoch sind beide auf ihre Weise strukturell formativ für das Arbeiten und Texte. Die Schreibmaschine ist organisierter, schränkt dafür die kreative Freiheit ein. Der Kuli ist dynamischer, erfordert dafür mehr Energie und Zeit.","id":"c417a98e77d72409","x":40,"y":300,"width":500,"height":360},
+		{"type":"text","text":"# [Possible output](output/expose-v2.md#6.2%20Pursued%20output%20todo)\n\n- Description and analysis of image-corpus (DH)\n\t- Additional: platform for the exploration of the corpus\n- On the code of older digital games as corpus and archival material (DH)\n- Historical research on the visuality of older digital games in Switzerland (DR)\n- Researching the relationship between code and visuality\n","id":"d8d844fcf91e0f79","x":1320,"y":-350,"width":640,"height":220,"color":"#000000"},
+		{"type":"text","text":"# \\** Design Forschung\n- … interessiert sich dafür wie Dinge gestaltet werden und wie sich die gestalteten Dinge in der Welt verhalten. In der Design Rethorik liegt der Fokus dann auch auf Intention und Affekt/Effekt.\n- Gestalten in der Design Forschung bezeichnet grob gesagt das geplante Erstellen, Ausführen oder Konstruieren von Dingen (nicht gezwungenermassen materieller Natur).\n- Der Fokus liegt oft auf Disziplinen welche traditionell dem Design zugeschrieben werden, wie Industrie und Produkte Design, Grafik und Kommunikation, neu aber auch Prozesse und Systeme.","id":"9051b0adea2e6605","x":710,"y":300,"width":500,"height":360}
+	],
+	"edges":[
+		{"id":"58ba90f1a3eac143","fromNode":"6d176a6e7a34351b","fromSide":"bottom","toNode":"5a5da9fb5123ae2f","toSide":"top","fromEnd":"arrow","label":"coding for vis. as designerly activity *"},
+		{"id":"76d7f049f8f1d1d2","fromNode":"9e0e3be0eabd9585","fromSide":"bottom","toNode":"6d176a6e7a34351b","toSide":"top","fromEnd":"arrow","label":"distant reading visuality"},
+		{"id":"560c0acd3c50a694","fromNode":"9e0e3be0eabd9585","fromSide":"left","toNode":"5a5da9fb5123ae2f","toSide":"left","fromEnd":"arrow"},
+		{"id":"e526fe15999072fd","fromNode":"222c9f54ee701785","fromSide":"left","toNode":"6d176a6e7a34351b","toSide":"right"},
+		{"id":"48464c9c35b2004f","fromNode":"8097cd232f2f282a","fromSide":"left","toNode":"9e0e3be0eabd9585","toSide":"right"},
+		{"id":"c68dfa05aaf4ffb5","fromNode":"c03347f20c8d90a9","fromSide":"left","toNode":"5a5da9fb5123ae2f","toSide":"right"},
+		{"id":"53dae987057d8efb","fromNode":"d42572e5517b3422","fromSide":"right","toNode":"d8d844fcf91e0f79","toSide":"left"},
+		{"id":"30ccf77931c72b1a","fromNode":"c40283350f73845f","fromSide":"right","toNode":"ebe35be8d581cc64","toSide":"left"}
+	]
+}

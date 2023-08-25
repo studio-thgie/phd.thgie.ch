@@ -1,3 +1,7 @@
+---
+created: 2023-08-21T14:00
+updated: 2023-08-23T14:35
+---
 # Choose your own Adventures in Source Code
 ## Critically reading the Commodore 64 emulator VICE's code base
 Adrian Demleitner
@@ -10,7 +14,7 @@ For my case-study I chose the Versatile Commodore Emulator (VICE), an establishe
 
 My initial findings suggest that critical code analysis can be a valuable and veritable approach to researching programming code. Nonetheless, there is still work to be done concerning the specific textuality of source code, especially regarding larger code bases.
 
-## From afar
+## I. From afar
 The digital humanities are well-equipped with methodologies for corpus analysis, the research on large collections of text. I would argue that the code base of VICE could be described as such. There are close to 3000 text-files amounting to more than 700'000 lines of source code, written in C and GTK+. To prepare the code base, I split it into three distinct corpora through the help of Python scripts. The first being the original code, whereas the other two containing just either functional code or comments.
 
 I continued by throwing these newly created collections at Voyant Tools. Being an application for the lightweight study of text, Voyant Tools is often a first stop in the exploration of a textual corpus. Through text mining, it can produce statistics like word frequencies, but also pointing to relations within the text, like topics or correlations.
@@ -25,18 +29,18 @@ Being a pioneer in the research of electronic literature, he was also a proponen
 
 It seems that source code could be seen as hypertext, but written at once for machine logic and something in the direction of a "Choose Your own Adventure Book". The relationality of a code base grows from the necessity of optimizing functional instructions for a computer. The optimization fragments a text into discrete units, striking a balance between machinic efficiency and the mental models and communicative units of the developers. 
 
-## From up close
-To get a better view on the human aspects of the code base I started to concentrate on the functional code's paratext, the comments, and approached them through close readings.
+## II. From up close
+To supplement the extensive analysis from a distance, I delved into more subtle material. In my close reading, I employed the heuristic method introduced by Ea Christina Willumsen, which delves into the naming practices of variables and explores microstructures such as the underlying logic within functions (Willumsen, 2016). Furthermore, I examined the paratext surrounding the functional code, namely the comments, to gain deeper insights into the social dimensions of the codebase.
 
 I quickly encountered difficulties when writing the regular expression (regex) pattern, which helped in splitting the code base into files containing just code or just comments. Some of the issues include different applications of block quotes, varied wordings in the licence or mixed ways of author attributions. This kind of diversity is to be expected in such a large and old code base. I was positively surprised by which rigour and exactitude licence, author attribution and comments were applied in this specific project. The beauty and magic of regex is its ability to handle diversity, for example, enabling inclusivity through the application of the asterisk character (*).
 
 The different commenting styles triggered my interest and I started to look at them not only in terms of what they say, but also how they express themselves. The question arose, what intent drives the style of a comment? Of course, brevity and precision, but many comments wouldn’t fit one or the other. Some comments indicate what should happen, or comment the process along the lines of code. Then again, other comments tell little stories or expand an arcane line of code with cryptic numbers, undecipherable to the uninitiated.
 
 [CODE]
-	/* drive speed is 300RPM, that is 300/60=5 revolutions per second
-	 * reference clock is 16MHz, one revolution has 16MHz/5 reference cycles
-	 */
-	clk_ref_per_rev = 16000000 / (300 / 60);
+/* drive speed is 300RPM, that is 300/60=5 revolutions per second
+ * reference clock is 16MHz, one revolution has 16MHz/5 reference cycles
+ */
+clk_ref_per_rev = 16000000 / (300 / 60);
 [CODE]
 
 Whereas the style of functional code can be enforced and standardized by a style guide or even automation, comments are often more open to interpretation and the intent of the authors. A comment is at once communication as well as documentation towards a more or less defined public and time frame. A comment tries to explain code that is not self-evident and one of the most important aspects of collaborative software projects. The comments in the VICE code base were clear examples of different attempts to explain specific implementations, but also the intentions of the author. In a few examples, social processes became evident, for example the comment of a hacky implementation that could be done better but would not lead to improved results. The author left the better implementation to somebody else and added a smiley face.
@@ -61,37 +65,40 @@ I didn't know about this, although I read the reports on how the specificities o
 
 [CODE]
 /* Line is now bad, so we must switch to display state.
-	Anyway, we cannot do it here as the 'ycounter' handling
-	must happen in as in idle state.  */
+    Anyway, we cannot do it here as the 'ycounter' handling
+    must happen in as in idle state.  */
 [CODE]
 
 I will cross a threshold here briefly, all scientificality aside. This comment is close to a poem and I get reminded of the DeCSS haiku, where a software for removing copyright protection from DVDs was rewritten as a series of haikus [LINK 1].
 
-## Discussion
+## III. Discussion
 The intent for this exploration was twofold – figuring out what kind of text source code is and using it as the epistemological lense to research a project and its contextuality.
 
 As a final measurement, I briefly researched the VICE developer community as well as its relation to the code base. An interesting view arose when visualizing which developers worked on which files [NOTE 1]. The authors' networked had 2590 nodes and 3390 edges. In contrast to the source code files thick web, this visualization lead to the clear insight, that just a handful of people worked the majority of the code base, with around ten key actors. In a quick check, I could figure out that more than half of the key actors are not listed as “current developers” on the website. It is also these people who mostly collaborated on files.
 
 Using the VICE code base as a point of venture to research the emulator has been fruitful, even in this abbreviated approach. I found socio-cultural traces as well as embedded knowledge. The badline implementation, for instance, is a beautiful example of the need to translate the specificities of hardware into software. The code then becomes an executable documentation of hardware which might one day be no longer, leaving behind an epistemic object to read into the past.
 
-Concerning the textuality of source code regarding critical code analysis, I am inconclusive yet. First attempts through Voyant Tools and Gephi show that source code can lean heavily towards hypertext. I am tempted to apply the term cybertext, which Espen Aarseth introduced in 1997 in his studies of the textuality of video games and is a subcategory of ergodic literature. Literature becomes ergodic when considerable effort is required to traverse the text and includes semiotic sequences that linear reading can't account for. 
+Regarding the textual nature of source code in the context of critical code analysis, I remain undecided. Source code differs from its compiled, interpreted, and executed outputs. Willumsen contends that conventional concepts like "hypotext," "cybertext," or "paratext" inadequately capture the relationship between a game and its underlying code (Willumsen, 2016). Initial explorations using Voyant Tools and Gephi indicate that source code can exhibit characteristics akin to hypertext. Understanding the interplay among fragments of source code may demand the expertise of a skilled reader or assistance from software tools. Similar to Espen Aarseth's concept of cybertext, source code is ergodic, demanding significant effort to read and containing semiotic sequences beyond the scope of linear comprehension (Aarseth, 1997).
 
-Files and functions in the source code act as the written signifiers, or textons when going with cybertext. Those become a text when being read, or a scripton (Aarseth, 1997). The possible arrangements of reading through the textons into scriptons are probably uncountable, depending on a feedback loop between machine and user. At the same time, files and functions also point to mental models and communicative units between the developers. I want to point to the "line_becomes_bad" function again, as it denotes at once an internal state of the emulator, describes action that has to be taken upon this happening as well as embedding knowledge on the specifics of the original Commodore 64 hardware, the VIC-II.
+Beyond their textual essence, files and functions are enmeshed in multifaceted relationships. These connections span interpreters, compilers, runtimes, integrated development environments (IDEs), programming languages, resulting executed outputs, and, after all, the authors. Pointing to the mental models and communicative units shared among developers, fragments within the source code function as written signifiers, which transform into coherent text during reading. Revisiting the "line_becomes_bad" function exemplifies this. It simultaneously signifies an emulator's internal state, outlines necessary actions in response, and encapsulates insights into the intricate details of the original Commodore 64 hardware, specifically the VIC-II component.
 
 Distant and close reading source code can lead to meaningful insights, but its structure withdraws established approaches for now. How can the digital humanities treat source code, respecting its specific textuality as outlined above? How do we go about close reading highly fragmented cybertexts? What kind of knowledge or insight can be gained from distant reading source code, aside from visualizations?
 
-## Bibliography
-Aarseth, E.J. (1997) _Cybertext: perspectives on ergodic literature_. Baltimore, Md: Johns Hopkins University Press.
+IV. Bibliography
+Aarseth, E.J. (1997) Cybertext: perspectives on ergodic literature  Baltimore, Md: Johns Hopkins University Press.
 
-Höltgen, S. (ed.) (2014) _Shift-Restore-Escape: Retrocomputing und Computerarchäologie_. Deutsche Erstausgabe, 1. Auflage. Winnenden: CSW-Verlag (Retrotopia, Band 1).
+Höltgen, S. (ed.) (2014) Shift-Restore-Escape: Retrocomputing und Computerarchäologie  Deutsche Erstausgabe, 1. Auflage. Winnenden: CSW-Verlag (Retrotopia, Band 1).
 
-Höltgen, S. (2020) ‘OPEN HISTORY’. Available at: [https://doi.org/10.18452/21165](https://doi.org/10.18452/21165).
+Höltgen, S. (2020) ‘OPEN HISTORY’. Available at: https://doi.org/10.18452/21165.
 
-Marino, M.C. (2020) _Critical code studies_. Cambridge, Massachusetts: The MIT Press (Software studies (Cambridge, Mass.)). Available at: [https://mitpress.mit.edu/9780262043656/critical-code-studies/](https://mitpress.mit.edu/9780262043656/critical-code-studies/) (Accessed: 20 April 2023).
+Marino, M.C. (2020) Critical code studies  Cambridge, Massachusetts: The MIT Press (Software studies (Cambridge, Mass.)). Available at: https://mitpress.mit.edu/9780262043656/critical-code-studies/.
 
-Wolf, M.J.P. and Perron, B. (eds) (2014) _The routledge companion to video game studies_. New York, NY: Routledge (Routledge companions).
+Willumsen, E.C. (2016) ‘Source Code and Formal Analysis: A Hermeneutic Reading of Passage’. Available at: http://www.digra.org/digital-library/publications/source-code-and-formal-analysis-a-hermeneutic-reading-of-passage/.
 
-[NOTE 1]: A documentation on this experiment, further readings, visualisations as well as the mentioned Python scripts can be found under https://phd.thgie.ch/notes/VICE.html
-[NOTE 2]: An in-depth discussion of this hack can be found under https://web.archive.org/web/20230518134443/https://bumbershootsoft.wordpress.com/2015/10/18/partial-badlines-glitching-on-purpose. Watch closely, as the post explain hacking a video interface chip, hardware, but is able to show the results in the VICE emulator.
+Wolf, M.J.P. and Perron, B. (eds) (2014) The routledge companion to video game studies  New York, NY: Routledge (Routledge companions).
 
-[LINK 1]: https://en.wikipedia.org/wiki/DeCSS_haiku
+
+NOTE 1: A documentation on this experiment, further readings, visualisations as well as the mentioned Python scripts can be found under https://phd.thgie.ch/notes/VICE.html
+NOTE 2: An in-depth discussion of this hack can be found under https://web.archive.org/web/20230518134443/https://bumbershootsoft.wordpress.com/2015/10/18/partial-badlines-glitching-on-purpose. Watch closely, as the post explain hacking a video interface chip, hardware, but is able to show the results in the VICE emulator.
+
+LINK 1: https://en.wikipedia.org/wiki/DeCSS_haiku

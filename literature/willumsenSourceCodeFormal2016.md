@@ -7,8 +7,8 @@ tags:
   - authorship
   - formal analysis
   - Source code
-created: 2023-08-18T16:00
-updated: 2023-08-18T16:00
+created: 2023-08-21T14:00
+updated: 2023-08-23T13:51
 ---
 # Source Code and Formal Analysis: A Hermeneutic Reading of Passage
 
@@ -20,6 +20,8 @@ updated: 2023-08-18T16:00
 
 ## Bibliography
 Willumsen, E. C. (2016). _Source Code and Formal Analysis: A Hermeneutic Reading of Passage_. [http://www.digra.org/digital-library/publications/source-code-and-formal-analysis-a-hermeneutic-reading-of-passage/](http://www.digra.org/digital-library/publications/source-code-and-formal-analysis-a-hermeneutic-reading-of-passage/)
+
+
 
 ## Abstract
 White-box analysis of video games is not an integrated part of the formal analysis. Rather, few scholars have investigated how an analysis of the source code can inform a hermeneutic reading of the game. In this paper I will present a reading of the source code of Passage (Rohrer, 2007), argue for why a focus on authorial intention is unnecessary when investigating the symbolism and metaphors of a game, and illustrate how the whitebox analysis can inform the formal analysis of the executed game. Finally, I shall discuss how the source code relates to the game as a ‘work’, and how it can be used for studies of symbolism and metaphors. Thus I will conclude that it is indeed a valuable method for game studies, albeit needing more studies on the textual relation between executed game and source code.
@@ -46,7 +48,7 @@ White-box analysis of video games is not an integrated part of the formal analys
 
 [Go to annotation](zotero://open-pdf/groups/4724071/items/6T2RWZGL?page=5&annotation=C8J9RZNG) “As with any other game example, large parts of Passage’s code are not relevant for this investigation. The few lines that are useful for the analysis have been found by playing through the game, interpreting symbolism and metaphors, and returning to the code to see if any of this is spelled out in the code.” ([Willumsen, 2016, p. 5](zotero://select/groups/4724071/items/6SIBNJWL))
 
-- those two paragraphs point to method and how to approach cirtical code analysis in video games research
+- those two paragraphs point to method and how to approach critical code analysis in video games research
 - the naming of variables and functions  offers clear pointer to things that might be ambiguous in the executed game (ie the player becoming a gravestone, meaning death, but in the sourcecode it is clearly written that the player is dead)
 - reading gender and relationship stereotyping form source code!
 

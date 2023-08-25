@@ -1,11 +1,20 @@
 ---
 author: Adrian Demleitner
 title: Dump
-created: 2023-08-17T10:42
-updated: 2023-08-18T15:42
+created: 2023-08-21T14:00
+updated: 2023-08-24T06:54
 ---
 
 # Dump
+## 2023-08-24
+Some questions that arose in yesterdays discussion on my dissertation in a DHSpiele meeting.
+
+- [ ] Do I get some source code at all?
+- [ ] Which technical aspects of the image do I study?
+- [ ] Can I at least include short animated sequences in my corpus?
+- [ ] Which version of the executed image do I study, on which software, hardware, monitor?
+- [ ] What were hardware specifics, that designers used and misused, like the VIC-ii badline, but for other systems?
+
 ## 2023-08-18
 How does design rhetorics deal with the death of the author and intentional fallacy?
 

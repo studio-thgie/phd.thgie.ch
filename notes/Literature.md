@@ -1,16 +1,12 @@
 ---
 tags: Notes
-created: 2023-08-17T10:42
-updated: 2023-08-18T15:57
+created: 2023-08-21T14:00
+updated: 2023-08-25T18:03
 ---
 # Literature
 
 The bibliography for this dissertation is continuously updated and can be downloaded: [bibliography.bib](assets/bibliography.bib). The works listed below were selected as being of higher relevance for my work and usually contain reading notes.
 
----
-updated: 2023-08-14T16:12
-created: 2023-08-14T16:12
----
 | Title                                                                                                                                                                               | Authors                                                | Tags                                                                                                                                                                                                                             | Year |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | [Hadōken!](literature/birkenHadoken2022.md)                                                                                                                                       | Jacob Birken                                           |                                                                                                                                                                                                                                  | 2022 |
