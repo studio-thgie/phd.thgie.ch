@@ -1,6 +1,6 @@
 ---
-created: 2023-08-21T14:00
-updated: 2023-08-23T14:35
+created: 2023-08-31T09:23
+updated: 2023-08-31T09:36
 ---
 # Choose your own Adventures in Source Code
 ## Critically reading the Commodore 64 emulator VICE's code base
@@ -84,7 +84,7 @@ Beyond their textual essence, files and functions are enmeshed in multifaceted r
 
 Distant and close reading source code can lead to meaningful insights, but its structure withdraws established approaches for now. How can the digital humanities treat source code, respecting its specific textuality as outlined above? How do we go about close reading highly fragmented cybertexts? What kind of knowledge or insight can be gained from distant reading source code, aside from visualizations?
 
-IV. Bibliography
+## IV. Bibliography
 Aarseth, E.J. (1997) Cybertext: perspectives on ergodic literature  Baltimore, Md: Johns Hopkins University Press.
 
 Höltgen, S. (ed.) (2014) Shift-Restore-Escape: Retrocomputing und Computerarchäologie  Deutsche Erstausgabe, 1. Auflage. Winnenden: CSW-Verlag (Retrotopia, Band 1).
@@ -98,7 +98,7 @@ Willumsen, E.C. (2016) ‘Source Code and Formal Analysis: A Hermeneutic Reading
 Wolf, M.J.P. and Perron, B. (eds) (2014) The routledge companion to video game studies  New York, NY: Routledge (Routledge companions).
 
 
-NOTE 1: A documentation on this experiment, further readings, visualisations as well as the mentioned Python scripts can be found under https://phd.thgie.ch/notes/VICE.html
+NOTE 1: A documentation on this experiment, further readings, visualisations as well as the mentioned Python scripts can be found under https://phd.thgie.ch/notes/VICE.html<br>
 NOTE 2: An in-depth discussion of this hack can be found under https://web.archive.org/web/20230518134443/https://bumbershootsoft.wordpress.com/2015/10/18/partial-badlines-glitching-on-purpose. Watch closely, as the post explain hacking a video interface chip, hardware, but is able to show the results in the VICE emulator.
 
 LINK 1: https://en.wikipedia.org/wiki/DeCSS_haiku

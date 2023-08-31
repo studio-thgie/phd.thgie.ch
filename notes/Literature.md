@@ -1,7 +1,7 @@
 ---
 tags: Notes
-created: 2023-08-21T14:00
-updated: 2023-08-25T18:03
+created: 2023-08-31T09:23
+updated: 2023-08-31T09:35
 ---
 # Literature
 
@@ -37,4 +37,4 @@ The bibliography for this dissertation is continuously updated and can be downlo
 | [Making the Water Move: Techno-Historic Limits in the Game Aesthetics of Myst and Doom](literature/hutchisonMakingWaterMove2008a.md)                                              | Andrew Hutchison                                       | artificial intelligence, aesthetics, AI., Doom, games, historical, Moore’s law, Myst, rendering, technical                                                                                                                       | 2008 |
 | [Cybertext, Perspectives on Ergodic Literature](literature/malloyCybertextPerspectivesErgodic1998.md)                                                                             | Judy Malloy, Espen J. Aarseth                          |                                                                                                                                                                                                                                  | 1998 |
 | [A Pixel is not a Little Square](literature/smithPixelNotLittle1995.md)                                                                                                           | Alvy Ray Smith                                         |                                                                                                                                                                                                                                  | 1995 |
-| [willumsenSourceCodeFormal](literature/willumsenSourceCodeFormal.md)                                                                                                              | \-                                                     | \-                                                                                                                                                                                                                               | \-   |
+| [willumsenSourceCodeFormal2016](literature/willumsenSourceCodeFormal2016.md)                                                                                                              | \-                                                     | \-                                                                                                                                                                                                                               | \-   |
