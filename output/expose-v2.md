@@ -1,10 +1,10 @@
 ---
-updated: 2023-08-25T16:14
-created: 2023-08-21T14:00
+updated: 2023-08-31T09:07
+created: 2023-08-25T18:04
 ---
 # Exposé
 ## Where is Switzerland? Interdisciplinary perspectives on en/decoding nationality in the visuality of early digital games from Switzerland
-*Work in progress.*
+*Work in progress. Page-links don't work in Webview.* 
 
 - [1. Introduction and problem statement](#1.%20Introduction%20and%20problem%20statement)
 - [2. Current state of research](#2.%20Current%20state%20of%20research)
@@ -13,7 +13,7 @@ created: 2023-08-21T14:00
 	- todo: is this really necessary?
 - [4. Objectives and research questions](#4.%20Objectives%20and%20research%20questions)
 	- todo: [4.1.1](#4.1.1%20Historical%20design%20analysis%20of%20the%20visuality%20of%20Swiss%20video%20games) outline source code corpus
-	- todo: [4.1.2](#4.1.2%20Bridging%20the%20analysis%20of%20visuality%20and%20technology%20in%20video%20games) needs to expanded
+	- todo: [4.1.2](#4.1.2%20Bridging%20the%20analysis%20of%20visuality%20and%20technology%20in%20video%20games) needs to be expanded
 	- todo: [4.1.3](#4.1.3%20Discourse%20on%20multimodality%20of%20coding%20for%20visuality) needs to be rewritten
 	- todo: [4.2 Research questions](#4.2%20Research%20questions) need considerations
 - [5. Research design and methodology](#5.%20Research%20design%20and%20methodology)
@@ -26,7 +26,7 @@ created: 2023-08-21T14:00
 ## 1. Introduction and problem statement
 Video games are manifestations of designerly intentions, which is the conscious and planned execution of a design into an output. People of all trades, from code to graphics, thus transform their knowledge and skills into a playable and meaningful experience. But as cultural products, video games communicate much more than these intentioned designs. They also capture unspoken and subconscious assumptions, bias and ideologies, as well as historical contexts.
 
-This is equally true for the visuality of the video game, on which this proposal is concentrating. To analyse this, I will present an approach of critical reading of the transformation of code to images [rewrite after Sonia Fizek's text]. Drawing on critical code analysis and design rethorics, I combine methodologies from design research and the digital humanities. Critical readings serve the purpose of unearthing and dissecting power structures and the generation of meaning in and from our cultural artefacts. Such readings open up our research objects to a plethora of interpretations.
+This is equally true for the visuality of the video game, on which this proposal is concentrating. To analyse this, I will present an approach of critical reading of the transformation of code to images (rewrite this part after [Sonia Fizek's text](literature/fizekLudicGlassMaking2022.md)). Drawing on critical code analysis and design rethorics, I combine methodologies from design research and the digital humanities. Critical readings serve the purpose of unearthing and dissecting power structures and the generation of meaning in and from our cultural artefacts. Such readings open up our research objects to a plethora of interpretations.
 
 The images in video games differ from paintings or photographs. They are not materially fixed in time-space, but again and again computed, reacting on interaction and changes in the game state. If we take a closer look at the image of video games and accept it as an artefact that is calculated and constructed by code and computer hardware, we must conclude that the underlying technology is formative for its discourse and meaning. Respectively, that programmers and graphic designers alike are significantly involved in the circulation and formation of meanings and power relations through the image in video games.
 
@@ -75,7 +75,7 @@ Further reading is provided in *[4. Objectives and research questions](#4.%20Obj
 
 #### 2.3.2 Discourse Analysis
 - Case Study [Ball Raider](games/Ball%20Raider.md)
-- Masculinity mit Aurelia Brandenburg
+- [Bare Chested Men](notes/Bare%20Chested%20Men.md) mit Aurelia Brandenburg
 
 #### 2.3.3 Critical Code Analysis
 - Case Study [VICE](notes/VICE.md)
@@ -103,7 +103,7 @@ More information on the corpora can be found under 5.2.2.
 #### 4.1.2 Bridging the analysis of visuality and technology in video games #todo
 Stepping fully into my own dissertation I want to bridge the analysis of two different domains. Code and visuality are interrelated and part of the feedback loop of gaming machine and player. This objective is distinguished by being research through a methodological approach, the goal being testing and examining the possibilities of a joined analysis of the two halves of this proposed whole.
 
-- this needs to be expanded I believe 
+- this needs to be expanded
 
 #### 4.1.3 Discourse on multimodality of coding for visuality #todo
 

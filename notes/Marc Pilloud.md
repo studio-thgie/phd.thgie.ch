@@ -1,6 +1,6 @@
 ---
-created: 2023-08-21T14:00
-updated: 2023-08-24T17:23
+created: 2023-08-25T18:04
+updated: 2023-08-28T13:25
 ---
 # Marc Pilloud
 
@@ -15,14 +15,11 @@ While searching for a mail of him I found a mail from 2013, from my BA at HyperW
 
 So, there is an interesting trajectory from making games in 1986 to working on "innovative" digital projects in 2000 and later.
 
-## Interview Leitfaden
-- Einleitung
-	- Wer bin ich (HyperWerk erwähnen)
-	- Kontextualisierung Projekt
-	- Rechtliches
-- Leitfragen
-	- Robox als Einstieg wählen
-	- Inhaltliche und technische Details zu Robox
-	- Eigene Geschichte und Werdegang
-	- Stets frühe Auseinandersetzung mit Digitalität
-	- Fonopoly
+## Memo Interview 2023-08-28
+I was a bit nervous about the setup. Finding a place wasn't straight forward. The participant hesitated to invite me to his home and I didn't want to push on that end. We figured that a public coffee-place of his choosing would be the best option. I checked the place out and it seem to be a rather neutral place, without music but with possible background noise. I tested how my recording setup (iPhone and Zoom iQ7) would handle that and decided that it would produce a useable recording. I also prepared a few topics that I could mention if the discussion stalls. 
+
+We met in said coffee, the participant already prepared and was halfway through a coffee, although I was already 20 minutes to early. I felt the participant to be slightly at unease, not quite sure what will await him. I started with some chit chat before hand, sharing my experience with my train ride and, after getting a coffee for myself, continue to introduce myself as well as explain the research project and our approach to oral history. 
+
+The participant brought with some design- and production-documents from the time they created the game Robox in 1985/86. We didn't delve right away into those documents, but I let him explain the context and some overview of the game. What followed was a meandering retelling of his own life, and I felt the interview leaning heavily towards the intimate. He scratched and mentioned difficulties that were in relationship to the participants personal life, social network, and career. He also stated personal opinions and point of views that I know he would be judged against in other contexts. I'm still a bit taken by the depth of the highly personal insights he gave during this interview, although not oversharing.
+
+Next to getting insights into different moments of the participant's life and doings, we came back to Robox every now and then and he was able to outline some important to and interesting bits of how the game came to life. He mentioned his friend Laro a few times and spoke well of him. We said, that he will contact Laro, to ask him if he would be open for an interview as well.

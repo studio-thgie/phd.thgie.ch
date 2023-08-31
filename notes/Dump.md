@@ -1,11 +1,14 @@
 ---
 author: Adrian Demleitner
 title: Dump
-created: 2023-08-21T14:00
-updated: 2023-08-24T06:54
+created: 2023-08-25T18:04
+updated: 2023-08-30T15:44
 ---
 
 # Dump
+## 2023-08-20
+How do different programming languages (and hardwares) enable different kind of creativities and modes of expression, besides formal aspects of color schemes or poligon counts.
+
 ## 2023-08-24
 Some questions that arose in yesterdays discussion on my dissertation in a DHSpiele meeting.
 
