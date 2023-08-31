@@ -58,7 +58,7 @@
         also been written on academically, making it a perfect epistemic
         object (Höltgen, 2014, 2020) and opening it up to critical
         analysis. In my own approach, I engaged with VICE through
-        distant and close reading methods. [NOTE 1]</p>
+        distant and close reading methods. [^NOTE 1]</p>
         <p>My initial findings suggest that critical code analysis can
         be a valuable and veritable approach to researching programming
         code. Nonetheless, there is still work to be done concerning the
@@ -162,10 +162,10 @@
         along the lines of code. Then again, other comments tell little
         stories or expand an arcane line of code with cryptic numbers,
         undecipherable to the uninitiated.</p>
-        <p>[CODE]<br> /* drive speed is 300RPM, that is 300/60=5
-        revolutions per second<br> * reference clock is 16MHz, one
-        revolution has 16MHz/5 reference cycles<br> */<br>
-        clk_ref_per_rev = 16000000 / (300 / 60);<br> [CODE]</p>
+        <pre><code>/* drive speed is 300RPM, that is 300/60=5 revolutions per second
+ * reference clock is 16MHz, one revolution has 16MHz/5 reference cycles
+ */
+clk_ref_per_rev = 16000000 / (300 / 60);</code></pre>
         <p>Whereas the style of functional code can be enforced and
         standardized by a style guide or even automation, comments are
         often more open to interpretation and the intent of the authors.
@@ -180,15 +180,13 @@
         implementation that could be done better but would not lead to
         improved results. The author left the better implementation to
         somebody else and added a smiley face.</p>
-        <p>[CODE]<br> rf =
-        gcr_read_sector(&amp;image-&gt;gcr-&gt;tracks[(dadr-&gt;track *
-        2) - 2], buf, (uint8_t)dadr-&gt;sector);<br> /* HACK: if the
-        image has an error map, and the “FDC” did not detect an<br>
-        error in the GCR stream, use the error from the error map
-        instead.<br> FIXME: what should really be done is encoding the
-        errors from the<br> error map into the GCR stream. this is a lot
-        more effort and will<br> give the exact same results, so i will
-        leave it to someone else :)<br> */<br> [CODE]</p>
+        <pre><code>rf = gcr_read_sector(&amp;image-&gt;gcr-&gt;tracks[(dadr-&gt;track * 2) - 2], buf, (uint8_t)dadr-&gt;sector);
+/* HACK: if the image has an error map, and the &quot;FDC&quot; did not detect an
+error in the GCR stream, use the error from the error map instead.
+FIXME: what should really be done is encoding the errors from the
+error map into the GCR stream. this is a lot more effort and will
+give the exact same results, so i will leave it to someone else :)
+*/</code></pre>
         <p>In numerous instances, the comments also point to another
         essential point, which is the translation of electronic
         architecture into software processes (Höltgen, 2014, 2020). This
@@ -225,13 +223,13 @@
         code enabled the re-enactment of these unofficial practices. The
         following remark was found in the function “line_becomes_bad” in
         the file “vicii-badline.c”.</p>
-        <p>[CODE]<br> /* Line is now bad, so we must switch to display
-        state.<br> Anyway, we cannot do it here as the ‘ycounter’
-        handling<br> must happen in as in idle state. */<br> [CODE]</p>
+        <pre><code>/* Line is now bad, so we must switch to display state.
+    Anyway, we cannot do it here as the &#39;ycounter&#39; handling
+    must happen in as in idle state.  */</code></pre>
         <p>I will cross a threshold here briefly, all scientificality
         aside. This comment is close to a poem and I get reminded of the
         DeCSS haiku, where a software for removing copyright protection
-        from DVDs was rewritten as a series of haikus [LINK 1].</p>
+        from DVDs was rewritten as a series of haikus [^LINK 1].</p>
         <h2 id="iii.-discussion">III. Discussion</h2>
         <p>The intent for this exploration was twofold – figuring out
         what kind of text source code is and using it as the
@@ -290,33 +288,38 @@
         go about close reading highly fragmented cybertexts? What kind
         of knowledge or insight can be gained from distant reading
         source code, aside from visualizations?</p>
-        <h2 id="iv.-bibliography">IV. Bibliography</h2>
-        <p>Aarseth, E.J. (1997) Cybertext: perspectives on ergodic
-        literature Baltimore, Md: Johns Hopkins University Press.</p>
+        <ol start="4" type="I">
+        <li>Bibliography Aarseth, E.J. (1997) Cybertext: perspectives on
+        ergodic literature Baltimore, Md: Johns Hopkins University
+        Press.</li>
+        </ol>
         <p>Höltgen, S. (ed.) (2014) Shift-Restore-Escape: Retrocomputing
         und Computerarchäologie Deutsche Erstausgabe, 1. Auflage.
         Winnenden: CSW-Verlag (Retrotopia, Band 1).</p>
-        <p>Höltgen, S. (2020) ‘OPEN HISTORY’. Available at:
-        https://doi.org/10.18452/21165.</p>
+        <p>Höltgen, S. (2020) ‘OPEN HISTORY’. Available at: <a
+        href="https://doi.org/10.18452/21165">https://doi.org/10.18452/21165</a>.</p>
         <p>Marino, M.C. (2020) Critical code studies Cambridge,
         Massachusetts: The MIT Press (Software studies (Cambridge,
-        Mass.)). Available at:
-        https://mitpress.mit.edu/9780262043656/critical-code-studies/.</p>
+        Mass.)). Available at: <a
+        href="https://mitpress.mit.edu/9780262043656/critical-code-studies/">https://mitpress.mit.edu/9780262043656/critical-code-studies/</a>.</p>
         <p>Willumsen, E.C. (2016) ‘Source Code and Formal Analysis: A
-        Hermeneutic Reading of Passage’. Available at:
-        http://www.digra.org/digital-library/publications/source-code-and-formal-analysis-a-hermeneutic-reading-of-passage/.</p>
+        Hermeneutic Reading of Passage’. Available at: <a
+        href="http://www.digra.org/digital-library/publications/source-code-and-formal-analysis-a-hermeneutic-reading-of-passage/">http://www.digra.org/digital-library/publications/source-code-and-formal-analysis-a-hermeneutic-reading-of-passage/</a>.</p>
         <p>Wolf, M.J.P. and Perron, B. (eds) (2014) The routledge
         companion to video game studies New York, NY: Routledge
         (Routledge companions).</p>
-        <p>NOTE 1: A documentation on this experiment, further readings,
-        visualisations as well as the mentioned Python scripts can be
-        found under https://phd.thgie.ch/notes/VICE.html<br> NOTE 2: An
-        in-depth discussion of this hack can be found under
-        https://web.archive.org/web/20230518134443/https://bumbershootsoft.wordpress.com/2015/10/18/partial-badlines-glitching-on-purpose.
+        <p>[^NOTE 1]: A documentation on this experiment, further
+        readings, visualisations as well as the mentioned Python scripts
+        can be found under <a
+        href="https://phd.thgie.ch/notes/VICE.html">https://phd.thgie.ch/notes/VICE.html</a>
+        [^NOTE 2]: An in-depth discussion of this hack can be found
+        under <a
+        href="https://web.archive.org/web/20230518134443/https://bumbershootsoft.wordpress.com/2015/10/18/partial-badlines-glitching-on-purpose">https://web.archive.org/web/20230518134443/https://bumbershootsoft.wordpress.com/2015/10/18/partial-badlines-glitching-on-purpose</a>.
         Watch closely, as the post explain hacking a video interface
         chip, hardware, but is able to show the results in the VICE
         emulator.</p>
-        <p>LINK 1: https://en.wikipedia.org/wiki/DeCSS_haiku</p>
+        <p>[^LINK 1]: <a
+        href="https://en.wikipedia.org/wiki/DeCSS_haiku">https://en.wikipedia.org/wiki/DeCSS_haiku</a></p>
     </main>
 
     <footer class="text-sm">
