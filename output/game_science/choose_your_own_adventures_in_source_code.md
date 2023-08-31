@@ -1,6 +1,6 @@
 ---
-created: 2023-08-31T09:38
-updated: 2023-08-31T09:43
+created: 2023-08-31T09:43
+updated: 2023-08-31T09:44
 ---
 # Choose your own Adventures in Source Code
 ## Critically reading the Commodore 64 emulator VICE's code base
@@ -10,7 +10,7 @@ Critical code analysis (Marino, 2020) situates source code not only as functiona
 
 Emulators are crucial to studying video games of the past. They re-enact computing platforms and enable access to systems no longer produced and maintained. Most emulator projects are community-driven, with a variety of approaches to accuracy and authenticity. Although being acknowledged as an influencing factor to the experience of video games (Wolf and Perron, 2014). Beyond describing their functionality, only few attempts were made to research them. 
 
-For my case-study I chose the Versatile Commodore Emulator (VICE), an established software project and being in continuous development since 1993. VICE can emulate different Commodore models and configurations, hence the Versatile in its name. In my search for a fitting study object, I found the source code of VICE to be very well documented and commented. Further, VICE has also been written on academically, making it a perfect epistemic object (Höltgen, 2014, 2020) and opening it up to critical analysis. In my own approach, I engaged with VICE through distant and close reading methods. [^NOTE 1]
+For my case-study I chose the Versatile Commodore Emulator (VICE), an established software project and being in continuous development since 1993. VICE can emulate different Commodore models and configurations, hence the Versatile in its name. In my search for a fitting study object, I found the source code of VICE to be very well documented and commented. Further, VICE has also been written on academically, making it a perfect epistemic object (Höltgen, 2014, 2020) and opening it up to critical analysis. In my own approach, I engaged with VICE through distant and close reading methods. [NOTE 1]
 
 My initial findings suggest that critical code analysis can be a valuable and veritable approach to researching programming code. Nonetheless, there is still work to be done concerning the specific textuality of source code, especially regarding larger code bases.
 
@@ -69,7 +69,7 @@ I didn't know about this, although I read the reports on how the specificities o
     must happen in as in idle state.  */
 ```
 
-I will cross a threshold here briefly, all scientificality aside. This comment is close to a poem and I get reminded of the DeCSS haiku, where a software for removing copyright protection from DVDs was rewritten as a series of haikus [^LINK 1].
+I will cross a threshold here briefly, all scientificality aside. This comment is close to a poem and I get reminded of the DeCSS haiku, where a software for removing copyright protection from DVDs was rewritten as a series of haikus [LINK 1].
 
 ## III. Discussion
 The intent for this exploration was twofold – figuring out what kind of text source code is and using it as the epistemological lense to research a project and its contextuality.
@@ -97,7 +97,8 @@ Willumsen, E.C. (2016) ‘Source Code and Formal Analysis: A Hermeneutic Reading
 
 Wolf, M.J.P. and Perron, B. (eds) (2014) The routledge companion to video game studies  New York, NY: Routledge (Routledge companions).
 
-[^NOTE 1]: A documentation on this experiment, further readings, visualisations as well as the mentioned Python scripts can be found under [https://phd.thgie.ch/notes/VICE.html](https://phd.thgie.ch/notes/VICE.html)
-[^NOTE 2]: An in-depth discussion of this hack can be found under [https://web.archive.org/web/20230518134443/https://bumbershootsoft.wordpress.com/2015/10/18/partial-badlines-glitching-on-purpose](https://web.archive.org/web/20230518134443/https://bumbershootsoft.wordpress.com/2015/10/18/partial-badlines-glitching-on-purpose). Watch closely, as the post explain hacking a video interface chip, hardware, but is able to show the results in the VICE emulator.
 
-[^LINK 1]: [https://en.wikipedia.org/wiki/DeCSS_haiku](https://en.wikipedia.org/wiki/DeCSS_haiku)
+NOTE 1: A documentation on this experiment, further readings, visualisations as well as the mentioned Python scripts can be found under [https://phd.thgie.ch/notes/VICE.html](https://phd.thgie.ch/notes/VICE.html)
+NOTE 2: An in-depth discussion of this hack can be found under [https://web.archive.org/web/20230518134443/https://bumbershootsoft.wordpress.com/2015/10/18/partial-badlines-glitching-on-purpose](https://web.archive.org/web/20230518134443/https://bumbershootsoft.wordpress.com/2015/10/18/partial-badlines-glitching-on-purpose). Watch closely, as the post explain hacking a video interface chip, hardware, but is able to show the results in the VICE emulator.
+
+LINK 1: [https://en.wikipedia.org/wiki/DeCSS_haiku](https://en.wikipedia.org/wiki/DeCSS_haiku)
