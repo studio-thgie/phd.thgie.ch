@@ -1,11 +1,11 @@
 ---
-updated: 2023-08-31T09:23
-created: 2023-08-31T09:21
+updated: 2023-08-31T10:11
+created: 2023-08-31T10:11
 ---
 # Exposé
 ## Procedural visuality – Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
 
-*Work in progress. Page-links don't work in Webview.* 
+*Work in progress. In-page links don't work online.* 
 
 - [1. Introduction and problem statement](#1.%20Introduction%20and%20problem%20statement)
 - [2. Current state of research](#2.%20Current%20state%20of%20research)
