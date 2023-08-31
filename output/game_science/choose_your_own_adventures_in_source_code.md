@@ -1,6 +1,6 @@
 ---
-created: 2023-08-31T09:23
-updated: 2023-08-31T09:36
+created: 2023-08-31T09:37
+updated: 2023-08-31T09:38
 ---
 # Choose your own Adventures in Source Code
 ## Critically reading the Commodore 64 emulator VICE's code base
@@ -36,23 +36,23 @@ I quickly encountered difficulties when writing the regular expression (regex) p
 
 The different commenting styles triggered my interest and I started to look at them not only in terms of what they say, but also how they express themselves. The question arose, what intent drives the style of a comment? Of course, brevity and precision, but many comments wouldn’t fit one or the other. Some comments indicate what should happen, or comment the process along the lines of code. Then again, other comments tell little stories or expand an arcane line of code with cryptic numbers, undecipherable to the uninitiated.
 
-[CODE]
-/* drive speed is 300RPM, that is 300/60=5 revolutions per second
- * reference clock is 16MHz, one revolution has 16MHz/5 reference cycles
- */
-clk_ref_per_rev = 16000000 / (300 / 60);
+[CODE]<br>
+/* drive speed is 300RPM, that is 300/60=5 revolutions per second<br>
+ * reference clock is 16MHz, one revolution has 16MHz/5 reference cycles<br>
+ */<br>
+clk_ref_per_rev = 16000000 / (300 / 60);<br>
 [CODE]
 
 Whereas the style of functional code can be enforced and standardized by a style guide or even automation, comments are often more open to interpretation and the intent of the authors. A comment is at once communication as well as documentation towards a more or less defined public and time frame. A comment tries to explain code that is not self-evident and one of the most important aspects of collaborative software projects. The comments in the VICE code base were clear examples of different attempts to explain specific implementations, but also the intentions of the author. In a few examples, social processes became evident, for example the comment of a hacky implementation that could be done better but would not lead to improved results. The author left the better implementation to somebody else and added a smiley face.
 
-[CODE]
-rf = gcr_read_sector(&image->gcr->tracks[(dadr->track * 2) - 2], buf, (uint8_t)dadr->sector);
-/* HACK: if the image has an error map, and the "FDC" did not detect an
-error in the GCR stream, use the error from the error map instead.
-FIXME: what should really be done is encoding the errors from the
-error map into the GCR stream. this is a lot more effort and will
-give the exact same results, so i will leave it to someone else :)
-*/
+[CODE]<br>
+rf = gcr_read_sector(&image->gcr->tracks[(dadr->track * 2) - 2], buf, (uint8_t)dadr->sector);<br>
+/* HACK: if the image has an error map, and the "FDC" did not detect an<br>
+error in the GCR stream, use the error from the error map instead.<br>
+FIXME: what should really be done is encoding the errors from the<br>
+error map into the GCR stream. this is a lot more effort and will<br>
+give the exact same results, so i will leave it to someone else :)<br>
+*/<br>
 [CODE]
 
 In numerous instances, the comments also point to another essential point, which is the translation of electronic architecture into software processes (Höltgen, 2014, 2020). This became evident when attempting to read through a specific aspect of the VICE code base, the implementation of the Video Interface Chip II (VIC-II). In my own research, I am moved by questions regarding the interplay of technology and visuality in video games. Which is why I attempted to better understand the graphic capabilities of the Commodore but also the translation of its graphics hardware into the VICE emulator.
@@ -63,10 +63,10 @@ One of these unofficial methods involved the misuse of badlines. A badline refer
 
 I didn't know about this, although I read the reports on how the specificities of hardware also need to be translated into the emulator. Reading the comments as well as the source code closely pointed me down an interesting factuality about the VIC-II. The arcane knowledge of hacking graphic modes on the Commodore 64 got embedded in code and comments. Even more, the code enabled the re-enactment of these unofficial practices. The following remark was found in the function "line_becomes_bad" in the file "vicii-badline.c".
 
-[CODE]
-/* Line is now bad, so we must switch to display state.
-    Anyway, we cannot do it here as the 'ycounter' handling
-    must happen in as in idle state.  */
+[CODE]<br>
+/* Line is now bad, so we must switch to display state.<br>
+    Anyway, we cannot do it here as the 'ycounter' handling<br>
+    must happen in as in idle state.  */<br>
 [CODE]
 
 I will cross a threshold here briefly, all scientificality aside. This comment is close to a poem and I get reminded of the DeCSS haiku, where a software for removing copyright protection from DVDs was rewritten as a series of haikus [LINK 1].
