@@ -1,9 +1,10 @@
 ---
-updated: 2023-08-31T09:07
-created: 2023-08-25T18:04
+updated: 2023-08-31T09:23
+created: 2023-08-31T09:21
 ---
 # Exposé
-## Where is Switzerland? Interdisciplinary perspectives on en/decoding nationality in the visuality of early digital games from Switzerland
+## Procedural visuality – Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
+
 *Work in progress. Page-links don't work in Webview.* 
 
 - [1. Introduction and problem statement](#1.%20Introduction%20and%20problem%20statement)
