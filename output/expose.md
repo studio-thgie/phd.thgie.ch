@@ -1,6 +1,6 @@
 ---
-updated: 2023-09-06T11:11
-created: 2023-09-06T09:57
+updated: 2023-09-06T11:36
+created: 2023-09-06T11:12
 ---
 # Exposé
 ## Procedural visuality – Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
@@ -9,7 +9,7 @@ created: 2023-09-06T09:57
 
 - [1. Introduction and problem statement](#1.%20Introduction%20and%20problem%20statement)
 - [2. Current state of research](#2.%20Current%20state%20of%20research)
-	- todo: literature, image in local video game history, own research
+	- todo: literature, image in local video game history
 - [3. Objectives and research questions](#3.%20Objectives%20and%20research%20questions)
 	- todo: [3.1.2](#3.1.2%20Bridging%20the%20analysis%20of%20visuality%20and%20technology%20in%20video%20games) needs to be expanded
 	- todo: [3.1.3](#3.1.3%20Discourse%20on%20multimodality%20of%20coding%20for%20visuality) needs to be rewritten
@@ -74,15 +74,30 @@ The work on metadata involved collaboratively working on a digital games list fo
 
 A lot of consideration has went into the image archive[^4]. The archive is focused on screenshots from our games corpus and some of their paratextual material. The considerations on how to structure and create such a corpus as well as the practical work on collecting the images has helped tremendously to get a basic idea of what image material will be available for the analysis through distant reading and design rhetorics. The methods are outlined under 4.2.
 
+Part of the work in the image corpus was the development of an ontology to apply in Tropy, based on FAVR.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8158800.svg)](https://doi.org/10.5281/zenodo.8158800)
+
 #### 2.3.2 Design Rhetoric
 I have been able to carry out two case studies regarding design rhetorics. The first focused on analysing the visuality of a specific game, and the second on a visual trope in digital games from the 1980ies.
 
 In the first case study I had a good look at the images from Ball Raider[^5], a game developed in Switzerland and published in 1987. The analysis found its way into an upcoming post on the Confoederatio Ludens blog[^6].  The close reading of the visuality of the game helped form a hypothesis on the game, as well as its developers and designers. Part of the analysis was an interview with the graphic artist, as well as looking at formal and semantic aspects of the images present in the game. This case study initiated an inquiry into the visual trope of the bare chested barbarian, which emerged in the 80ies.
 
-- [Bare Chested Men](notes/Bare%20Chested%20Men.md) mit Aurelia Brandenburg
+This second inquiry focused on a handful of digital games that were not development in Switzerland, but have been formative for the design of later games. The output of this analysis[^7] will find its way into a post for the Confoederatio Ludens blog. The study is done in collaboration with Aurelia Brandenburg, who is also a PhD-student and researcher in the project I take part. While she is focusing on the games reviews, I'll try to investigate, why those games barbarian characters look like they do, as well as that looks effect on meaning-making. I developed a first hypothesis, was able to trace the historical development of the visual trope and made first attempts in combining close and distant reading of visual material. 
+
+I have collected the material used in this case study in a repository.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8315806.svg)](https://doi.org/10.5281/zenodo.8315806)
+Both studies helped in getting a better understanding of design rhetoric.
 
 #### 2.3.3 Critical Code Analysis
-- Case Study [VICE](notes/VICE.md)
+The last case study was an attempt to critically read the source code of an Emulator[^8], VICE for the Commodore 64. The intent for this exploration was twofold – figuring out what kind of text source code is and using it as the epistemological lense to research a project and its contextuality. I tried again to combine close and distant reading. Hermeneutic distant reading of source code is not an established practice, and I considered this approach experimental.
+
+The work on this inquiry helped me get a better view on the possibilities and shortcomings of critical code analysis. This method is key to my research and is outlined in 4.2. Especially experimenting with a distant reading approach was fruitful to see what kind of text source code is. The results of this study found their way into an upcoming book, published by a working group around the AG Spiele of the DHd.
+
+Scripts and output of this study are collected in their own repository.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8103760.svg)](https://doi.org/10.5281/zenodo.8103760)
 
 ## 3. Objectives and research questions
 
@@ -213,3 +228,5 @@ Willumsen, E. C. (2016). _Source Code and Formal Analysis: A Hermeneutic Reading
 [^4]: [https://phd.thgie.ch/notes/Image%20Corpus.html](https://phd.thgie.ch/notes/Image%20Corpus.html)
 [^5]: [https://phd.thgie.ch/games/Ball%20Raider.html](https://phd.thgie.ch/games/Ball%20Raider.html)
 [^6]: [https://chludens.hypotheses.org/](https://chludens.hypotheses.org/)
+[^7]: [https://phd.thgie.ch/notes/Bare%20Chested%20Men.html](https://phd.thgie.ch/notes/Bare%20Chested%20Men.html)
+[^8]: [https://phd.thgie.ch/notes/VICE.html](https://phd.thgie.ch/notes/VICE.html)

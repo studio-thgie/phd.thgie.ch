@@ -1,6 +1,6 @@
 ---
-created: 2023-09-06T09:54
-updated: 2023-09-06T09:55
+created: 2023-09-06T11:12
+updated: 2023-09-06T11:24
 ---
 # Bare Chested Men
 ## Notes
@@ -9,6 +9,9 @@ updated: 2023-09-06T09:55
 - Commando, Ikari Warriors, Leatherneck, Dogs of War
 - What makes a barbarian, visually speaking?
 - What does looking like a barbarian enable you to do?
+
+## Hypothesis
+My thesis on visuality of these games would go in the direction that the uncivilisation of these characters through the introduction of certain visual markers (wild or longer hair on the head, removal of clothing and showing bare skin) with reference to the "noble savage" lays the moral ground for the murders done by these characters. They are now uncivilised and do not have to abide by legal and moral guidelines. This further enables the display of glorification of violence and a hypersexualisation of toxic masculinity.
 
 ## Visuality of Conan
 ### 2023-08-15
