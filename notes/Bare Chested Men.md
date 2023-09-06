@@ -1,13 +1,14 @@
 ---
-created: 2023-08-25T18:04
-updated: 2023-08-30T14:26
+created: 2023-08-31T10:11
+updated: 2023-09-06T09:54
 ---
-
-## Groups
-- Ausgang Ball Raider
+# Bare Chested Men
+## Notes
+- Ausgehend von Ball Raider
+- [Barbarian I and II](games/Barbarian%20I%20and%20II.md), Torvak, Carver, Conan: The Cimmerian, [DragonSlayer](games/DragonSlayer.md)
 - Commando, Ikari Warriors, Leatherneck, Dogs of War
-- [Barbarian I and II](games/Barbarian%20I%20and%20II.md), Torvak, Carver, Conan
-- dann noch Bloodfest?
+- What makes a barbarian, visually speaking?
+- What does looking like a barbarian enable you to do?
 
 ## Visuality of Conan
 ### 2023-08-15
@@ -35,6 +36,7 @@ Mal grob nachgezeichnet
 
 ### 2023-08-30
 Some notes while going through the screenshots of the Conan-inspired games group.
+
 - Barbarian i
 	- Longplay
 		- C64: https://www.youtube.com/watch?v=1eUkj2uPBOs
@@ -65,6 +67,36 @@ Some notes while going through the screenshots of the Conan-inspired games group
 	- environment points to roman/greek ruins
 	- some of the enemies are inspired by Barbarian (magician), some are new tropes/additions (green goblin)
 	- aesthic and referencewise not much new here
+### 2023-08-31
+More notes on Conan-style games
+
+- Conan: The Cimmerian
+	- Gameplay: https://www.youtube.com/watch?v=gHVQx_A5cqk
+	- Ending: https://www.youtube.com/watch?v=HZ0Nq_kT8NM
+	- Has all the sexist tropes: Damsel in distress, slave women, dangerous blond
+	- The in-game Conan is very close to Frazetta's early, or Duillo's Conan
+	- Aesthetics follow along with the film (set design, humongous snake, horned helmets, jungle, mountain)
+	- The intro's top-down view is actually quite intriguing, is it a reference/inspired by some of the brutal top-down shooting games?
+	- The perspective while moving around in the city is interesting as well: the characters are display in sideview, whereas the map is at something like 45° angle without perspective
+	- Encounters with characters are show completely from sideview, but with perspective
+	- The game has a lot of UI/UX from a point and click adventure
+	- I'd say that some of the artworks done for the game are quite experimental, there is almost a hint of Giger or Metal Hurlant
+	- That said, most of the game looks comically; Barbarian honestly almost looks more serious, certainly DragonSlayer
+	- Battles look awkward, enemy is beheaded automatically
+- DragonSlayer
+	- It's just a demo, no gameplay beyond a little bit of moving around
+	- The graphics are far more elaborate then anything else that was on the market; going in a more "realistic" aesthetic, less comically like Torvak and Conan the Cimmerian
+	- Proper warrior style, no long hair, really really almost naked, just a string tanga keeping it together, no woman around 
+	- The story in the intro is effin long…
+### 2023-09-04
+Notes on the the war-games
+
+- The first Rambo movie came out 1982, and the second 1985, falling together with Commando. The third came out 1988.
+- Commando, the first chronologically speaking, doesn't reference Rambo. It has a clear anonymous soldier aesthetic. The own player could as well be an enemy, and is just slightly differently colored.
+- Ikari Warriors, Leatherneeck and Dogs of War use Rambo-styled characters for the player.
+- Ikari Warriors goes really wild with the covers! Every system has it's own illustration and they all look wildly different. 
+- All games in this category use exactly the same game mode: 45° top down, upwards scrolling shooter
+- The Dogs of War was a book and a film in 1973, respectively 1980. The game with the same name probably references that. The start screen could maybe show Christopher Walken, with some imagination…
 
 ## Visuality of Rambo
 Auch hier spannend zu sehen, wie das Ursprungswerk bebildert wurde. Der Roman First Blood, auf welchem der erste Rambo Film basiert: [https://craigzablo.com/?p=20842](https://craigzablo.com/?p=20842 "https://craigzablo.com/?p=20842") Da ist Rambo noch ein ein richtiger Vietnamn Veteran und hippiesque

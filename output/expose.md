@@ -1,5 +1,5 @@
 ---
-updated: 2023-08-31T10:11
+updated: 2023-09-01T12:12
 created: 2023-08-31T10:11
 ---
 # Exposé
@@ -13,7 +13,6 @@ created: 2023-08-31T10:11
 - [3. Theoretical framework](#3.%20Theoretical%20framework)
 	- todo: is this really necessary?
 - [4. Objectives and research questions](#4.%20Objectives%20and%20research%20questions)
-	- todo: [4.1.1](#4.1.1%20Historical%20design%20analysis%20of%20the%20visuality%20of%20Swiss%20video%20games) outline source code corpus
 	- todo: [4.1.2](#4.1.2%20Bridging%20the%20analysis%20of%20visuality%20and%20technology%20in%20video%20games) needs to be expanded
 	- todo: [4.1.3](#4.1.3%20Discourse%20on%20multimodality%20of%20coding%20for%20visuality) needs to be rewritten
 	- todo: [4.2 Research questions](#4.2%20Research%20questions) need considerations
@@ -25,15 +24,11 @@ created: 2023-08-31T10:11
 	- todo
 
 ## 1. Introduction and problem statement
-Video games are manifestations of designerly intentions, which is the conscious and planned execution of a design into an output. People of all trades, from code to graphics, thus transform their knowledge and skills into a playable and meaningful experience. But as cultural products, video games communicate much more than these intentioned designs. They also capture unspoken and subconscious assumptions, bias and ideologies, as well as historical contexts.
+Digital games are manifestations of designerly intentions, which is the conscious and planned execution of a design into an output. These games communicate much more than the intentioned designs. They also capture unspoken and subconscious assumptions, bias and ideologies, as well as historical contexts. This is equally true for the visuality of the video game, on which this proposal is concentrating. 
 
-This is equally true for the visuality of the video game, on which this proposal is concentrating. To analyse this, I will present an approach of critical reading of the transformation of code to images (rewrite this part after [Sonia Fizek's text](literature/fizekLudicGlassMaking2022.md)). Drawing on critical code analysis and design rethorics, I combine methodologies from design research and the digital humanities. Critical readings serve the purpose of unearthing and dissecting power structures and the generation of meaning in and from our cultural artefacts. Such readings open up our research objects to a plethora of interpretations.
+In my thesis I assume a hitherto invisible rift between the research on the image of the digital game and its material base. The image of digital games brings with its own specificities. The constituted image, visible on the screen, is being born from the hardware's calculation. It is interactive and as such holds within itself a plurality of different futures, actualizing itself upon the player's input. Research on the image of digital games more often than not focuses either on the constituted and visible image, or its material basis – either on visuality or technology.
 
-The images in video games differ from paintings or photographs. They are not materially fixed in time-space, but again and again computed, reacting on interaction and changes in the game state. If we take a closer look at the image of video games and accept it as an artefact that is calculated and constructed by code and computer hardware, we must conclude that the underlying technology is formative for its discourse and meaning. Respectively, that programmers and graphic designers alike are significantly involved in the circulation and formation of meanings and power relations through the image in video games.
-
-In my approach assume a hitherto invisible rift between the research on the image of the digital game and its material base. The image of digital games brings with its own specificities. The constituted image, visible on the screen, is being born from the hardware's calculation. It is interactive and as such holds within itself a plurality of different futures, actualizing itself upon the player's input. Research on the image of digital games more often than not focuses either on the constituted and visible image, or its material basis – either on visuality or technology.
-
-Following my assumption is the thesis that there is an unacknowledged interplay between the techno-historic limits of digital game development and the reception of the image, respectfully, the generation of meaning for the player. Working on this research question demands an interdisciplinary approach that can handle both domains, technology and visuality, halves of a proposed whole. The methods used in this project are lent from digital humanities, design research and video game studies and assembled into an interdisciplinary methodology of critical reading the visuality of digital games.
+Following my assumption is the thesis that there is an unacknowledged interplay between the techno-historic limits of digital game development and the reception of the image, respectfully, the generation of meaning for the player. Working on this research question demands an interdisciplinary approach that can handle both domains, technology and visuality, halves of a proposed whole. The methods used in this project are lent from digital humanities, design research and video game studies and assembled into an interdisciplinary methodology of critical reading the visuality of digital games. Such an approach opens up our research objects to a plethora of interpretations and new insights.
 
 ### 1.1 Visuality
 In using the term visuality I depend on the definitions brought forward by Gillian Rose. Here, visuality refers to the socio-cultural construction of how and what we see (Rose, 2016). I'm building on these descriptions as I am mainly interested in the image as a medium of communication, a semiotic device that attempts to transport meaning, and using rhetorics to transform intentions into affects. Coming from design rhetorics, I am interested in how designers and developers of games encoded meaning and rhetoric into the images, as well as the effects of these onto the players. Gillian Rose herself is building upon the work by Hal Foster, who defined visuality as the "how we see, how we are able, allowed, or made to see, and how we see this seeing and the unseeing therein". This relates the term visuality to the slightly more complex scopic regime (Jay, 2008). 
@@ -74,7 +69,7 @@ Further reading is provided in *[4. Objectives and research questions](#4.%20Obj
 #### 2.3.1 Corpora
 - see [Image Corpus](notes/Image%20Corpus.md) and [OpenRefine and Wikidata](notes/OpenRefine%20and%20Wikidata.md)
 
-#### 2.3.2 Discourse Analysis
+#### 2.3.2 Design Rhetoric
 - Case Study [Ball Raider](games/Ball%20Raider.md)
 - [Bare Chested Men](notes/Bare%20Chested%20Men.md) mit Aurelia Brandenburg
 
@@ -93,13 +88,7 @@ This dissertation has the following interlocking research objectives.
 #### 4.1.1 Historical design analysis of the visuality of Swiss video games #todo
 This objective connects the dissertation to the research project Confederatio Ludens and its research goal of analysing the history of Swiss video game design and development. The focus is laid on the analysis of the image material. The goal is to identify flows and novelties, popcultural references and visual discourse regarding the visuality and how those relate to Switzerland as a historic unity.
 
-Part of this research objective is the creation of three corpora. The first consists of the digital games that are researched in the Confoederatio Ludens project. The project will maintain it's own dataset, hosted on the Swiss Games Garden platform, which consists of a Drupal installation and a custom frontend. In order to uphold FAIR/CARE principles, I will maintain a duplicate dataset on Wikidata. Being linked-data and graph-based, Wikidata will enable some machine-assisted research approaches, such as visualising networks of actors.
-
-The second corpus consists of visual material regarding the digital games from the games list. The images will mainly be taken directly from the games according to a predefined strategy, as well as collected from online archives. Since the focus of the dissertation is on the interplay of code and image, paratextual material such as box arts or advertisement will only be collected for case studies. The collection strategy includes formal elements, game content and is further build on the Game FAVR (Arsenault et al., 2015).
-
-The last corpus will consist of source code of the digital games in our corpus, where such can be acquired.
-
-More information on the corpora can be found under 5.2.2.
+Part of this research objective is the creation of three corpora, which I outline and detail under 5.2.2.
 
 #### 4.1.2 Bridging the analysis of visuality and technology in video games #todo
 Stepping fully into my own dissertation I want to bridge the analysis of two different domains. Code and visuality are interrelated and part of the feedback loop of gaming machine and player. This objective is distinguished by being research through a methodological approach, the goal being testing and examining the possibilities of a joined analysis of the two halves of this proposed whole.
@@ -134,14 +123,27 @@ In this dissertation project, I will help building and maintaining three differe
 2. A catalog of images containing visual material for the games in the first corpus
 3. An archive of source code from the games in the first corpus
 
-I reported on the current state of the first corpus in 2.3.1. This is partially a collaborative endeavour.  In contrast, the image corpus is my sole responsibility. It is built following a strategy to include as much material as is necessary to fully represent a games' aesthetics and content. Next to formal elements, a list of the visual content of a game the Game FAVR (see 2.1) model of categorisation of the visuality of a digital game can help to obtain the right material.
+##### Metadata
+The first consists of the digital games that are researched in the Confoederatio Ludens project. The project will maintain it's own dataset, hosted on the Swiss Games Garden platform, which consists of a Drupal installation and a custom frontend. In order to uphold FAIR/CARE principles, I will maintain a duplicate dataset on Wikidata. Being linked-data and graph-based, Wikidata will enable some machine-assisted research approaches, such as visualising networks of actors.
+
+##### Images
+The second corpus consists of visual material regarding the digital games from the games list. The images will mainly be taken directly from the games according to a predefined strategy, as well as collected from online archives. The strategy is to include as much material as is necessary to fully represent a games' aesthetics and content. Next to formal elements, a list of the visual content of a game the Game FAVR (see 2.1) model of categorisation of the visuality of a digital game can help to obtain the right material. Since the focus of the dissertation is on the interplay of code and image, paratextual material such as box arts or advertisement will only be collected for case studies.
 
 - Formal Elements: Color schemes, typography, compositions
 - Content: Levels, sprites and characters
 - FAVR: Visual modes, ocularizations, framing mechanisms, construction of tangible space
 - Relevant paratexts: Box art, manuals, advertisement, etc.
 
-As my dissertation is relying on the critical reading of source code I will have to acquire this specific research material into it's own archive. If such an acquisition is possible is defined at the time of writing this exposé. Being able to research the interplay of technology and visuality in our Swiss digital games corpus would be the best possible outcome. Further thoughts on this problematic can be found in 5.3.1. 
+##### Source code
+As mentioned in 1. and 4.1.2, the source code of the researched games is of special interest to me. Critical code analysis treats code not only as functional instructions to a machine, but also as a text that can be hermeneutically approached and semiotically read (Marino, 2020). Further, from the perspective of design theory, a digital game is a second order design (Willumsen, 2016). The game developers don't design the game, they design the structures that generate the game. Akin to the writing aid for an author, like pens or keyboards, source code has formal and structural influence on the what and how the game developers design. Taken together, these two approaches outline source code as a carrier of meaning, as well as the tools and material for designing games. This makes source code a core focus of my dissertation.
+
+Working with source code can be difficult. Source code is text, but can reach levels of abstraction down to being a string of seemingly random alpha-numeric strings, in the case of Assembler. A certain level of knowledge and experience is needed to fruitfully dive into source code with close readings. I have made first attempts in critical code analysis, as mentioned under 2.3.3. Distant readings, in which the digital humanities are especially strong, are yet to be established when approaching source code hermeneutically. 
+
+In order to read source code, one needs to obtain such, which is another difficulty. It is yet to be seen, if we will be able to acquire the source code of the games we research. Games written in Basic, which is not compiled to machine code, as well as magazine listings have their source code directly accessible. But, these games only make a small portion of our corpus. In the case of games that were compiled, and where the source code is not directly accessible, we are dependent on the personal archives of the game developers. Decompiling the games is a possible approach, but the produced source code is an interpretation by the machine and not comparable to the original code written by the developers. Further thoughts on this problematic can be found in 5.3.1. 
+
+Archiving digital game source code could be done easily, for example by setting up version control repositories. Working with source code academically is another problem. Legal issues, access rights, longterm archiving, referencing specific pieces of code in publications, and other issues arise. This dissertation will not be able to tackle all of them, but use the source code corpus pragmatically.
+
+---
 
 All three corpora are built and maintained with FAIR/CARE principles in mind. The metadata in the corpus on Swiss digital games will be regularly published as linked open data on Wikidata. The catalog of images will be worked on in Tropy and disseminated in an Omeka archive, as well as on Zenodo. The archive of source code has no clear long-term path yet, but efforts are being made to create sustainable digital games archives in Switzerland. Cooperation with these archives is desirable.
 
@@ -160,9 +162,9 @@ Critical code analysis describes source code for software not only as functional
 In the following I will reflect on possible weaknesses in outlined research design as well as how to mitigate the risks.
 
 #### 5.3.1 Critical code analysis
-Although researching context is key to this methodology, it's main focus is source code. In the case of old digital games, such source code can be hard to obtain. Problems can arise for example if the original developers can't be contacted, don't want to share their code base or don't have it anymore. It is certain that some source code can be found, although maybe not of the originally targeted games. As a fallback, games from beyond the scope of the corpus could be enlarged to find material for this approach.
+Although researching context is key to this methodology, it's main focus is source code. In the case of old digital games, such source code can be hard to obtain. Problems can arise for example if the original developers can't be contacted, don't want to share their code base or don't have it anymore. It is certain that some source code can be found, although maybe not of the originally targeted games. As a fallback, games from beyond the scope of the corpus could be enlarged to find material for this approach. Being able to research the interplay of technology and visuality in our Swiss digital games corpus would be the best possible outcome. 
 
-It is one of this dissertations appeals to open data: In order to study digital games, we need not only their compiled version, but also their raw source material, their game code.
+It is one of this dissertations appeals to open data: In order to study digital games, we need not only their compiled version, but also their raw source material, their game code (Konzack, 2002; Willumsen, 2016).
 
 #### 5.3.2 Image reception
 As a historical analysis, research into the reception of the image, an important aspect of design rhetoric, is limited. This shortcoming can be balanced by the Horror-Game-Politics method, which is a source-critical approach that builds on research into the  context. 
@@ -193,3 +195,5 @@ Jay, M. (2008). Scopic Regime. In _The International Encyclopedia of Communicati
 Marino, M. C. (2020). _Critical code studies_. The MIT Press. [https://mitpress.mit.edu/9780262043656/critical-code-studies/](https://mitpress.mit.edu/9780262043656/critical-code-studies/)
 
 Rose, G. (2016). _Visual methodologies: An introduction to researching with visual materials_ (4th edition). SAGE Publications Ltd. [http://study.sagepub.com/rose4e](http://study.sagepub.com/rose4e)
+
+Willumsen, E. C. (2016). _Source Code and Formal Analysis: A Hermeneutic Reading of Passage_. [http://www.digra.org/digital-library/publications/source-code-and-formal-analysis-a-hermeneutic-reading-of-passage/](http://www.digra.org/digital-library/publications/source-code-and-formal-analysis-a-hermeneutic-reading-of-passage/)
