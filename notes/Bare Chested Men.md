@@ -1,6 +1,6 @@
 ---
-created: 2023-08-31T10:11
-updated: 2023-09-06T09:54
+created: 2023-09-06T09:54
+updated: 2023-09-06T09:55
 ---
 # Bare Chested Men
 ## Notes
@@ -88,6 +88,7 @@ More notes on Conan-style games
 	- The graphics are far more elaborate then anything else that was on the market; going in a more "realistic" aesthetic, less comically like Torvak and Conan the Cimmerian
 	- Proper warrior style, no long hair, really really almost naked, just a string tanga keeping it together, no woman around 
 	- The story in the intro is effin long…
+
 ### 2023-09-04
 Notes on the the war-games
 
