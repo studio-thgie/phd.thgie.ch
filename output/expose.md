@@ -1,6 +1,6 @@
 ---
-updated: 2023-09-06T11:37
-created: 2023-09-06T11:36
+updated: 2023-09-06T11:39
+created: 2023-09-06T11:37
 ---
 # Exposé
 ## Procedural visuality – Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
@@ -64,7 +64,7 @@ I am essentially interested in the transformation or translation of meaning from
 
 Further reading is provided in *[3. Objectives and research questions](#3.%20Objectives%20and%20research%20questions)*.
 
-### 2.3 Own research #todo
+### 2.3 Own research
 My recent case studies have helped in formulating my research focus as well as the questions I'm interested in. In the following I want to highlight three of these cases: working on digital games corpora, analysing the visuality of games, and critically reading source code.
 
 #### 2.3.1 Corpora
