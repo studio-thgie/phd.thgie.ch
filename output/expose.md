@@ -1,6 +1,6 @@
 ---
-updated: 2023-09-06T11:36
-created: 2023-09-06T11:12
+updated: 2023-09-06T11:37
+created: 2023-09-06T11:36
 ---
 # Exposé
 ## Procedural visuality – Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
@@ -88,6 +88,7 @@ This second inquiry focused on a handful of digital games that were not developm
 I have collected the material used in this case study in a repository.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8315806.svg)](https://doi.org/10.5281/zenodo.8315806)
+
 Both studies helped in getting a better understanding of design rhetoric.
 
 #### 2.3.3 Critical Code Analysis
