@@ -1,11 +1,14 @@
 ---
 title: Journal
 author: Adrian Demleitner
+created: 2023-09-09T10:42
+updated: 2023-09-09T10:42
 ---
 # Journal
 
 | Title                                                                                         | Date               | Tags                                    |
 | --------------------------------------------------------------------------------------------- | ------------------ | --------------------------------------- |
+| [Post-summer, pre-semester](journal/2023-09-09.md)                                          | September 09, 2023 | reading, discussion, reflection         |
 | [It's summer time: readings, corpora and other updates](journal/2023-07-20.md)              | July 20, 2023      | reading, corpus, research question      |
 | [Looking back at the Games & Literature Conference](journal/2023-07-05.md)                  | July 05, 2023      | event, conference, write-up             |
 | [Close Reading the VICE Source Code](journal/2023-06-20.md)                                 | June 20, 2023      | critical code analysis, vice, visuality |
