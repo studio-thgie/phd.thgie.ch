@@ -2,7 +2,15 @@
 title: "Software studies: a lexicon"
 authors: ""
 year: 2008
-tags: [Computers and civilization, Computer software, Encyclopedias, Lexicography, Technology and the arts, Programming languages]
+tags:
+  - Computers and civilization
+  - Computer software
+  - Encyclopedias
+  - Lexicography
+  - Technology and the arts
+  - Programming languages
+created: 2023-09-08T14:54
+updated: 2023-09-09T10:20
 ---
 # Software studies: a lexicon
 
@@ -15,6 +23,7 @@ tags: [Computers and civilization, Computer software, Encyclopedias, Lexicograph
 ## Bibliography
 Fuller, M. (Ed.). (2008). _Software studies: A lexicon_. MIT Press.
 
+
 ## Notes
 ## Code
 
@@ -22,19 +31,19 @@ Fuller, M. (Ed.). (2008). _Software studies: A lexicon_. MIT Press.
 - it then took on the meaning of the written laws
 - it’s understanding diverged from today’s, because of the advent of cipher
 
-[Go to annotation](zotero://open-pdf/library/items/VQC93HXY?page=58&annotation=BHX2H6Z2)“In 1838, Samuel Morse is said to have inspected a printing plant in New York in order—taking a leaf from Alberti’s book—to learn from the letter case which letters occurred most frequently and therefore required the shortest Morse signals.10 For the first time a system of writing had been optimized according to technical criteria—that is, with no regard to semantics—but the product was not yet known as Morse code.” ([“Software studies: a lexicon”, 2008, p. 58](zotero://select/library/items/UT6VETWQ))
+[Go to annotation](zotero://open-pdf/groups/4724071/items/VQC93HXY?page=58&annotation=BHX2H6Z2) “In 1838, Samuel Morse is said to have inspected a printing plant in New York in order—taking a leaf from Alberti’s book—to learn from the letter case which letters occurred most frequently and therefore required the shortest Morse signals.10 For the first time a system of writing had been optimized according to technical criteria—that is, with no regard to semantics—but the product was not yet known as Morse code.” ([“Software studies: a lexicon”, 2008, p. 58](zotero://select/groups/4724071/items/UT6VETWQ))
 
 This translation of an embodied practice (sorting letters by occurrence, to ease printing work) has a stark relation to the history of the Chinese typewriter.
 
 Mullaney, T. S. (2012). The Moveable Typewriter: How Chinese Typists Developed Predictive Text during the Height of Maoism. _Technology and Culture_, _53_(4), 777–814. [https://doi.org/10.1353/tech.2012.0132](https://doi.org/10.1353/tech.2012.0132)
 
-[Go to annotation](zotero://open-pdf/library/items/VQC93HXY?page=58&annotation=KVCQ8SF2)“Input is bad if it is longer than its output; both are equally long in the case of white noise; and a code is called elegant if its output is much longer than itself. The twentieth century thus turned a thoroughly capitalist money-saving device called “code condenser” into highest mathematical stringency.” ([“Software studies: a lexicon”, 2008, p. 58](zotero://select/library/items/UT6VETWQ))
+[Go to annotation](zotero://open-pdf/groups/4724071/items/VQC93HXY?page=58&annotation=KVCQ8SF2) “Input is bad if it is longer than its output; both are equally long in the case of white noise; and a code is called elegant if its output is much longer than itself. The twentieth century thus turned a thoroughly capitalist money-saving device called “code condenser” into highest mathematical stringency.” ([“Software studies: a lexicon”, 2008, p. 58](zotero://select/groups/4724071/items/UT6VETWQ))
 
 There we have it again, our beloved capitalism. So code IS description, and, through it’s ability to encode as well as certain programming structures, such as OOP or functions, become highly efficient.
 
 - Kittler warns of the fallacy to see code in everything, and reminds of it’s relation to imperialism and capitalism
 
-[Go to annotation](zotero://open-pdf/library/items/VQC93HXY?page=60&annotation=P5NKKQA8)“Today, technology puts code into the practice of realities, that is to say: it encodes the world.” ([“Software studies: a lexicon”, 2008, p. 60](zotero://select/library/items/UT6VETWQ))
+[Go to annotation](zotero://open-pdf/groups/4724071/items/VQC93HXY?page=60&annotation=P5NKKQA8) “Today, technology puts code into the practice of realities, that is to say: it encodes the world.” ([“Software studies: a lexicon”, 2008, p. 60](zotero://select/groups/4724071/items/UT6VETWQ))
 %% begin notes %%%% end notes %%
 
 ## Annotations
@@ -55,4 +64,4 @@ There we have it again, our beloved capitalism. So code IS description, and, thr
 ## Related
 %% begin related %%%% end related %%
 
-%% Import Date: 2023-07-06T14:29:24.765+02:00 %%
+%% Import Date: 2023-09-09T10:20:50.334+02:00 %%

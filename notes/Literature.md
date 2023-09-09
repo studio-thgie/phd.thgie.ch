@@ -1,7 +1,7 @@
 ---
 tags: Notes
-created: 2023-08-31T09:23
-updated: 2023-08-31T09:35
+created: 2023-09-08T14:54
+updated: 2023-09-09T10:21
 ---
 # Literature
 
@@ -36,5 +36,5 @@ The bibliography for this dissertation is continuously updated and can be downlo
 | [Software studies: a lexicon](literature/fullerSoftwareStudiesLexicon2008.md)                                                                                                     |                                                        | Computers and civilization, Computer software, Encyclopedias, Lexicography, Technology and the arts, Programming languages                                                                                                       | 2008 |
 | [Making the Water Move: Techno-Historic Limits in the Game Aesthetics of Myst and Doom](literature/hutchisonMakingWaterMove2008a.md)                                              | Andrew Hutchison                                       | artificial intelligence, aesthetics, AI., Doom, games, historical, Moore’s law, Myst, rendering, technical                                                                                                                       | 2008 |
 | [Cybertext, Perspectives on Ergodic Literature](literature/malloyCybertextPerspectivesErgodic1998.md)                                                                             | Judy Malloy, Espen J. Aarseth                          |                                                                                                                                                                                                                                  | 1998 |
+| [Cybertext: perspectives on ergodic literature](literature/aarsethCybertextPerspectivesErgodic1997.md)                                                                            | Espen J. Aarseth                                       | Communication and technology, Data processing, Discourse analysis, Literary, Literature and technology, game sound, game studies, Cybertext                                                                                      | 1997 |
 | [A Pixel is not a Little Square](literature/smithPixelNotLittle1995.md)                                                                                                           | Alvy Ray Smith                                         |                                                                                                                                                                                                                                  | 1995 |
-| [willumsenSourceCodeFormal2016](literature/willumsenSourceCodeFormal2016.md)                                                                                                              | \-                                                     | \-                                                                                                                                                                                                                               | \-   |
