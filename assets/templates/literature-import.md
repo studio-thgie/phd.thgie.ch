@@ -10,7 +10,6 @@ tags: [{% for tag in tags %}{{tag.tag}}{% if not loop.last %}, {% endif %}{% end
 - [Abstract](#abstract)
 - [Notes](#notes)
 - [Annotations](#annotations)
-- [Reading Notes](#reading-notes)
 
 ## Bibliography
 {{bibliography}}
@@ -26,6 +25,3 @@ tags: [{% for tag in tags %}{{tag.tag}}{% if not loop.last %}, {% endif %}{% end
 {% for annotation in annotations %}{% if annotation.annotatedText %}> {{annotation.annotatedText}} (p. {{annotation.page}}){% endif %}
 {% if annotation.comment %}> – {{annotation.comment}}{% endif %}
 {% endfor %}
-
-## Related
-{% persist "related" %}{% endpersist %}
