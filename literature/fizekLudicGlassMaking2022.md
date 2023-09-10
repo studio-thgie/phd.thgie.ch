@@ -1,11 +1,10 @@
 ---
-title: "Through the Ludic Glass: Making Sense of Video Games as Algorithmic
-  Spectacles"
+title: "Through the Ludic Glass: Making Sense of Video Games as Algorithmic Spectacles"
 authors: Sonia Fizek
 year: 2022
 tags: []
-created: 2023-08-21T14:00
-updated: 2023-08-25T18:02
+created: 2023-09-10T21:37
+updated: 2023-09-10T21:39
 ---
 # Through the Ludic Glass: Making Sense of Video Games as Algorithmic Spectacles
 
@@ -13,7 +12,6 @@ updated: 2023-08-25T18:02
 - [Abstract](#abstract)
 - [Notes](#notes)
 - [Annotations](#annotations)
-- [Reading Notes](#reading-notes)
 
 ## Bibliography
 Fizek, S. (2022). Through the Ludic Glass: Making Sense of Video Games as Algorithmic Spectacles. _Game Studies_, _22_(2). [http://gamestudies.org/2202/articles/gap_fizek](http://gamestudies.org/2202/articles/gap_fizek)
@@ -155,10 +153,4 @@ Until recently the focus was on the player, whereas mass-watching let’s-plays 
 
 
 
-## Related
-%% begin related %%
-- [Videogame Aesthetic](notes/Videogame%20Aesthetic.md)
-- [Image Theory](notes/Image%20Theory.md)
-%% end related %%
-
-%% Import Date: 2023-08-25T18:02:44.804+02:00 %%
+%% Import Date: 2023-09-10T21:39:40.983+02:00 %%

@@ -6,3 +6,9 @@ BIBTEX_FILE: assets/bibliography.bib
 OPTIMIZE_IMAGES: true
 DITHER_COLORS: 6
 RESIZE_DIMENSIONS: 960
+
+BLOG_RSS: true
+BLOG_PATH: journal
+BLOG_TITLE: Procedural Visuality
+BLOG_DESCRIPTION: PhD Research Blog
+BLOG_URL: "https://phd.thgie.ch"
