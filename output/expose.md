@@ -1,9 +1,12 @@
 ---
-updated: 2023-09-11T09:49
+updated: 2023-09-11T09:53
 created: 2023-09-10T21:25
+title: Procedural visuality - Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
+author: Adrian Demleitner
 ---
-# Exposé
-## Procedural visuality – Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
+# Procedural visuality
+## Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
+
 *This is a draft version of the expose for my dissertation. It needs reworking, discussing and refining. Don't judge, yet…*
 
 1. Introduction and problem statement
