@@ -1,21 +1,58 @@
 ---
-updated: 2023-09-11T09:53
+updated: 2023-09-11T13:56
 created: 2023-09-10T21:25
 title: Procedural visuality - Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
 author: Adrian Demleitner
 ---
+
+
 # Procedural visuality
-## Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
+*Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games*
 
-*This is a draft version of the expose for my dissertation. It needs reworking, discussing and refining. Don't judge, yet…*
+**Adrian Demleitner**<br>[adrian.demleitner@hkb.bfh.ch](mailto:adrian.demleitner@hkb.bfh.ch "mailto:adrian.demleitner@hkb.bfh.ch")<br>[https://orcid.org/0000-0001-9918-7300](https://orcid.org/0000-0001-9918-7300 "https://orcid.org/0000-0001-9918-7300")
 
-1. Introduction and problem statement
-2. Current state of research
-	- todo: literature
-3. Objectives and research questions
-4. Research design and methodology
-5. Timetable and pursued output
-6. Bibliography
+## Table of Contents
+
+- [1. Introduction and problem statement](#1-introduction-and-problem-statement)
+	- [1.1 Visuality](#11-visuality)
+	- [1.2 (Historical) Visuality in digital games](#12-historical-visuality-in-digital-games)
+- [2. Current state of research](#2-current-state-of-research)
+	- [2.1 Literature](#21-literature)
+	- [2.2 Research gap](#22-research-gap)
+	- [2.3 Own research](#23-own-research)
+		- [2.3.1 Corpora](#231-corpora)
+		- [2.3.2 Design Rhetoric](#232-design-rhetoric)
+		- [2.3.3 Critical Code Analysis](#233-critical-code-analysis)
+- [3. Objectives and research questions](#3-objectives-and-research-questions)
+	- [3.1 Objectives](#31-objectives)
+		- [3.1.1 Historical design analysis of the visuality of Swiss video games](#311-historical-design-analysis-of-the-visuality-of-swiss-video-games)
+		- [3.1.2 Bridging the analysis of visuality and technology in video games](#312-bridging-the-analysis-of-visuality-and-technology-in-video-games)
+		- [3.1.3 Discourse on multimodality of coding for visuality](#313-discourse-on-multimodality-of-coding-for-visuality)
+	- [3.2 Research questions](#32-research-questions)
+- [4.  Research design and methodology](#4--research-design-and-methodology)
+	- [4.1 Research data](#41-research-data)
+	- [4.2 Methodology](#42-methodology)
+		- [4.2.1 Literature Review](#421-literature-review)
+		- [4.2.2 Corpora building and analysis](#422-corpora-building-and-analysis)
+			- [Metadata](#metadata)
+			- [Images](#images)
+			- [Source code](#source-code)
+		- [4.2.3 Horror Game Politics Method](#423-horror-game-politics-method)
+		- [4.2.5 Design rhetoric (Bern model)](#425-design-rhetoric-bern-model)
+		- [4.2.6 Critical code analysis](#426-critical-code-analysis)
+	- [4.4 Possible problems](#44-possible-problems)
+		- [4.4.1 Critical code analysis](#441-critical-code-analysis)
+		- [4.4.2 Image reception](#442-image-reception)
+- [5.  Timetable and pursued output](#5--timetable-and-pursued-output)
+	- [5.1 Timetable Overview](#51-timetable-overview)
+	- [5.2 Detailed Schedule](#52-detailed-schedule)
+		- [Work Package 0 – 2023-2024](#work-package-0--2023-2024)
+		- [Work Package 1 – 1. half 2024](#work-package-1--1-half-2024)
+		- [Work Package 2 – 2. half 2024](#work-package-2--2-half-2024)
+		- [Work Package 3 – 1. half 2025](#work-package-3--1-half-2025)
+		- [Work Package 4 – 2. half 2025](#work-package-4--2-half-2025)
+		- [Work Package 5 – 2026-2027](#work-package-5--2026-2027)
+- [6.  Bibliography](#6--bibliography)
 
 ## *Pitch*
 I'm interested in the visual design of digital games[^9]. Within that context I'm especially interested in how game developers, or designers, create the images seen on screen through programming. This way of designing, writing code to generate images, is rather like describing a structure on a an abstract level than physically drawing a line on paper. This specific bridging of two different worlds, the technical and the aesthetic, is not well researched, despite being acknowledged as a fundamental aspect of digital game design. 
@@ -198,16 +235,67 @@ It is one of this dissertations appeals to open data: In order to study digital 
 As a historical analysis, research into the reception of the image, an important aspect of design rhetoric, is limited. This shortcoming can be balanced by the Horror-Game-Politics method, which is a source-critical approach that builds on research into the  context. 
 
 ## 5.  Timetable and pursued output
-### 5.1 Timetable
+### 5.1 Timetable Overview
 
-| Timeframe       | Milestones   | Steps                                                                                                |
-| --------------- | ------------ | ---------------------------------------------------------------------------------------------------- |
-| 2023, Feb - Dec | Exposé       | - Literature Research<br> - Development of methodological framework<br> - Case studies               |
-| 2024, Jan - Jun | 1. Paper     | Description and analysis of image-corpus (DH)<br>- Additional: platform for the exploration of the corpus |
-| 2024, Jul - Dec | 2. Paper     | Historical research on the visuality of older digital games in Switzerland (DR)                           | 
-| 2025, Jan - Jun | 3. Paper     | Researching digital games' source code; Games' source code as corpus and archival material (DH)                                                                                                     |
-| 2025, Jul - Dec | 3. Paper     | Researching the relationship between code and visuality (DH, DR)                                                                                                     |
-| 2026            | Dissertation |                                                                                                      |
+| Timeframe       | WP    | Milestones   | Steps                                                                                                     |
+| --------------- | --- | ------------ | --------------------------------------------------------------------------------------------------------- |
+| 2023 - 2024 | WP0    | Exposé       | - Literature Research<br> - Development of methodological framework<br> - Case studies                    |
+| 2024, Jan - Jun | WP1    | 1. Paper     | Description and analysis of image-corpus (DH)<br>- Additional: platform for the exploration of the corpus |
+| 2024, Jul - Dec | WP2    | 2. Paper     | Historical research on the visuality of older digital games in Switzerland (DR)                           |
+| 2025, Jan - Jun | WP3    | 3. Paper     | Researching digital games' source code; Games' source code as corpus and archival material (DH)           |
+| 2025, Jul - Dec | WP4    | 4. Paper     | Researching the relationship between code and visuality (DH, DR)                                          |
+| 2026 - 2027            | WP5    | Dissertation |                                                                                                           |
+
+### 5.2 Detailed Schedule
+The following timetables are rough, but doable estimates. The transition from one task to another is of course closer to a threshold or gradient, and can shift in time needed.
+
+#### Work Package 0 – 2023-2024
+WP0 is reserved for getting a good overview, set the focus, working on the expose, attaining the necessary ECTS points. Part of working on the expose are case studies to inquire focus-related and methodological questions. The case studies are listed under 2.3.
+
+#### Work Package 1 – 1. half 2024
+WP1 concentrates on the discipline of digital humanities as well as the building, maintaining, and analysing of an image corpus regarding the visuality of digital games. The corpus was a case study and is outlined in 2.3.1. 
+
+- Questions: What kind of knowledge can an image corpus on digital games generate? What kind of knowledge is lost in the process (see ergodicity)? What are the infrastructural necessities to enable distant and close readings of the image corpus?
+- Publishing medium: tbd
+- Schedule
+	- 1 month: Building corpus
+	- 3 month: Analysing through distant and close reading methods
+	- 2 month: Writeup findings, publish and rewrite
+
+Part of this work package is the start of a digital edition, that enables the exploration of the image corpus, as well as other data relevant to my dissertation. This edition could stand on it's own, or be structured to fit a specific publication. 
+
+#### Work Package 2 – 2. half 2024
+WP2 shifts to the HGP-method as well as design rhetorics, see 4.2.3. I will define three case studies in which I will analyse the visuality of one digital game, or a group of games, within their historical contexts. The goal is to identify flows and novelties, popcultural references and visual discourse regarding the visuality and how those relate to Switzerland as a historic unity.
+
+- Questions: What is the specific visuality of digital games made in Switzerland? What kind of influences did it take up, propagate, and what kind of elements did it add to the discourse?
+- Publishing medium: tbd
+- Schedule
+	- 1 month: Defining case studies
+	- 3 month: One month per case study, analysing the digital game(s) through mentioned method and the images collected in WP1
+	- 2 month: Writeup findings, publish and rewrite
+
+#### Work Package 3 – 1. half 2025
+WP3 focuses on a corpus which will take time to create, that is, the archive holding the source code of the games. The collection of, or search for, digital games source code will start as early as possible. In most cases this material will be found through the original developers, if the source code has been preserved at all. Alternative ways to obtain source code will be considered as well. For example decompressing the games when they were written with Basic, which does not compile. The source code archive will be worked through digital humanities distant reading approaches, such as corpus analysis, as well as close reading attempts and critical code analysis.
+
+- Questions: How can we work academically with digital games' source code? How does source code behave as corpus and archival material? What kind of text is source code and how can digital humanities distant reading approach handle it?
+- Publishing medium: tbd
+- Schedule:
+	- 2 month: Building of source code archive
+	- 2 month: Distant and close reading analysis of source code
+	- 2 month: Writeup findings, publish and rewrite
+
+#### Work Package 4 – 2. half 2025
+WP4 combines work done in the previous work packages and attempts to unify several methodological approaches (distant reading, close reading, design rhetorics, critical code analysis). The aim of this work package is to inquire the original hypothesis and questions regarding the invisible rift between the research on the image of the digital game and its material base, as well as my assumption that there is an unacknowledged interplay between the techno-historic limits of digital game development and the reception of the image. I will define three case studies of digital games of which I have material in my image corpus and source code archive, and apply said method in combination of methodological results from former work packages. To this end, findings from WP2 and WP3 will be combined and extended. 
+
+- Questions: To what extend are the technological foundations of video games and their visuality entangled? Can they be treated as separate domains, or do they have to be read as paratexts to each other? Are they on a semiological continuum, or is there a shift of expression at the moment of transformation from code to image? Can a games code be read meaningful towards the image that it emanates?
+- Publishing medium: tbd
+- Schedule:
+	- 1 month: Defining case studies
+	- 3 month: One month per case study, analysing the digital game(s) through outlined approach
+	- 2 month: Writeup findings, publish and rewrite
+
+#### Work Package 5 – 2026-2027
+WP5 focuses on wrapping up the publishing process and writing the dissertation. Next to the accepted papers, I will need to add an overarching thread, as well introduction and discussion to my dissertation.
 
 ## 6.  Bibliography
 

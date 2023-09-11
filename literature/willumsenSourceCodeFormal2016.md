@@ -8,7 +8,7 @@ tags:
   - formal analysis
   - Source code
 created: 2023-08-31T09:23
-updated: 2023-08-31T09:35
+updated: 2023-09-11T10:00
 ---
 # Source Code and Formal Analysis: A Hermeneutic Reading of Passage
 
