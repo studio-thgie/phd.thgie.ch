@@ -1,5 +1,5 @@
 ---
-updated: 2023-09-11T13:56
+updated: 2023-09-11T13:57
 created: 2023-09-10T21:25
 title: Procedural visuality - Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
 author: Adrian Demleitner
@@ -53,9 +53,6 @@ author: Adrian Demleitner
 		- [Work Package 4 – 2. half 2025](#work-package-4--2-half-2025)
 		- [Work Package 5 – 2026-2027](#work-package-5--2026-2027)
 - [6.  Bibliography](#6--bibliography)
-
-## *Pitch*
-I'm interested in the visual design of digital games[^9]. Within that context I'm especially interested in how game developers, or designers, create the images seen on screen through programming. This way of designing, writing code to generate images, is rather like describing a structure on a an abstract level than physically drawing a line on paper. This specific bridging of two different worlds, the technical and the aesthetic, is not well researched, despite being acknowledged as a fundamental aspect of digital game design. 
 
 ## 1. Introduction and problem statement
 Digital games are manifestations of designerly intentions, which is the conscious and planned execution of a design into an output. These games communicate much more than the intentioned designs. They also capture unspoken and subconscious assumptions, bias and ideologies, as well as historical contexts. This is equally true for the visuality of the video game, on which this proposal is concentrating. 
