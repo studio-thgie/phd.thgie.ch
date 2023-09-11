@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base href="/"/>
+    <title>templater-literature</title>
+
+    <meta name="generator" content="pandoc" />
+        
+    <link rel="stylesheet" href="/assets/templates/archive.css">
+
+</head>
+<body>
+
+    <nav role="navigation">
+        <ul class="nav-h">
+            <li><a target="_self" href="/">Home</a></li>
+	        <li><a target="_self" href="/notes/Journal.html">Journal</a></li>
+	        <li><a target="_self" href="/notes/Notes.html">Notes</a></li>
+	        <li><a target="_self" href="/notes/Glossary.html">Glossary</a></li>
+        </ul>
+
+    </nav>
+
+    <main role="main">
+        <p>&lt;%* const dv = app.plugins.plugins[“dataview”].api; const
+        te = await
+        dv.queryMarkdown(<code>TABLE WITHOUT ID         link(file.link, title) AS "Title",         authors as Authors, join(tags) as Tags, year as Year     FROM "literature"     SORT year DESC</code>);</p>
+        <p>// replace wikilinks with markdown links let table =
+        te.value.replace(/[[([^|]+)\|([^|]+)]]/gm, “<a
+        href="$1">$2</a>”);</p>
+        <p>// clean up markdown link var reg = /((.*))/g; var result;
+        while((result = reg.exec(table)) !== null) { table =
+        table.replace(result[0], result[0].replaceAll(’ ‘,’%20’)); }</p>
+        <p>tR += table; %&gt;</p>
+    </main>
+
+    <footer class="text-sm">
+        <p class="flex">
+        </p>
+        <p>All content, where not noted otherwise on <a href="https://phd.thgie.ch">phd.thgie.ch</a> is released and distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC-BY-SA 4.0 license</a>.</p>
+    </footer>
+
+    <script>
+
+        document.addEventListener('DOMContentLoaded', () => {
+            document.querySelectorAll('p').forEach(el => {
+                if(el.querySelectorAll('img').length > 1) {
+                    el.classList.add('gallery')
+                }
+            })
+        })
+
+    </script>
+</body>
+</html>
