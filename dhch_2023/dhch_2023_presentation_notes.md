@@ -1,0 +1,22 @@
+- 5 Slides, 5 minutes
+- 1. slide: introduction [name, logos]
+	- background (design research HKB, diss Uni Bern, ludens)
+- 2. slide: dissertation subject [ball raider]
+	- image, resp. visuality in video games
+	- what's on it, why does it exist, how was it made, what does it mean
+	- transformation of code (hardware instructions) to the image
+	- game code and the resulting image are two halves of a proposed whole
+- 3. slide: research objectives [street fighter]
+	- Coding in order to produce the image in video games is a bimodal designerly activity
+	- two aspects are situated in two completely different domains
+	- interested in how programmers go about this bimodal activity, and, how they or their activity shape the discourse on visuality
+	- further, interested in how these two modes interact or integrate
+	- translation and transformation of meaning from one semantic system to another
+- 4. slide: methods [code and image object]
+	- video game studies treat games as texts after the approach of Foucault; lots and lots of critical reading 
+	- critical code analysis; which treats code not only as functional but as a cultural artefact written by and for humans
+	- design rhetoric and discourse analysis; code and visuality are conscious and unconscious designed with intention towards specific affects
+	- HGP-Method; relying on paratextual material, the social dimension and the historicity of these games
+- 5. slide: outro [necronom]
+	- young project no findings;
+	- do some research, come by and play Necronom, a game from our corpus
