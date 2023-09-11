@@ -1,14 +1,17 @@
-MAIN_BRANCH: main
-DEPLOY_BRANCH: pages
-TEMPLATE_DIR: assets/templates
-DEFAULT_TEMPLATE: default.html
-BIBTEX_FILE: assets/bibliography.bib
-OPTIMIZE_IMAGES: true
-DITHER_COLORS: 6
-RESIZE_DIMENSIONS: 960
-
-BLOG_RSS: true
-BLOG_PATH: journal
-BLOG_TITLE: Procedural Visuality
-BLOG_DESCRIPTION: PhD Research Blog
-BLOG_URL: "https://phd.thgie.ch"
+BRANCHES:
+  MAIN: main
+  DEPLOY: pages
+FILES:
+  TEMPLATES: assets/templates
+  DEFAULT_TEMPLATE: default
+  BIBTEX: assets/bibliography.bib
+IMAGES:
+  OPTIMIZE: true
+  COLORS: 6
+  DIMENSIONS: 960
+BLOG:
+  RSS: true
+  PATH: journal
+  TITLE: Procedural Visuality
+  DESCRIPTION: This dissertation project inquires the complex interplay of code and visuality in digital games. The research focus lies on early games attributed to Switzerland and their visuality, mainly the the image seen on screen.
+  URL: "https://phd.thgie.ch"
