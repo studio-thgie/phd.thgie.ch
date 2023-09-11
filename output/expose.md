@@ -1,18 +1,18 @@
 ---
-updated: 2023-09-11T09:29
+updated: 2023-09-11T09:49
 created: 2023-09-10T21:25
 ---
 # Exposé
 ## Procedural visuality – Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
 *This is a draft version of the expose for my dissertation. It needs reworking, discussing and refining. Don't judge, yet…*
 
-- 1. Introduction and problem statement
-- 2. Current state of research
+1. Introduction and problem statement
+2. Current state of research
 	- todo: literature
-- 3. Objectives and research questions
-- 4. Research design and methodology
-- 5. Timetable and pursued output
-- 6. Bibliography
+3. Objectives and research questions
+4. Research design and methodology
+5. Timetable and pursued output
+6. Bibliography
 
 ## *Pitch*
 I'm interested in the visual design of digital games[^9]. Within that context I'm especially interested in how game developers, or designers, create the images seen on screen through programming. This way of designing, writing code to generate images, is rather like describing a structure on a an abstract level than physically drawing a line on paper. This specific bridging of two different worlds, the technical and the aesthetic, is not well researched, despite being acknowledged as a fundamental aspect of digital game design. 
@@ -25,7 +25,7 @@ In my thesis I assume a hitherto invisible rift between the research on the imag
 Following my assumption is the thesis that there is an unacknowledged interplay between the techno-historic limits of digital game development and the reception of the image, respectfully, the generation of meaning for the player. Working on this research question demands an interdisciplinary approach that can handle both domains, technology and visuality, halves of a proposed whole. The methods used in this project are lent from digital humanities, design research and video game studies and assembled into an interdisciplinary methodology of critical reading the visuality of digital games. Such an approach opens up our research objects to a plethora of interpretations and new insights.
 
 ### 1.1 Visuality
-In using the term visuality I depend on the definitions brought forward by Gillian Rose. Here, visuality refers to the socio-cultural construction of how and what we see [@roseVisualMethodologiesIntroduction2016]. I'm building on these descriptions as I am mainly interested in the image as a medium of communication, a semiotic device that attempts to transport meaning, and using rhetorics to transform intentions into affects. Coming from design rhetorics, I am interested in how designers and developers of games encoded meaning and rhetoric into the images, as well as the effects of these onto the players. Gillian Rose herself is building upon the work by Hal Foster, who defined visuality as the "how we see, how we are able, allowed, or made to see, and how we see this seeing and the unseeing therein". This relates the term visuality to the slightly more complex scopic regime. 
+In using the term visuality I depend on the definitions brought forward by Gillian Rose. Here, visuality refers to the socio-cultural construction of how and what we see [@roseVisualMethodologiesIntroduction2016]. I'm building on these descriptions as I am mainly interested in the image as a medium of communication, a semiotic device that attempts to transport meaning, and using rhetorics to transform intentions into affects. Coming from design rhetorics, I am interested in how designers and developers of games encoded meaning and rhetoric into the images, as well as the effects of these onto the players. Gillian Rose herself is building upon the work by Hal Foster, who defined visuality as the "how we see, how we are able, allowed, or made to see, and how we see this seeing and the unseeing therein". This relates the term visuality to the slightly more complex scopic regime [@jayScopicRegime2008]. 
 
 ### 1.2 (Historical) Visuality in digital games
 As in every other medium, the visuality in digital games has its own specifics. Being of high relevancy to this dissertation, I'll try to outline two of them in the following: ergodicity and techno-historic limits.
@@ -56,7 +56,7 @@ Coding for visuality involves multimodal design. The code written and the output
 
 I am essentially interested in the transformation or translation of meaning from one system of signifiers into another. The materiality of visuality in video games is only on the surface comparable to paint in the painting. It is much closer to artworks where the artist wrote instructions. The basis of the image in video games is of textual nature, and as such opens it self to being analysed like a literal text.
 
-This dissertation proposal extends on Vilèm Flusser's technical image, a theory that states that the development of visual technologies drive towards more abstraction and alienation in the production of images. He included digital images, but did not work on visuality that was produced through computer code.
+This dissertation proposal extends on Vilèm Flusser's technical image, a theory that states that the development of visual technologies drive towards more abstraction and alienation in the production of images [@flusserUniverseTechnicalImages2011]. He included digital images, but did not work on visuality that was produced through computer code.
 
 Further reading is provided in *3. Objectives and research questions*.
 
@@ -107,7 +107,7 @@ This objective connects the dissertation to the research project Confederatio Lu
 #### 3.1.2 Bridging the analysis of visuality and technology in video games
 This dissertation attempts to bridge the analysis of two different domains, which is the second research objective. Code and visuality are interrelated and part of the feedback loop of gaming machine and player. This objective is distinguished by being researched through a methodological approach, the goal being testing and examining the possibilities of a joined analysis of the two halves of this proposed whole. 
 
-The main discourse in video game research played out on a spectrum between the game's narrative or ludic qualities. Analyses geared either towards games being literature or a bundle of play mechanics. Only recently has the approach of games as images gain some traction again (Mörig, 2020; Fizek, 2022). A major takeaway from the disciplines origin story, the dispute between narratology and ludology, was the need for interdisciplinary approaches in order for a fuller analysis of digital games.
+The main discourse in video game research played out on a spectrum between the game's narrative or ludic qualities. Analyses geared either towards games being literature or a bundle of play mechanics. Only recently has the approach of games as images gain some traction again [@fizekLudicGlassMaking2022; @gerlingScreenImagesInGame2022]. A major takeaway from the disciplines origin story, the dispute between narratology and ludology, was the need for interdisciplinary approaches in order for a fuller analysis of digital games.
 
 Next to furthering the studies on visuality in digital games, this research object attempts to bridge inquiries on the images seen on screen with and analysis of the images' underlying structures, the code that generates them. The underlying thoughts were outlined in *1. Introduction and problem statement*.
 
@@ -158,7 +158,7 @@ The second corpus consists of visual material regarding the digital games from t
 - Relevant paratexts: Box art, manuals, advertisement, etc.
 
 ##### Source code
-As mentioned in 1. and 3.1.2, the source code of the researched games is of special interest to me. Critical code analysis treats code not only as functional instructions to a machine, but also as a text that can be hermeneutically approached and semiotically read (Marino, 2020). Further, from the perspective of design theory, a digital game is a second order design (Willumsen, 2016). The game developers don't design the game, they design the structures that generate the game. Akin to the writing aid for an author, like pens or keyboards, source code has formal and structural influence on the what and how the game developers design. Taken together, these two approaches outline source code as a carrier of meaning, as well as the tools and material for designing games. This makes source code a core focus of my dissertation.
+As mentioned in 1. and 3.1.2, the source code of the researched games is of special interest to me. Critical code analysis treats code not only as functional instructions to a machine, but also as a text that can be hermeneutically approached and semiotically read [@marinoCriticalCodeStudies2020]. Further, from the perspective of design theory, a digital game is a second order design [@willumsenSourceCodeFormal2016]. The game developers don't design the game, they design the structures that generate the game. Akin to the writing aid for an author, like pens or keyboards, source code has formal and structural influence on the what and how the game developers design. Taken together, these two approaches outline source code as a carrier of meaning, as well as the tools and material for designing games. This makes source code a core focus of my dissertation.
 
 Working with source code can be difficult. Source code is text, but can reach levels of abstraction down to being a string of seemingly random alpha-numeric strings, in the case of Assembler. A certain level of knowledge and experience is needed to fruitfully dive into source code with close readings. I have made first attempts in critical code analysis, as mentioned under 2.3.3. Distant readings, in which the digital humanities are especially strong, are yet to be established when approaching source code hermeneutically. 
 
@@ -178,7 +178,7 @@ Since I will study the visuality as well as the source code of digital games mai
 #### 4.2.5 Design rhetoric (Bern model)
 Design rhetoric examines the rhetorical principles in designed artefacts regarding their effects. Rhetorical design analysis according to the Bern model attempts to bridge the gap between a close study of designed objects and the discourse (social, political, psychological) that they interact with. This approach then tries to bring together intimate expert-knowledge on why things are designed as they are and how these designs relate to and shape the world at large.
 
-Design rhetoric is at once interested in the designing, the designed and the effects of both. It as an interdisciplinary approach that draws from interactional expertise, the ability to converse expertly in more than one discipline (Collins & Evans, 2002) and bridging formal analysis, hermeneutics and collaborative elicitation.  There is a tension between the intentions of the developers and graphic artists, that are deposited into the source code, and the affects created in the image on screen. Design rhetoric's interdisciplinary approach is in favour of bringing together these two separate domains.
+Design rhetoric is at once interested in the designing, the designed and the effects of both. It as an interdisciplinary approach that draws from interactional expertise, the ability to converse expertly in more than one discipline [@collinsRethinkingExpertise2009]  and bridging formal analysis, hermeneutics and collaborative elicitation.  There is a tension between the intentions of the developers and graphic artists, that are deposited into the source code, and the affects created in the image on screen. Design rhetoric's interdisciplinary approach is in favour of bringing together these two separate domains.
 
 #### 4.2.6 Critical code analysis
 Critical code analysis describes source code for software not only as functional instructions for machines, but also as cultural artefacts written by humans for humans, akin literature. This means, that source code could potentially be read in order to acquire knowledge about socio-cultural and historical contexts. To what extend source code can be treated as a literary text, or leaning more on the Foucauldian notion of text, has been tested and described in 2.4.4. First preliminary results indicate that source code is rich in knowledge, but difficult to access through digital humanities distant readings approaches.
@@ -189,7 +189,7 @@ In the following I will reflect on possible weaknesses in outlined research desi
 #### 4.4.1 Critical code analysis
 Although researching context is key to this methodology, it's main focus is source code. In the case of old digital games, such source code can be hard to obtain. Problems can arise for example if the original developers can't be contacted, don't want to share their code base or don't have it anymore. It is certain that some source code can be found, although maybe not of the originally targeted games. As a fallback, games from beyond the scope of the corpus could be enlarged to find material for this approach. Being able to research the interplay of technology and visuality in our Swiss digital games corpus would be the best possible outcome. 
 
-It is one of this dissertations appeals to open data: In order to study digital games, we need not only their compiled version, but also their raw source material, their game code (Konzack, 2002; Willumsen, 2016).
+It is one of this dissertations appeals to open data: In order to study digital games, we need not only their compiled version, but also their raw source material, their game code [@konzackComputerGameCriticism2002; @willumsenSourceCodeFormal2016].
 
 #### 4.4.2 Image reception
 As a historical analysis, research into the reception of the image, an important aspect of design rhetoric, is limited. This shortcoming can be balanced by the Horror-Game-Politics method, which is a source-critical approach that builds on research into the  context. 
