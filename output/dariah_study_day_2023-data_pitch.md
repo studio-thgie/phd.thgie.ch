@@ -1,6 +1,6 @@
 ---
 created: 2023-09-01T10:51
-updated: 2023-09-13T08:32
+updated: 2023-09-13T08:34
 ---
 # Procedural visuality
 ## Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
@@ -11,7 +11,7 @@ Adrian Demleitner<br>
 
 This dissertation project inquires the complex interplay of code and visuality in digital games and is part of the Sinergia funded Confoederatio Ludens research project[^1]. The research focus lies on early games attributed to Switzerland and their visuality, mainly the image seen on screen.  Digital games are manifestations of designerly intentions, which is the conscious and planned execution of a design into an output. These games communicate much more than the intentioned designs. They also capture unspoken and subconscious assumptions, bias and ideologies, as well as historical contexts. This is equally true for the visuality of the video game. 
 
-In my thesis, I assume a hitherto invisible rift between the research on the image of the digital game and its material base. Working on this research question demands an interdisciplinary approach that can handle both domains, technology and visuality, halves of a proposed whole. The methods used in this project are lent from digital humanities, design research and video game studies and assembled into an interdisciplinary methodology of critical reading the visuality of digital games. A core focus lies on critical code analysis [@marinoCriticalCodeStudies2020; @willumsenSourceCodeFormal2016] as well as design rhetoric [@scheuermannRhetorischeDesignanalyseUnd2017; @schnellerDesignRhetoricStudying2015].
+In my thesis, I assume a hitherto invisible rift between the research on the image of the digital game and its material base. Working on this research question demands an interdisciplinary approach that can handle both domains, technology and visuality, halves of a proposed whole. The methods used in this project are lent from digital humanities, design research and video game studies and assembled into an interdisciplinary methodology of critical reading the visuality of digital games. A core focus lies on critical code analysis [@willumsenSourceCodeFormal2016; @marinoCriticalCodeStudies2020] as well as design rhetoric [@schnellerDesignRhetoricStudying2015; @scheuermannRhetorischeDesignanalyseUnd2017].
 
 More information on this thesis can found on the dissertation wiki under [phd.thgie.ch](https://phd.thgie.ch).
 
