@@ -17,7 +17,7 @@ tags:
   - screenshot
   - visual culture
 created: 2023-08-14T15:33
-updated: 2023-08-14T15:39
+updated: 2023-09-11T20:05
 ---
 # Screen Images In-Game Photography, Screenshot, Screencast
 
