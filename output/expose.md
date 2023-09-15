@@ -1,11 +1,11 @@
 ---
-updated: 2023-09-15T11:28
+updated: 2023-09-15T11:30
 created: 2023-09-10T21:25
 title: Procedural visuality - Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
 author: Adrian Demleitner
 ---
-# Procedural visuality [working title]
-*Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games*
+# Procedural visuality
+*Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games (working title)*
 
 **Adrian Demleitner**<br>[adrian.demleitner@hkb.bfh.ch](mailto:adrian.demleitner@hkb.bfh.ch "mailto:adrian.demleitner@hkb.bfh.ch")<br>[https://orcid.org/0000-0001-9918-7300](https://orcid.org/0000-0001-9918-7300 "https://orcid.org/0000-0001-9918-7300")
 
