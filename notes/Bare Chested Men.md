@@ -1,8 +1,21 @@
 ---
 created: 2023-09-06T11:12
-updated: 2023-09-15T08:03
+updated: 2023-09-15T08:53
 ---
 # Bare Chested Men
+
+- [Notes](#notes)
+- [Hypothesis](#hypothesis)
+- [Visuality of Conan](#visuality-of-conan)
+	- [2023-08-15](#2023-08-15)
+	- [2023-08-22](#2023-08-22)
+	- [2023-08-30](#2023-08-30)
+	- [2023-08-31](#2023-08-31)
+	- [2023-09-04](#2023-09-04)
+	- [2023-09-15](#2023-09-15)
+- [Visuality of Rambo](#visuality-of-rambo)
+- [Conan Review Reading Notes](#conan-review-reading-notes)
+
 ## Notes
 - Ausgehend von Ball Raider
 - [Barbarian I and II](games/Barbarian%20I%20and%20II.md), Torvak, Carver, Conan: The Cimmerian, [DragonSlayer](games/DragonSlayer.md)
