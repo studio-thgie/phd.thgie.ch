@@ -1,5 +1,5 @@
 ---
-updated: 2023-09-15T11:30
+updated: 2023-09-15T11:31
 created: 2023-09-10T21:25
 title: Procedural visuality - Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
 author: Adrian Demleitner
