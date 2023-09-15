@@ -1,6 +1,6 @@
 ---
 created: 2023-09-06T11:12
-updated: 2023-09-06T11:24
+updated: 2023-09-15T08:03
 ---
 # Bare Chested Men
 ## Notes
@@ -101,6 +101,14 @@ Notes on the the war-games
 - Ikari Warriors goes really wild with the covers! Every system has it's own illustration and they all look wildly different. 
 - All games in this category use exactly the same game mode: 45° top down, upwards scrolling shooter
 - The Dogs of War was a book and a film in 1973, respectively 1980. The game with the same name probably references that. The start screen could maybe show Christopher Walken, with some imagination…
+
+### 2023-09-15
+Notes on the Commando covers and where they have been released.
+
+> Die deutsche Version wurde entschärft, um eine Indizierung zu vermeiden. Indizierungsgefährdet waren Spiele, die die Tötung von Menschen zum Inhalt hatten. Capcom benannte das Spiel für den deutschen Markt deshalb in Space Invasion um und änderte die Grafik der Gegner dahingehend ab, dass sie an Außerirdische erinnerten.[4] Das Spiel wurde dennoch 1988 von der Bundesprüfstelle für jugendgefährdende Medien wegen Kriegsverherrlichung indiziert, im August 2005 aber gemäß § 23 Abs. 4 JuSchG von der BPjM wieder aus der Liste der jugendgefährdenden Medien gestrichen.[5] Die Heimcomputerfassung Commando II von Elite Systems wurde im März 2009 von der BPjM aus der Liste der jugendgefährdenden Medien gestrichen und die Indizierung damit aufgehoben.[6] In Japan kam das Spiel als Senjō no Ōkami (Wolf des Schlachtfelds) auf den Markt. 
+
+- https://de.wikipedia.org/wiki/Commando_(Computerspiel)
+- https://www.c64-wiki.de/wiki/Space_Invasion
 
 ## Visuality of Rambo
 Auch hier spannend zu sehen, wie das Ursprungswerk bebildert wurde. Der Roman First Blood, auf welchem der erste Rambo Film basiert: [https://craigzablo.com/?p=20842](https://craigzablo.com/?p=20842 "https://craigzablo.com/?p=20842") Da ist Rambo noch ein ein richtiger Vietnamn Veteran und hippiesque
