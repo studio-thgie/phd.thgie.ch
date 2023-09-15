@@ -1,23 +1,20 @@
 ---
-updated: 2023-09-11T13:57
+updated: 2023-09-15T11:17
 created: 2023-09-10T21:25
 title: Procedural visuality - Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
 author: Adrian Demleitner
 ---
-
-
-# Procedural visuality
+# Procedural visuality [working title]
 *Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games*
 
 **Adrian Demleitner**<br>[adrian.demleitner@hkb.bfh.ch](mailto:adrian.demleitner@hkb.bfh.ch "mailto:adrian.demleitner@hkb.bfh.ch")<br>[https://orcid.org/0000-0001-9918-7300](https://orcid.org/0000-0001-9918-7300 "https://orcid.org/0000-0001-9918-7300")
 
 ## Table of Contents
-
 - [1. Introduction and problem statement](#1-introduction-and-problem-statement)
 	- [1.1 Visuality](#11-visuality)
 	- [1.2 (Historical) Visuality in digital games](#12-historical-visuality-in-digital-games)
 - [2. Current state of research](#2-current-state-of-research)
-	- [2.1 Literature](#21-literature)
+	- [2.1 State of research](#21-state-of-research)
 	- [2.2 Research gap](#22-research-gap)
 	- [2.3 Own research](#23-own-research)
 		- [2.3.1 Corpora](#231-corpora)
@@ -28,7 +25,8 @@ author: Adrian Demleitner
 		- [3.1.1 Historical design analysis of the visuality of Swiss video games](#311-historical-design-analysis-of-the-visuality-of-swiss-video-games)
 		- [3.1.2 Bridging the analysis of visuality and technology in video games](#312-bridging-the-analysis-of-visuality-and-technology-in-video-games)
 		- [3.1.3 Discourse on multimodality of coding for visuality](#313-discourse-on-multimodality-of-coding-for-visuality)
-	- [3.2 Research questions](#32-research-questions)
+	- [3.2 Research interest](#32-research-interest)
+	- [3.3 Research questions](#33-research-questions)
 - [4.  Research design and methodology](#4--research-design-and-methodology)
 	- [4.1 Research data](#41-research-data)
 	- [4.2 Methodology](#42-methodology)
@@ -40,6 +38,7 @@ author: Adrian Demleitner
 		- [4.2.3 Horror Game Politics Method](#423-horror-game-politics-method)
 		- [4.2.5 Design rhetoric (Bern model)](#425-design-rhetoric-bern-model)
 		- [4.2.6 Critical code analysis](#426-critical-code-analysis)
+	- [4.3 Theoretical position](#43-theoretical-position)
 	- [4.4 Possible problems](#44-possible-problems)
 		- [4.4.1 Critical code analysis](#441-critical-code-analysis)
 		- [4.4.2 Image reception](#442-image-reception)
@@ -59,6 +58,8 @@ Digital games are manifestations of designerly intentions, which is the consciou
 
 In my thesis I assume a hitherto invisible rift between the research on the image of the digital game and its material base. The image of digital games brings with its own specificities. The constituted image, visible on the screen, is being born from the hardware's calculation. It is interactive and as such holds within itself a plurality of different futures, actualizing itself upon the player's input. Research on the image of digital games more often than not focuses either on the constituted and visible image, or its material basis – either on visuality or technology.
 
+Although the specifics of the digital game's visuality have been anticipated and considered, as outlined in 2.1, no in-depth research has been conducted on the interplay and entanglement of a games technological structuring through source code and the image seen on screen.
+
 Following my assumption is the thesis that there is an unacknowledged interplay between the techno-historic limits of digital game development and the reception of the image, respectfully, the generation of meaning for the player. Working on this research question demands an interdisciplinary approach that can handle both domains, technology and visuality, halves of a proposed whole. The methods used in this project are lent from digital humanities, design research and video game studies and assembled into an interdisciplinary methodology of critical reading the visuality of digital games. Such an approach opens up our research objects to a plethora of interpretations and new insights.
 
 ### 1.1 Visuality
@@ -76,13 +77,13 @@ The second aspect of heightened relevance is the relationship between the image 
 Todays digital games playing devices are powerful computers and myriad of softwares and frameworks aid in the development and design. Game design in the early days of game development looked quite different. The capabilities of computers were fairly limited and the technical realisation of the games had to be done in early programming languages, such as Basic or Assembler dialects. This circumstances form the techno-historic limits of early digital game design and directly influenced formal and semiotic aspects of those games' visuality. These limits as well as the intimate interplay between the technological foundation as a semiotic system in itself and the visible image will be considered in this dissertation through the application of critical code analysis [@marinoCriticalCodeStudies2020].
 
 ## 2. Current state of research
-### 2.1 Literature
-- Critical Code Studies
-	- Marino, Willumsen
+### 2.1 State of research
 - Ergodicity, Cyberimage
 	- Aarseth, Möring, Fizek, Arsenault
 - Images, Visuality, Aesthetics
 	- Möring, Birken, Fizek
+- Critical Code Studies
+	- Marino, Willumsen
 - Rhetorics, Semiotics
 	- Scheuermann, Schneller
 
@@ -154,7 +155,13 @@ It is hardly possible to see beyond the horizon of transformation from code to i
 The design theoretician Vilém Flusser thought extensively on the way we produce images. He started to differentiate between traditionally handmade images and technical images, which where produced through technical means, like an apparatus. A key aspect of technical images is the abstraction between designing and the designed. Instead of drawing an image by hand, where the act of drawing and the result on paper are aesthetically intertwined, the designer of an image operates technical means, that in turn then produce the image. Flusser's work included digitality, especially photography, but did not extend to the study of creative coding, or the visual design of digital games through programming.
 
 The third objective wants to research this specific mode of visual designing through programming, as well as the consequences, impact and effects of this momentum of transformation from code to visuality. This means, that will tie into Flusser's theory on the technical image and use that vantage point to inquiry this concept in the context of digital games visuality.
-### 3.2 Research questions
+
+### 3.2 Research interest
+I have followed a programming practice, spanning at least two decades. My interest got sparked by the realisation, that the things visible on screen are produced by code. Next to being a professional software developer, I have extensively inquired coding as a creative practice. This vantage point led to a career with coding on one side and design studies on the other. This path culminates in this dissertation. I want to do research on a visuality, thinking analysing underlying technologies and the visible image together. I am particularly interested in programming to create images, as a designerly act, and how working in one modality (abstract code) influences the other modality (the visible image). The image in the game has properties that can be found in dynamic data visualisation or creative coding and is a fitting study object to satisfy my interests.
+
+Frameworks such as Design By Numbers[^10] (and its successor Processing) or Graphics BASIC[^11] aimed to make programming accessible as a design tool. The end product, which is graphics in my focus, can be defined as second order design [@willumsenSourceCodeFormal2016]. The designers who work with code primarily design this code or the resulting program, which in turn generates the graphics. Programming is often presented as a purely technical act, which has to do with the level of abstraction of code as well as the understanding of machines [@marinoCriticalCodeStudies2020]. However, the act of programming is far more chaotic, riddled with frustration, accompanied by debugging of incomprehensible errors, and, most importantly, complexities that elude a single human being. The acquisition and virtuos execution of creative coding takes years and a high tolerance for frustration. I am not only interested in the how of creative coding, but also in the why.
+
+### 3.3 Research questions
 To what extend are the technological foundations of video games and their visuality entangled? Can they be treated as separate domains, or do they have to be read as paratexts to each other? Are they on a semiological continuum, or is there a shift of expression at the moment of transformation from code to image? Can a games code be read meaningful towards the image that it emanates?
 
 - How do game developers use programming to create the visual design of digital games, and what are the implications of this approach for the relationship between technology and aesthetics in game design?
@@ -219,6 +226,13 @@ Design rhetoric is at once interested in the designing, the designed and the eff
 
 #### 4.2.6 Critical code analysis
 Critical code analysis describes source code for software not only as functional instructions for machines, but also as cultural artefacts written by humans for humans, akin literature. This means, that source code could potentially be read in order to acquire knowledge about socio-cultural and historical contexts. To what extend source code can be treated as a literary text, or leaning more on the Foucauldian notion of text, has been tested and described in 2.4.4. First preliminary results indicate that source code is rich in knowledge, but difficult to access through digital humanities distant readings approaches.
+
+### 4.3 Theoretical position
+The theoretical vantage point of this dissertation will be Vilém Flusser's theory of the technical image. In his thinking he started to differentiate between "traditional" and "technical" images [@flusserUniverseTechnicalImages2011]. The former are the result of a cultural evolution, in which we started to translate direct experience of the world into two-dimensional representation of this experience. The latter, "technical" images, have been introduced a few steps later and are produced through textual descriptions. They do not necessarily represent anymore, but are constructed and construct. The "technical" image thus alienates the viewer from direct experience and creates its own world.
+
+Flusser was a contemporary media analyst the theoretician who inquired new media up to the rise of the computer. Home computers, and with them the rise of programming practices  beyond the university, and video game cultures came after his seminal work, and have not been included in the analysis. His work can be ascribed to critical theory, as he did not only ponder on the subject, but also warn of possible problems arising from the rise of the "technical" image.
+
+Flusser's theoretical approach will be expanded by Marino's theories on code as a cultural artefact [@marinoCriticalCodeStudies2020]. Critical code analysis is not only a methodological approach but also a theoretical perspective, in which code is not only textual instruction for machines. Code is also a socio-cultural artefact that can be approached through hermeneutics. Code is comprehended not just by programmers, but also by lawyers, artists, pundits, journalists, political activists, and literary scholars. Its utility extends beyond mere programming and finds application in political discourse, artistic creations, popular culture, and the documentation of history.
 
 ### 4.4 Possible problems
 In the following I will reflect on possible weaknesses in outlined research design as well as how to mitigate the risks.
@@ -305,3 +319,5 @@ WP5 focuses on wrapping up the publishing process and writing the dissertation. 
 [^7]: [https://phd.thgie.ch/notes/Bare%20Chested%20Men.html](https://phd.thgie.ch/notes/Bare%20Chested%20Men.html)
 [^8]: [https://phd.thgie.ch/notes/VICE.html](https://phd.thgie.ch/notes/VICE.html)
 [^9]: The right terminology for video games is still discussed and differs depending on language and country. The term digital games might not seem intuitive at first, but works best in describing the kind of objects I'm researching.
+[^10]: https://dbn.media.mit.edu/
+[^11]: https://en.wikipedia.org/wiki/Graphics_BASIC
