@@ -159,8 +159,9 @@
         class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="/notes/Image Corpus.html#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">sample</span><span class="op">=</span>PATH_TO_IMAGE</span>
 <span id="cb1-2"><a href="/notes/Image Corpus.html#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="va">area</span><span class="op">=</span><span class="va">$(</span><span class="ex">magick</span> <span class="va">$sample</span> <span class="at">-format</span> <span class="st">&quot;%[fx:w*h]&quot;</span> info:<span class="va">)</span></span>
 <span id="cb1-3"><a href="/notes/Image Corpus.html#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="ex">magick</span> <span class="va">$sample</span> <span class="at">-kmeans</span> 8 <span class="at">-format</span> <span class="st">&quot;%c&quot;</span> histogram:info:  <span class="kw">|</span> <span class="fu">sed</span> <span class="st">&#39;s/://g&#39;</span> <span class="kw">|</span> <span class="fu">awk</span> <span class="at">-v</span> area=<span class="va">$area</span> <span class="st">&#39;{print 100*$1/area, &quot;%|&quot;, $3, &quot;,&quot;}&#39;</span> <span class="kw">|</span> <span class="fu">sed</span> <span class="st">&#39;s/ *//g&#39;</span> <span class="kw">|</span> <span class="fu">sort</span> <span class="at">-nr</span> <span class="at">-k1,1</span> <span class="at">-t</span> <span class="st">&quot;,&quot;</span></span></code></pre></div>
-        <p>Via
-        https://stackoverflow.com/questions/70397629/imagemagick-extract-dominant-colors-from-an-image-in-hex-and-percentages</p>
+        <p>Via <a
+        href="https://stackoverflow.com/questions/70397629/imagemagick-extract-dominant-colors-from-an-image-in-hex-and-percentages"
+        class="uri">https://stackoverflow.com/questions/70397629/imagemagick-extract-dominant-colors-from-an-image-in-hex-and-percentages</a></p>
         <h3 id="scrapping-images">Scrapping Images</h3>
         <p><em>Screens from Hall of Light</em></p>
         <p>The following Javascript snippets, pasted to the developer
