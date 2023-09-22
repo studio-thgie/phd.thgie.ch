@@ -1,6 +1,8 @@
 ---
 created: 2023-09-22T14:09
-updated: 2023-09-22T17:44
+updated: 2023-09-22T17:47
+title: Bare-Chested Men and Violence in Digitals Games in the 1980s
+author: Adrian Demleitner
 ---
 # Bare-Chested Men and Violence in Digitals Games in the 1980s
 
