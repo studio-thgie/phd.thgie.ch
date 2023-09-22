@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T14:09
-updated: 2023-09-22T17:47
+updated: 2023-09-22T17:52
 title: Bare-Chested Men and Violence in Digitals Games in the 1980s
 author: Adrian Demleitner
 ---
@@ -33,9 +33,8 @@ Since we had two games refering to the Conan-styled barbarian in our corpus, I w
 
 After some initial discussion of the prevelance of the bare-chested barbarian, I came up with the following hypothesis regarding this specific visuality: **The othering of these characters through the introduction of certain visual markers[^3] with reference to the "noble savage" lays the moral ground for their violence and murdering. They do not have to abide by legal and moral guidelines outlined by their societies. This in turn enables the display and glorification of violence and a hypersexualisation of toxic masculinity in the games.** This is a rather wild speculation and reality is of course more complex and messy then this three sentences can capture.
 
-As a first step towards knowing more I tried to build up a visual geneaology of Conan. I wanted to know why he looks the way he looks, where it started and how it changed over the years. I traced Conan back to his original author Robert E. Howard, an American writer who wrote pulp fiction stories. The first story with Conan as a main character was published in Weird Tales in 1932, titled *The Phoenix on the Sword*. In order to figure out how Howard imagined Conan, I used natural language processing on the original seventeen stories to extract visual descriptions of this character. Details on the process as well as the dataset can be found under the following DOI.
+As a first step towards knowing more I tried to build up a visual geneaology of Conan. I wanted to know why he looks the way he looks, where it started and how it changed over the years. I traced Conan back to his original author Robert E. Howard, an American writer who wrote pulp fiction stories. The first story with Conan as a main character was published in Weird Tales in 1932, titled *The Phoenix on the Sword*. In order to figure out how Howard imagined Conan, I used natural language processing on the original seventeen stories to extract visual descriptions of this character. Details on the process as well as the dataset can be found via [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8320970.svg)](https://doi.org/10.5281/zenodo.8320970).
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8320970.svg)](https://doi.org/10.5281/zenodo.8320970)
 Two extracts from this analysis are exemplary for many other instances were Robert E. Howard was not shy to describe Conan in all his glory.
 
 > Hither came Conan, the Cimmerian, black-haired, sullen-eyed, sword in hand, a thief, a reaver, a slayer, with gigantic melancholies and gigantic mirth, to tread the jeweled thrones of the Earth under his sandalled feet.
