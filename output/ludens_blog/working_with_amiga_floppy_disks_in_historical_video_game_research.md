@@ -1,10 +1,10 @@
 ---
 created: 2023-09-25T10:19
-updated: 2023-09-25T17:41
+updated: 2023-09-25T17:44
 author: Adrian Demleitner
 ---
 # Working with Amiga Floppy Disks in Historical Video Game Research
-![](IMG_3130.jpeg)
+![](assets/IMG_3130.jpeg)
 
 Like most humanists and historians, we work with historical materials that we compile into a corpus. How does this approach apply to researching digital-born media, such as video games designed for the Amiga computing system?
 
@@ -28,8 +28,8 @@ Acquiring an older floppy drive proved to be somewhat more challenging. Greasewe
 
 Finally, we located a seller in the opposite corner of Switzerland who was willing to provide both the drive and the cables.
 
-![](IMG_3129.jpeg)
-![](IMG_3132.jpeg)
+![](assets/IMG_3129.jpeg)
+![](assets/IMG_3132.jpeg)
 
 ## Key Takeaways
 Once we assembled all the necessary components, the rest proceeded smoothly. Installing the required command-line tools for macOS was straightforward, thanks to the well-documented [Greaseweazle Wiki](https://github.com/keirf/greaseweazle/wiki). I would like to delve further into this aspect, but a simple `gw read filename.adf` sufficed to create a dump of a diskette that I could later verify in an Amiga emulator. Writing a dump I had downloaded from the internet to a floppy disk was accomplished with `gw write filename.adf`, and that concluded the process. While there are more specific commands and options available, I didn't require them at this point.
