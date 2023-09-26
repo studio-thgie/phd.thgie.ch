@@ -1,6 +1,6 @@
 ---
 created: 2023-09-25T10:19
-updated: 2023-09-25T17:44
+updated: 2023-09-26T08:34
 author: Adrian Demleitner
 ---
 # Working with Amiga Floppy Disks in Historical Video Game Research
@@ -37,6 +37,8 @@ Once we assembled all the necessary components, the rest proceeded smoothly. Ins
 What intrigued me more was the minor ordeal I underwent to obtain the appropriate hardware, despite it not being excessively old. It began with the realization that a newer USB-driven floppy drive wouldn't suffice and extended to visiting every second-hand shop in my area. Floppy disks still exist, but there are only a few individuals who truly care about this technology, aside from specialized archivists and enthusiasts.
 
 For our research project, this technology is invaluable. We rely on it to extract data from floppy disks, preserve them, and share them with our fellow researchers. Additionally, it allows us to play dumped games on the original hardware. Consequently, we need to acquire the necessary knowledge and infrastructure to set up and maintain such systems. Maintenance will be a journey for another day. For now, I enjoy the ease of use that the current setup brings to our research process.
+
+![](IMG_3144.jpeg)
 
 ## Sources
 - [Floppy Disk Preservation Project](https://diskpreservation.com/dp.php?pg=floppyhow)
