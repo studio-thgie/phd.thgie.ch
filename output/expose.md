@@ -1,5 +1,5 @@
 ---
-updated: 2023-09-29T14:40
+updated: 2023-09-29T14:42
 created: 2023-09-10T21:25
 title: Procedural visuality - Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
 author: Adrian Demleitner
@@ -81,6 +81,7 @@ This dissertation is situated in the general field of image studies, while also 
 	- Working with source code as research object
 - Authors
 	- Marino, Willumsen
+
 ##### Design Research
 - Subjects
 	- Media/Aesthetic Theory and games
@@ -90,6 +91,7 @@ This dissertation is situated in the general field of image studies, while also 
 - Authors
 	- Möring, Fizek, Birken
 	- Scheuermann, Schneller
+
 ##### Video Games Studies
 - Subjects
 	- Ergodicity
