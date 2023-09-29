@@ -1,5 +1,5 @@
 ---
-updated: 2023-09-29T14:42
+updated: 2023-09-29T14:47
 created: 2023-09-10T21:25
 title: Procedural visuality - Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
 author: Adrian Demleitner
@@ -29,7 +29,7 @@ author: Adrian Demleitner
 		- [3.1.3 Discourse on multimodality of coding for visuality](#313-discourse-on-multimodality-of-coding-for-visuality)
 	- [3.2 Research interest](#32-research-interest)
 	- [3.3 Research questions](#33-research-questions)
-- [4.  Research design and methodology](#4--research-design-and-methodology)
+- [4. Research design and methodology](#4-research-design-and-methodology)
 	- [4.1 Research data](#41-research-data)
 	- [4.2 Cumulative dissertation](#42-cumulative-dissertation)
 	- [4.3 Methodology](#43-methodology)
@@ -42,10 +42,11 @@ author: Adrian Demleitner
 	- [4.4 Possible problems](#44-possible-problems)
 		- [4.4.1 Critical code analysis](#441-critical-code-analysis)
 		- [4.4.2 Image reception](#442-image-reception)
-- [5.  Timetable and pursued output](#5--timetable-and-pursued-output)
+- [5. Timetable and pursued output](#5-timetable-and-pursued-output)
 	- [5.1 Timetable Overview](#51-timetable-overview)
 	- [5.2 Detailed Schedule](#52-detailed-schedule)
-- [6.  Bibliography](#6--bibliography)
+- [6. Bibliography](#6-bibliography)
+
 
 ## 1. Introduction and problem statement
 Digital games are manifestations of designerly intentions, which is the conscious and planned execution of a design into an output. These games communicate much more than the intentioned designs. They also capture unspoken and subconscious assumptions, bias and ideologies, as well as historical contexts. This is equally true for the visuality of the video game, on which this proposal is concentrating. 
@@ -187,7 +188,7 @@ To what extend are the technological foundations of video games and their visual
 - What are the techno-historic limits that early digital game design faced, and how did these limits shape the formal and semiotic aspects of the visuality of early digital games?
 - How can critical code analysis be applied to better understand the relationship between the technological foundation of digital games and the visible image, and what insights can this approach provide into the development of game visuals?
 
-## 4.  Research design and methodology
+## 4. Research design and methodology
 ### 4.1 Research data
 The research base material is built by two corpora – the digital games list and it's metadata, and visual material regarding those games. Whereas I am actively working collaboratively with the research team on the former, I am solely responsible for the latter. From the base material games list corpus I will choose a reasonable number of exemplary as well as exceptional games. Exemplary means that some of the games stand in for popular genres of the time, while some others can't be put in such a schema. Further information on the corpora is outline in 4.3.2.
 
@@ -262,7 +263,7 @@ It is one of this dissertations appeals to open data: In order to study digital 
 #### 4.4.2 Image reception
 As a historical analysis, research into the reception of the image, an important aspect of design rhetoric, is limited. This shortcoming can be balanced by the Horror-Game-Politics method, which is a source-critical approach that builds on research into the  context. 
 
-## 5.  Timetable and pursued output
+## 5. Timetable and pursued output
 ### 5.1 Timetable Overview
 
 | Timeframe       | WP    | Milestones   | Steps                                                                                                     |
@@ -329,7 +330,7 @@ WP4 combines work done in the previous work packages and attempts to unify sever
 ##### Work Package 5 – 2026-2027
 WP5 focuses on wrapping up the publishing process and writing the dissertation. Next to the accepted papers, I will need to add an overarching thread, as well introduction and discussion to my dissertation.
 
-## 6.  Bibliography
+## 6. Bibliography
 
 [^1]: [https://spielkult.hypotheses.org/3999](https://spielkult.hypotheses.org/3999)
 [^2]: [https://swissgames.garden/](https://swissgames.garden/)
