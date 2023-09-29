@@ -1,6 +1,6 @@
 ---
 created: 2023-09-20T10:32
-updated: 2023-09-20T11:15
+updated: 2023-09-27T15:48
 system:
   - Amiga
   - Commodore 64
@@ -8,10 +8,9 @@ system:
   - DOS
 year: 1990
 developer: Linel
-publisher:
-  - Linel
-  - Merit Studios, Inc.
+publisher: Linel
 wikidata: Q2201772
+code-accessible: true
 ---
 # The Neverending Story II
 

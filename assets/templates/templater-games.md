@@ -1,11 +1,7 @@
----
-updated: 2023-08-14T16:12
-created: 2023-08-14T16:12
----
 <%*
 const dv = app.plugins.plugins["dataview"].api;
 const te = await dv.queryMarkdown(`
-	TABLE join(system) as System, genre as Genre, year as Year, join(actants) as Actants, developer as Developer, publisher as Publisher, wikidata
+	TABLE join(system) as System, genre as Genre, year as Year, developer as Developer, publisher as Publisher, wikidata, code-accessible as Code
 	FROM "games"
 	SORT year DESC
 `);

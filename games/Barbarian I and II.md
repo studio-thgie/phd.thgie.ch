@@ -1,9 +1,10 @@
 ---
-system: Various
-year: 1986, 1987
+system:
+  - Various
+year: 1986
 developer: Golden Gate Crew
 created: 2023-08-22T14:15
-updated: 2023-08-22T14:18
+updated: 2023-09-29T09:38
 ---
 # Barbarian I and II
 For a retracing of the visuality of the game, especially the half naked protagonist, see [Bare Chested Men](notes/Bare%20Chested%20Men.md).

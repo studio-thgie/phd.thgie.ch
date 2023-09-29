@@ -1,11 +1,13 @@
 ---
-updated: 2023-09-20T10:35
+updated: 2023-09-29T14:40
 created: 2023-09-10T21:25
 title: Procedural visuality - Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
 author: Adrian Demleitner
 ---
 # Procedural visuality
 *Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games (working title)*<br>*Cumulative dissertation in the digital humanities*
+
+**How was graphics programming and the visuality of 80s and 90s video games entangled? How did they influence and form each other? And, what did this specific act of graphics coding do to the designer, and the designing, of video game images?**
 
 **Adrian Demleitner**<br>[adrian.demleitner@hkb.bfh.ch](mailto:adrian.demleitner@hkb.bfh.ch "mailto:adrian.demleitner@hkb.bfh.ch")<br>[https://orcid.org/0000-0001-9918-7300](https://orcid.org/0000-0001-9918-7300 "https://orcid.org/0000-0001-9918-7300")
 
