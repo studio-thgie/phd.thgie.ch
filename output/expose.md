@@ -1,5 +1,5 @@
 ---
-updated: 2023-09-29T14:47
+updated: 2023-09-29T14:50
 created: 2023-09-10T21:25
 title: Procedural visuality - Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
 author: Adrian Demleitner
@@ -190,10 +190,10 @@ To what extend are the technological foundations of video games and their visual
 
 ## 4. Research design and methodology
 ### 4.1 Research data
-The research base material is built by two corpora – the digital games list and it's metadata, and visual material regarding those games. Whereas I am actively working collaboratively with the research team on the former, I am solely responsible for the latter. From the base material games list corpus I will choose a reasonable number of exemplary as well as exceptional games. Exemplary means that some of the games stand in for popular genres of the time, while some others can't be put in such a schema. Further information on the corpora is outline in 4.3.2.
+The research material consists of three corpora – the digital games list and it's metadata, and visual material regarding those games. Whereas I am actively working collaboratively with the research team on the former, I am solely responsible for the latter. From the base material games list corpus I will choose a reasonable number of exemplary as well as exceptional games. Exemplary means that some of the games stand in for popular genres of the time, while some others can't be put in such a schema. Further information on the corpora is outline in 4.3.2.
 
 ### 4.2 Cumulative dissertation
-This is as cumulative dissertation project. The dissertation takes its form in four papers, which are accepted for publishing in peer-reviewed journals. This means, that not all the outlined methods are applied during the whole project, but partially in their respective work packages.  The final dissertation further needs a synopses to frame the four papers. More information on when which methods is used towards which inquiry and output is outlined under 5.2.
+This is a cumulative dissertation. The thesis takes form through four papers, which are accepted for publishing in peer-reviewed journals. This means, that not all the outlined methods are applied during the whole of the project, but only partially in their respective work packages.  The final dissertation further needs a synopses to frame the four papers. More information on when which methods is used towards which inquiry and output is outlined under 5.2.
 
 ### 4.3 Methodology
 The following outlines the methods I will apply.
