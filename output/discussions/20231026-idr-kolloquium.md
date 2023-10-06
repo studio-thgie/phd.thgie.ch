@@ -1,13 +1,13 @@
 ---
 created: 2023-10-03T15:29
-updated: 2023-10-06T14:21
+updated: 2023-10-06T14:22
 ---
 # Diskussion Exposé
 
 - [Exposé HTML](output/expose.md)
 - [Exposé Word](assets/Expose_Adrian_Demleitner.odt)[^1]
 
-Ich würde mit euch gerne mein Exposé besprechen. Den Fokus möchte ich vor allem auf einen Aspekt legen, welchen ich in Vorgehen, Methode und Sinnhaftigkeit noch nicht so recht fassen kann: Die Integrierung der Design Rhetorik als Methode.
+Ich würde mit euch gerne mein Exposé besprechen. Den Fokus möchte ich vor allem auf einen Aspekt legen, welchen ich in Vorgehen, Methode und Sinnhaftigkeit noch nicht so recht fassen kann: Die Integration von Design Rhetorik in mein Vorhaben.
 
 Wenn wir uns für das Werk einer Autorin interessieren, studieren wir in der Regel ihre Texte, deren Inhalt, den Kontext der Arbeiten, ihr Leben, und weiteres. Analog auf meine Forschung angewandt, interessiere ich mich für das Schreibzeug der Autorin und wie dieses Schreibzeug in Beziehung zum Schreiben und zum Werk steht. Kuli und Schreibmaschine können beide helfen, Texte zu schreiben. Jedoch sind beide auf ihre Weise strukturell formativ für das Arbeiten und Texte.
 
