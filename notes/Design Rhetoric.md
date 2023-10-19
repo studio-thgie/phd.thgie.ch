@@ -1,7 +1,7 @@
 ---
 tags: Glossary
 created: 2023-09-06T13:08
-updated: 2023-09-08T10:42
+updated: 2023-10-09T11:08
 ---
 # Design Rhetoric
 Design rhetoric examines the rhetorical principles in designed artefacts regarding their effects. Rhetorical design analysis according to the Bern model attempts to bridge the gap between a close study of designed objects and the discourse (social, political, psychological) that they interact with. This approach then tries to bring together intimate expert-knowledge on why things are designed as they are and how these designs relate to and shape the world at large.

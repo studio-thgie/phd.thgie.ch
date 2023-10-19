@@ -1,6 +1,6 @@
 ---
 created: 2023-09-25T10:19
-updated: 2023-09-26T15:00
+updated: 2023-10-09T11:08
 author: Adrian Demleitner
 ---
 # Working with Amiga Floppy Disks in Historical Video Game Research
@@ -17,7 +17,7 @@ Playing a game on an emulator is time-efficient, but can't reproduce all the asp
 Long story short, we wanted to have both. We wanted to play the games we are researching on emulators as well as the original hardware.
 
 ## Amiga
-![](3d1b69ca7022aec4.jpeg)
+![](assets/3d1b69ca7022aec4.jpeg)
 
 I recently acquired a complete Amiga 500 set, with a Commodore 1084 monitor, joysticks, and hundreds of floppy disks, primarily containing games. More information can be found in this [Mastodon post](https://hcommons.social/@thgie@post.lurk.org/110899431776662399). The Amiga was an immensely popular home computing system in the 1980s and 1990s, particularly for gaming. Among the games in this acquisition, two are relevant to our research project: an original version of [Ringside](https://swissgames.garden/games/ringside) (1989) and a demo version of [Rolling Ronny](https://swissgames.garden/games/rolling-ronny) (1991). Most of the other games we found in this disk collection are available online on the aforementioned informal archives and are currently of lesser importance to us, since they don't relate to our research questions.
 
@@ -46,7 +46,7 @@ This challenge doesn't affect us alone. Game preservation faces a distinct windo
 
 For our research project, this technology is invaluable. We rely on it to extract data from floppy disks, preserve them, and share them with our fellow researchers. Additionally, it allows us to play dumped games on the original hardware. Consequently, we need to acquire the necessary knowledge and infrastructure to set up and maintain such systems. Maintenance will be a journey for another day. For now, I enjoy the ease of use that the current setup brings to our research process.
 
-![](IMG_3144.jpeg)
+![](assets/IMG_3144.jpeg)
 
 ## Some more sources
 - [Floppy Disk Preservation Project](https://diskpreservation.com/dp.php?pg=floppyhow)

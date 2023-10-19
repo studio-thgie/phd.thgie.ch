@@ -1,5 +1,5 @@
 ---
-updated: 2023-10-06T14:13
+updated: 2023-10-09T13:40
 created: 2023-09-10T21:25
 title: Procedural visuality - Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
 author: Adrian Demleitner
@@ -58,7 +58,7 @@ In my thesis, I assume a hitherto invisible rift between the research on the ima
 
 Although the specifics of the digital game's visuality have been anticipated and considered [@flusserUniverseTechnicalImages2011], as outlined in 2.1, little research has been conducted on the interplay and entanglement of a game's technological structuring through source code and the image seen on screen.
 
-Following my assumption is the thesis that there is a barely acknowledged interplay between the techno-historic limits of digital game development regarding graphics [@blankenheimKunstComputerGame2023]. Working on this research question demands an interdisciplinary approach that can handle both domains, technology and visuality, halves of a proposed whole. The methods used in this project are lent from digital humanities, design research and video game studies and assembled into an interdisciplinary methodology of critical reading the visuality of digital games. Such an approach opens up our research objects to a plethora of interpretations and new insights.
+Following my assumption is the thesis that there is a barely acknowledged interplay between the techno-historic limits of digital game development and the video games' graphics [@blankenheimKunstComputerGame2023]. Working on this research question demands an interdisciplinary approach that can handle both domains, technology and visuality, halves of a proposed whole. The methods used in this project are lent from digital humanities, design research and video game studies and assembled into an interdisciplinary methodology of critical reading the visuality of digital games. Such an approach opens up our research objects to a plethora of interpretations and new insights.
 
 ### 1.1 Visuality
 In using the term visuality, I depend on the definitions brought forward by Gillian Rose. Here, visuality refers to the socio-cultural construction of how and what we see [@roseVisualMethodologiesIntroduction2016]. I'm building on these descriptions as I am mainly interested in the image as a medium of communication, a semiotic device that attempts to transport meaning, and using rhetoric to transform intentions into affects. Coming from design rhetoric, I am interested in how designers and developers of games encode meaning and rhetoric into the images, through the application of code. Gillian Rose herself is building upon the work by Hal Foster, who defined visuality as the "how we see, how we are able, allowed, or made to see, and how we see this seeing and the unseeing therein". This relates the term visuality to the slightly more complex scopic regime [@jayScopicRegime2008]. 
