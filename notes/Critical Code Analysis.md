@@ -1,5 +1,7 @@
 ---
 tags: Glossary, Methods
+created: 2023-10-20T07:01
+updated: 2023-10-23T14:08
 ---
 # Critical Code Analysis
 > is an approach that applies critical hermeneutics to the interpretation of computer code, program architecture, and documentation within a socio-historical context. CCS holds that lines of code are not value-neutral and can be analyzed using the theoretical approaches applied to other semiotic systems in addition to particular interpretive methods developed particularly for the discussions of programs. ([Marino 2006](https://en.wikipedia.org/wiki/Critical_code_studies#CITEREFMarino2006))

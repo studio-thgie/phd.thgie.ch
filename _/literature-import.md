@@ -11,6 +11,8 @@ tags: [{% for tag in tags %}{{tag.tag}}{% if not loop.last %}, {% endif %}{% end
 - [Notes](#notes)
 - [Annotations](#annotations)
 
+{% persist "notes" %}
+{% endpersist %}
 ## Bibliography
 {{bibliography}}
 {% if abstractNote %}
@@ -19,7 +21,6 @@ tags: [{% for tag in tags %}{{tag.tag}}{% if not loop.last %}, {% endif %}{% end
 
 ## Notes
 {% if markdownNotes %}{{markdownNotes}}{% endif %}
-{% persist "notes" %}{% endpersist %}
 
 ## Annotations
 {% for annotation in annotations %}{% if annotation.annotatedText %}> {{annotation.annotatedText}} (p. {{annotation.page}}){% endif %}

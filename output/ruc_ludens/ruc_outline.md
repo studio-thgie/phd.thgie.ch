@@ -2,7 +2,7 @@
 created: 2023-10-03T15:54
 updated: 2023-10-15T22:06
 ---
-# Intersecting video game studies, digital humanities
+# Intersecting video game studies and digital humanities
 *Insights into the ongoing Swiss video games research project Confoederatio Ludens and its relation to the digital humanities*
 
 - Adrian Demleitner, PhD, [adrian.demleitner@hkb.bfh.ch](mailto:adrian.demleitner@hkb.bfh.ch), [ORCID](https://orcid.org/0000-0001-9918-7300)

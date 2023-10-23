@@ -281,6 +281,9 @@ Brackets mark the disciplines tackled by each work package or paper: Digital hum
 | 2025, Jul - Dec | WP4    | 4. Paper     | Researching the relationship between code and visuality (DH, DR, VGS)                                          |
 | 2026 - 2027            | WP5    | Dissertation |                                                                                                           |
 
+#### Additional output
+- Video games, metadata modelling, and ontologies (wikidata, geovistory, graphs)
+
 ### 5.2 Detailed Schedule
 The following timetables are rough estimates and subject to change during the research project.
 
