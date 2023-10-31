@@ -1,6 +1,6 @@
 ---
 created: 2023-10-23T13:17
-updated: 2023-10-23T13:24
+updated: 2023-10-31T09:15
 ---
 # Greaseweazle
 > **Greaseweazle** is a USB device and host tools allowing versatile floppy drive control. By extracting the raw flux transitions from a drive, any disk format can be captured and analysed: PC, Amiga, Amstrad, PDP-11, musical instruments, industrial equipment, and more. Greaseweazle also supports writing to floppy disks, from a range of image file formats including those commonly used for online preservation (ADF, IPF, DSK, IMG, HFE, ...).
