@@ -2,10 +2,13 @@
 author: Adrian Demleitner
 title: Dump
 created: 2023-08-25T18:04
-updated: 2023-09-24T21:04
+updated: 2023-10-30T16:52
 ---
 
 # Dump
+
+## 2023-10-30
+Look into Dragon's Lair, Prince of Persia and other such games, where technology influenced aesthetics a lot. I already did that with Doom and Myst.
 
 ## 2023-08-20
 How do different programming languages (and hardwares) enable different kind of creativities and modes of expression, besides formal aspects of color schemes or poligon counts.
@@ -13,7 +16,7 @@ How do different programming languages (and hardwares) enable different kind of 
 ## 2023-08-24
 Some questions that arose in yesterdays discussion on my dissertation in a DHSpiele meeting.
 
-- [ ] Do I get some source code at all?
+- [x] Do I get some source code at all?
 - [ ] Which technical aspects of the image do I study?
 - [ ] Can I at least include short animated sequences in my corpus?
 - [ ] Which version of the executed image do I study, on which software, hardware, monitor?
