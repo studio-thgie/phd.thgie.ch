@@ -1,7 +1,7 @@
 ---
 tags: Glossary, Notes
 created: 2023-08-14T16:15
-updated: 2023-08-17T10:42
+updated: 2023-11-17T13:52
 ---
 # Visuality
 In using the term visuality I depend on the definitions brought forward by Gillian Rose and Paolo Favero. Here, visuality refers to the socio-cultural construction of how and what we see (Rose, 2016). I'm building on these descriptions as I am mainly interested in the image as a medium of communication, a semiotic device that attempts to transport meaning, and using rhetorics to transform intentions into affects. Coming from design rhetorics, I am interested in how designers and developers of games encoded meaning and rhetoric into the images, as well as the effects of these onto the players. Gillian Rose herself is building upon the work by Hal Foster, who defined visuality as the "how we see, how we are able, allowed, or made to see, and how we see this seeing and the unseeing therein". This relates the term visuality to the slightly more complex scopic regime (Jay, 2008). 
@@ -18,7 +18,7 @@ The second aspect of heightened relevance is the relationship between the image 
 Todays digital games playing devices are powerful computers and myriad of softwares and frameworks aid in the development and design. Game development in the early days of game design looked quite different. The capabilities of computers were fairly limited and the technical realisation of the games had to be done in early programming languages, such as Basic or even Assembler dialects. This circumstances form the techno-historic limits of early digital game design and directly influenced formal and semiotic aspects of those games' visuality (Hutchison, 2008). These limits as well as the intimate interplay between the technological foundation as a semiotic system in itself and the visible image will be considered in this dissertation through the application of critical code analysis (Marino, 2020).
 
 ## Related
-- [Game FAVR](notes/Game%20FAVR.md)
+- [FAVR](notes/FAVR.md)
 - [In-Game Photography](notes/In-Game%20Photography.md)
 
 ## Literature

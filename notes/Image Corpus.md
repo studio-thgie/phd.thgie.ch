@@ -1,7 +1,7 @@
 ---
 author: Adrian Demleitner
 tags: Notes, Method, Corpus
-updated: 2023-08-15T14:21
+updated: 2023-11-17T13:52
 created: 2023-08-14T16:15
 ---
 # Image Corpus 
@@ -20,7 +20,7 @@ created: 2023-08-14T16:15
 ## Outline
 The image corpus is built following a strategy to include as much material as is necessary to fully represent a games' visuality (aesthetics and content). Next to formal and semiotic elements and paratextual material, the Game FAVR model of categorisation for the visuality of a digital game is applied to collect material. Since building a corpus of images retrieved from digital games can be a considerable effort regarding having to play entire games[^1], additional collecting strategies are considered.
 
-The [Game FAVR](notes/Game%20FAVR.md) is clear in outline and scope and is mostly considered with the macro and material perspective on the image in digital games. Formal and semiotic elements can vary in their scope and focus towards the micro level of a game. Decisions will have to be made with each game, slightly adjusting what is collected. If needed, I'll expand the outlined parameters below. The approach follows loosely along compositional analysis, whereas the FAVR takes over the spatial components and semiotic elements over content.
+The [FAVR](notes/FAVR.md) is clear in outline and scope and is mostly considered with the macro and material perspective on the image in digital games. Formal and semiotic elements can vary in their scope and focus towards the micro level of a game. Decisions will have to be made with each game, slightly adjusting what is collected. If needed, I'll expand the outlined parameters below. The approach follows loosely along compositional analysis, whereas the FAVR takes over the spatial components and semiotic elements over content.
 
 The paratextual material is restricted to what was issued by the developing and publishing actants to keep the analysis within the intentions and meaning production of the agencies directly involved.
 
@@ -41,7 +41,7 @@ Another consideration is the balance between quantity and quality, as in, comple
 
 ## Corpus generation
 ### Parameters
-- [Game FAVR](notes/Game%20FAVR.md): Visual modes, ocularizations, framing mechanisms, construction of tangible space
+- [FAVR](notes/FAVR.md): Visual modes, ocularizations, framing mechanisms, construction of tangible space
 - Formal Elements: Colours, textures, shapes, composition and layout, typography, etc.
 - Semiotic Elements: Characters, objects, levels, interactive elements, etc.[^2]
 - Relevant paratexts: Box art, manuals, advertisement, etc.

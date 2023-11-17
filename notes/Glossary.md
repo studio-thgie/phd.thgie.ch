@@ -1,3 +1,7 @@
+---
+created: 2023-10-31T09:26
+updated: 2023-11-17T13:52
+---
 # Glossary
 | Title                                                       | Tags                |
 | ----------------------------------------------------------- | ------------------- |
@@ -10,7 +14,7 @@
 | [Discourse Analysis](notes/Discourse%20Analysis.md)         | Glossary, Methods   |
 | [Emulation](notes/Emulation.md)                           | Glossary            |
 | [Ergodic Animage](notes/Ergodic%20Animage.md)               | Glossary, Visuality |
-| [Game FAVR](notes/Game%20FAVR.md)                           | Glossary, Methods   |
+| [FAVR](notes/FAVR.md)                           | Glossary, Methods   |
 | [Game Space](notes/Game%20Space.md)                         | Glossary            |
 | [Game World](notes/Game%20World.md)                         | Glossary            |
 | [Guru Meditation Error](notes/Guru%20Meditation%20Error.md)   | Glossary            |

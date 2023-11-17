@@ -1,11 +1,11 @@
 ---
 created: 2023-10-03T15:54
-updated: 2023-10-24T09:44
+updated: 2023-11-10T14:18
 ---
 # Intersecting video game studies and digital humanities
 *Insights into the ongoing Swiss video games research project Confoederatio Ludens and its relation to the digital humanities*
 
-- Adrian Demleitner, PhD, [adrian.demleitner@hkb.bfh.ch](mailto:adrian.demleitner@hkb.bfh.ch), [ORCID](https://orcid.org/0000-0001-9918-7300)
+- Adrian Demleitner, [adrian.demleitner@hkb.bfh.ch](mailto:adrian.demleitner@hkb.bfh.ch), [ORCID](https://orcid.org/0000-0001-9918-7300)
 - Dr. Eugen Pfister, [eugen.pfister@hkb.bfh.ch](mailto:eugen.pfister@hkb.bfh.ch)
 - Tao Fan
   
@@ -18,7 +18,9 @@ Each sub-item will be expanded into one or two paragraphs.
 	- Confoederatio Ludens (CH Ludens) is a research project focusing on the Swiss history of video game development and design from 1968 to 2000. We are 20 researchers at four institutions in Switzerland, encompassing many different research styles and disciplines.
 	- Until recently, video games studies concentrated on the USA and Japan, writing only their specific video game history. (maybe a brief review/summarization of video games studies worldwide). Hence, the need to inquire about other regions’ histories.
 	- The early history of video game development is ephemeral and, taking the former point up again, hasn't been well-preserved. Video games are important cultural artefacts, since they are embedded in social, cultural, economic and further contexts. Used as historical vantage points, they can tell us about the past socio-political configurations that they sprung forth from. As such, they can be identified as cultural heritage.
-	- Since video game studies can encompass vastly different disciplines, depending on the research focus, the constellation has to be considered. CH Ludens' methodological approach encompasses three aspects, oral history, empirical research, and media analysis, and includes the disciplines of history, sociology, media theory, design research and, of course, digital humanities. **Is it possible to narrative the uniqueness or highlights of CH Ludens project compared with other video games projects**
+	- Since video game studies can encompass vastly different disciplines, depending on the research focus, the constellation has to be considered. CH Ludens' methodological approach encompasses three aspects, oral history, empirical research, and media analysis, and includes the disciplines of history, sociology, media theory, design research and, of course, digital humanities.
+	- The interdisciplinary approach is also one of the most important distinguishing factor of Confoederatio Ludens to similar research projects. Whereas all of the research participants start from the same corpus, everyone is expanding on it by their own perspective and enriches it with their own source material. Our corpus includes roughly 150 video games that can be ascribed to have been developed in Switzerland until the year 2000.
+	- The research team members are associated with the Bern University of the Arts, University of Bern, the University of Lausanne, and Zurich University of the Arts. The project team consists of six principal investigators, five PhD candidates, three postdocs, two associated researchers and three assistants. The topics worked on include the analysis of the developer community, arcades and computer clubs, design- and development-practices, analysis of material conditions such as development tools, media-analysis of the video games with a focus on visuality, sound and interaction, analysis of reception through video game magazine reviews as well as player experience, and last but not least, the research of electronic and computing hardware that was developed in Switzerland.
 - Intersection of digital humanities and video game studies
 - **Is it possible to give a sub-title (or a summarized sentence at the beginning of the Para.) for each sub-item so that audience can get what the paragraph wants to convey and derive the correlations between video game studies and DH? E.g., the 1st para, **_Interdisciplinary feature_**. Video game studies…**
 	- Video game studies is a discipline akin to the digital humanities. It is an amalgamation of many research approaches and perspectives. This is at once because of the historic development of the field, but also because there is a need for a diversity of approaches because of the study object.
@@ -27,7 +29,6 @@ Each sub-item will be expanded into one or two paragraphs.
 	- Old video games as study objects intersects historical research, video game studies as well as the digital humanities. They are at once digital-born and can be investigated through various digital approaches.
 - Digital humanities and CH Ludens
 	- There are three aspects in CH Ludens where the digital humanities have the most traction: building, maintaining and analysing different digital corpora, distant reading of media material, and critical analysis of source code.
-	- Corpus building, maintaining and analysis
 		- The project will maintain its own dataset, hosted on the Swiss Games Garden platform, as well as Wikidata to accommodate FAIR/CARE principles. Being linked-data and graph-based, Wikidata will enable some machine-assisted research approaches, such as visualizing networks of actors. Questions of data modelling arise.
 		- Another important corpus consists of visual material regarding the digital games from the games list. The strategy is to include as much material as is necessary to fully represent a games' aesthetics and content. This corpus serves as the basis for close and distant reading approaches. Some of the material will be worked on through Tropy. Again, questions of data modelling arise, but also the need to think about what image material is collected.
 		- Next to other source material, we also attempt to build a corpus with source code of the games in question. The source code of the researched games is of special interest to me. This material will be approached through critical code analysis, that treats code not only as functional instructions for a machine, but also as a text that can be hermeneutically approached and semiotically read.
