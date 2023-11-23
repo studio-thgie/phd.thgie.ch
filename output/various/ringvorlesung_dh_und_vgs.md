@@ -1,6 +1,7 @@
 ---
 created: 2023-10-27T13:10
-updated: 2023-11-08T10:35
+updated: 2023-11-22T14:55
+publisher: DH Einblicke Blog
 ---
 # Videospiele als ein Zusammenspiel von Software, Hardware und technologischen Ökosystemen
 ## Die Erforschung des Smaky als Teil der Videogame Studies

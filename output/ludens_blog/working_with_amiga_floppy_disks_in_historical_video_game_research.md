@@ -1,7 +1,8 @@
 ---
 created: 2023-09-25T10:19
-updated: 2023-10-09T11:08
+updated: 2023-11-22T14:54
 author: Adrian Demleitner
+publisher: Ludens Blog
 ---
 # Working with Amiga Floppy Disks in Historical Video Game Research
 ![](assets/IMG_3130.jpeg)
