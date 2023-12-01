@@ -1,6 +1,6 @@
 ---
 created: 2023-11-01T13:33
-updated: 2023-11-29T12:32
+updated: 2023-12-01T09:55
 author: Adrian Demleitner
 ---
 # A handful of pixels of blood – Decoding early video game graphics
@@ -13,6 +13,6 @@ To streamline and support image annotation of extensive corpora, I rely on autom
 
 This project thus inquires into the viability of translating the FAVR model into a linked open data ontology which can be applied in Tropy or other image-annotation tools. The ontology will be applied in case studies of early Swiss video games and annotated images serve as training material to test building automatic image annotation models.
 
-![Why does blood spurt? Does the blood serve functional value, informing the player about a game event or internal state, or is it decoration?](15928246-death-sword-atari-st-a-hit.png)
+![Why does blood spurt? Does the blood serve functional value, informing the player about a game event or internal state, or is it decoration?](assets/15928246-death-sword-atari-st-a-hit.png)
 
 ## Bibliography
