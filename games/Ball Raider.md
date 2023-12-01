@@ -7,7 +7,7 @@ actants:
   - Heinz Lüem
 wikidata: Q104915714
 created: 2023-09-29T14:51
-updated: 2023-10-05T11:26
+updated: 2023-11-29T17:56
 ---
 # Ball Raider
 
@@ -46,9 +46,5 @@ updated: 2023-10-05T11:26
 - Objects:: [Spaceship Death Blossom from The Last Startfighter, Hexagonal space-station, Sphere, Sword]
 
 ## Related
-- [Orlando Petermann](notes/Orlando%20Petermann.md)
+- [Orlando Petermann](actants/Orlando%20Petermann.md)
 - [Games Corpus](notes/Games%20Corpus.md)
-
-[^1]: Siehe dazu https://www.reddit.com/r/retrogaming/comments/11bjc4m/i_love_how_misleading_80s_90s_boxart_is/ oder diese Übersicht [https://www.reddit.com/r/retrogaming/search/?q=box-art vs gameplay](https://www.reddit.com/r/retrogaming/search/?q=box-art vs gameplay)
-[^2]: Vgjunk. “VGJUNK: AMIGA TITLE SCREENS FEATURING LARGE SHIRTLESS MEN.” _VGJUNK_ (blog), September 29, 2015. [http://retrovania-vgjunk.blogspot.com/2015/09/amiga-title-screens-featuring-large.html](http://retrovania-vgjunk.blogspot.com/2015/09/amiga-title-screens-featuring-large.html).
-[^3]: https://hol.abime.net/2020

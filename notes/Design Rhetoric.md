@@ -1,7 +1,7 @@
 ---
 tags: Glossary
 created: 2023-09-06T13:08
-updated: 2023-10-09T11:08
+updated: 2023-11-29T17:55
 ---
 # Design Rhetoric
 Design rhetoric examines the rhetorical principles in designed artefacts regarding their effects. Rhetorical design analysis according to the Bern model attempts to bridge the gap between a close study of designed objects and the discourse (social, political, psychological) that they interact with. This approach then tries to bring together intimate expert-knowledge on why things are designed as they are and how these designs relate to and shape the world at large.
@@ -32,4 +32,4 @@ The Bernese model of design rhetorics strongly links to Richard Buchanan design 
 ## Related
 - [Design Rhetoric: Studying the Effects of Designed Objects](literature/schnellerDesignRhetoricStudying2015.md)
 - [Die rhetorische Designanalyse und Buchanans ›Design-Argument‹ – am Beispiel des Lego Star Wars AT-AT Walker 4483](literature/scheuermannRhetorischeDesignanalyseUnd2017.md)
-- [Notes - AS on Design Rhetoric](notes/Notes%20-%20AS%20on%20Design%20Rhetoric.md)
+- [Scheuermann on Design Rhetoric](notes/Scheuermann%20on%20Design%20Rhetoric.md)

@@ -1,5 +1,9 @@
 ---
-tags: Methods
+tags:
+  - Methods
+  - Case
+created: 2023-11-23T15:24
+updated: 2023-11-29T17:50
 ---
 # Distant Reading the VICE Source Code
 

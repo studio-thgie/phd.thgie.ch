@@ -2,12 +2,14 @@
 title: Journal
 author: Adrian Demleitner
 created: 2023-09-09T10:42
-updated: 2023-10-31T09:14
+updated: 2023-11-30T18:12
 ---
 # Journal
 
 | Title                                                                                         | Date               | Tags                                      |
 | --------------------------------------------------------------------------------------------- | ------------------ | ----------------------------------------- |
+| [Necronom and visual layouts as methodology](journal/2023-11-30.md)                         | November 30, 2023  | necronom, auslegeordnung, case-study      |
+| [Case studies](journal/2023-11-29.md)                                                       | November 29, 2023  | process, case-study                       |
 | [IDR Colloquium Feedback on Exposé](journal/2023-10-30.md)                                  | October 30, 2023   | expose, feedback, reflection              |
 | [Autumn – Mid-Semester](journal/2023-10-23.md)                                              | October 23, 2023   | write-up, courses, blogging               |
 | [Post-Summer – Pre-semester](journal/2023-09-09.md)                                         | September 09, 2023 | reading, discussion, reflection           |
