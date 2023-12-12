@@ -5,7 +5,7 @@ year: 1987
 developer: Daniel Roux
 code-accessible: true
 created: 2023-09-27T15:25
-updated: 2023-09-27T15:27
+updated: 2023-12-01T09:57
 ---
 # Smaky Legacy Games
 

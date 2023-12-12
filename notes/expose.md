@@ -1,5 +1,5 @@
 ---
-updated: 2023-11-23T15:20
+updated: 2023-12-11T13:22
 created: 2023-09-10T21:25
 title: Procedural visuality - Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
 author: Adrian Demleitner
@@ -226,7 +226,7 @@ Video game images are amongst the most complex images to research. In comparison
 #### 4.4.3 Image reception
 As a historical analysis, research into the reception of the image, an important aspect of design rhetoric, is limited. This shortcoming can be balanced by the Horror-Game-Politics method, which is a source-critical approach that builds on research into the context. 
 
-## 5. Timetable and pursued output
+	x## 5. Timetable and pursued output
 These are estimates and projections which might change during the actual research and writing process.
 
 ### 5.1 Timetable Overview

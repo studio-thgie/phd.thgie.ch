@@ -1,6 +1,6 @@
 ---
 created: 2023-10-31T09:26
-updated: 2023-11-17T13:55
+updated: 2023-12-12T14:25
 ---
 # Glossary
 
@@ -10,8 +10,8 @@ updated: 2023-11-17T13:55
 | [Assemblage](notes/Assemblage.md)                         | Glossary                   |
 | [Aura](notes/Aura.md)                                     | Glossary                   |
 | [Authenticity](notes/Authenticity.md)                     | Glossary                   |
-| [Critical Code Analysis](notes/Critical%20Code%20Analysis.md) | Glossary, Methods          |
 | [Cyberimage](notes/Cyberimage.md)                         | Glossary                   |
+| [Critical Code Analysis](notes/Critical%20Code%20Analysis.md) | Glossary, Methods          |
 | [Design Rhetoric](notes/Design%20Rhetoric.md)               | Glossary                   |
 | [Diegesis](notes/Diegesis.md)                             | Glossary                   |
 | [Discourse Analysis](notes/Discourse%20Analysis.md)         | Glossary, Methods          |
@@ -34,23 +34,8 @@ updated: 2023-11-17T13:55
 | [Preservation](notes/Preservation.md)                     | Glossary                   |
 | [Rhetorics](notes/Rhetorics.md)                           | Glossary                   |
 | [Semiotics](notes/Semiotics.md)                           | Glossary, Methods          |
+| [Software archaeology](notes/Software%20archaeology.md)     | Glossary                   |
 | [Spaces](notes/Spaces.md)                                 | Glossary                   |
 | [VICE](notes/VICE.md)                                     | Glossary, Notes, Emulation |
 | [Visuality](notes/Visuality.md)                           | Glossary, Notes            |
-
-## Leftovers
-- animetism (Thomas Lamarre)
-- animetic interval (Thomas Lamarre)
-- critical path / ideal experience
-- emergence vs. progression gameplay
-- focalization (Gérard Genette)
-- graphical regimes (Arsenault et al., p. 93) also see semiology here (respetively occular regimes)
-- presentation (Nitsche): mood, atmosphere, vibes, juicibess (Juul), expressive content (in visual analysis)
-- rules, mechanics
-- theoretical imperialism (Heeding Aarseth)
-- bit rot and media decay: ‘the gradual and natural decay of digital information and storage media over time, causing information to become unreadable’ (Monnens et al., 2009, p. 141)
-- hardware failure: original hardware becomes defunct 
-- format obsolescence: older software and games stop being supported
-
----
-
+| [Goût](notes/Goût.md)                                     | Glossary                   |

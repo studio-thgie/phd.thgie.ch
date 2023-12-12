@@ -1,5 +1,5 @@
 ---
-updated: 2023-08-31T10:08
+updated: 2023-12-01T13:34
 created: 2023-08-31T09:44
 ---
 # Visualität im digitalen Spiel und Design Forschung
@@ -14,7 +14,7 @@ Weiter ist mir aufgefallen, dass in der Bildforschung am digitalen Spiel selten 
 Zum Schluss noch ein wenig Kontext. Ich dissertiere kumuliert in den Digital Humanities an der Universität Bern und werde meine Arbeit auf vier Artikeln aufbauen. Ich möchte mich in jedem Artikel jeweils auf eine oder zwei Disziplinen konzentrieren: Digital Humanities, Design Forschung, Video Game Studies. So könnte es unter anderem einen Artikel zur Arbeit an Bild-Korpora in der Forschung zu digital Spielen in den DH geben, einen zur kritischen Code-Analyse in alten Spielen, und einen mit Case Studies zum Bildmaterial und deren Auswertung.
 
 ## Relevant
-- [Exposé](output/expose.md)
+- [Exposé](notes/expose.md)
 - Gedanken und Ausführungen zum [Image Corpus](notes/Image%20Corpus.md)
 - Case zur kritischen Code-Analyse: [VICE](notes/VICE.md)
 

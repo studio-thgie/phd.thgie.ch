@@ -1,5 +1,5 @@
 ---
-updated: 2023-11-28T12:14
+updated: 2023-12-06T15:27
 created: 2023-11-22T13:54
 ---
 # Notes
@@ -7,6 +7,13 @@ created: 2023-11-22T13:54
 - 15'000 - 20'000 Zeichen
 - toujours sourcer
 - 7 Minuten des presentation
+
+## 2023-12-06
+The last few days I was thinking about Minarett Attack and extrem right rhetoric today and came up with some theses.
+
+- That video games haven't been taken serious led to an inability to deal adequately with Minarett Attack
+- The game in question was used to trigger attention in order to get media time and being able to over and over repeat their political agenda
+- The continued development and adaption of the game, in official versions as well as copies, points towards the games effectivity for identification on the extreme right as well as a political tool that serves extrem right rhetorics and communication
 
 ## 2023-11-28
 - Some notes before starting to decide what to work through and write up:

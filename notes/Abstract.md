@@ -2,11 +2,11 @@
 title: Abstract
 author: Adrian Demleitner
 tags: Notes
-updated: 2023-08-31T10:08
+updated: 2023-12-01T13:34
 created: 2023-08-31T09:44
 ---
 # Abstract
-The abstract corresponds to *[1. Introduction and problem statement](output/expose.md#1.%20Introduction%20and%20problem%20statement)* of the expose.
+The abstract corresponds to *[1. Introduction and problem statement](notes/expose.md#1.%20Introduction%20and%20problem%20statement)* of the expose.
 
 ---
 

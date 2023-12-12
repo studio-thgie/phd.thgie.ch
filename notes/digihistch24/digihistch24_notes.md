@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T13:27
-updated: 2023-11-27T14:00
+updated: 2023-12-01T13:34
 ---
 
 # DigiHistCH24 - Digital History Switzerland
@@ -38,7 +38,7 @@ video game graphics are digital-born objects, results of software-instructions a
 - historical research
 	- defined by corpus
 ### 2023-09-22
-The timing would be quite right for the paper on [Historical research on the visuality of older digital games in Switzerland](output/expose.md#Work%20Package%202%20–%202.%20half%202024). They drop the AI and algorithm keyword a few times without being very specific about it. I will certainly not touch that. But the focus on the methodological interplay of close and distant reading would be perfect for a design-research/digital-humanities approach. I also think that proposing a paper on historical research of a digital-born image corpus can give me an advantage. There is not to much of such things going on.
+The timing would be quite right for the paper on [Historical research on the visuality of older digital games in Switzerland](notes/expose.md#Work%20Package%202%20–%202.%20half%202024). They drop the AI and algorithm keyword a few times without being very specific about it. I will certainly not touch that. But the focus on the methodological interplay of close and distant reading would be perfect for a design-research/digital-humanities approach. I also think that proposing a paper on historical research of a digital-born image corpus can give me an advantage. There is not to much of such things going on.
 
 
 > Submit an abstract of no more than 300 words that clearly outlines the title, purpose, methodology, findings, and implications of your research project, research method, software, data, or tool.

@@ -1,5 +1,7 @@
 ---
 tags: Glossary
+created: 2023-12-01T09:57
+updated: 2023-12-08T11:29
 ---
 # Metadata
 If I'm not mistaken, not to much has been done on the subject of image metadata ontologies specifically for video games. It would be interesting to develop some templates for Tropy. In general I see that there is some work to be done here that I could use for my dissertation.
@@ -9,6 +11,8 @@ If I'm not mistaken, not to much has been done on the subject of image metadata 
 - [Framework for the Analysis of Visual Representation in Video Games](https://www.ludov.ca/index.php/en/observation/graphical-technologies/game-favr)
 
 ## Ontology and Metadata Tools and Platforms
+- Lots of ontologies are extensions for CIDOC, which is focusing on events
+- RiC on the other hands is focusing on activities
 - [OntoME](https://ontome.net/)
 - [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 - [Nodegoat](https://nodegoat.net/)
