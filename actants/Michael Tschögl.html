@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <base href="/"/>
-    <title>templater-notes</title>
+    <title>Michael Tschögl</title>
 
     <meta name="generator" content="pandoc" />
         
@@ -25,16 +25,7 @@
     </nav>
 
     <main role="main">
-        <p>&lt;%* const dv = app.plugins.plugins[“dataview”].api; const
-        te = await
-        dv.queryMarkdown(<code>TABLE WITHOUT ID         link(file.link, title) AS "Title",         join(tags) as Tags     FROM "notes"     WHERE contains(tags, "Notes")      SORT file.name</code>);</p>
-        <p>// replace wikilinks with markdown links let table =
-        te.value.replace(/[[([^|]+)\|([^|]+)]]/gm, “<a
-        href="$1">$2</a>”);</p>
-        <p>// clean up markdown link var reg = /((.*))/g; var result;
-        while((result = reg.exec(table)) !== null) { table =
-        table.replace(result[0], result[0].replaceAll(’ ‘,’%20’)); }</p>
-        <p>tR += table; %&gt;</p>
+        
     </main>
 
     <footer class="text-sm">

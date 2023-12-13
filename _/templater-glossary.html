@@ -27,7 +27,7 @@
     <main role="main">
         <p>&lt;%* const dv = app.plugins.plugins[“dataview”].api; const
         te = await
-        dv.queryMarkdown(<code>TABLE WITHOUT ID         link(file.link, title) AS "Title",         join(tags) as Tags     FROM "notes"     WHERE contains(tags, "Glossary")      SORT title ASC</code>);</p>
+        dv.queryMarkdown(<code>TABLE WITHOUT ID         link(file.link, title) AS "Title",         join(tags) as Tags     FROM "notes"     WHERE contains(tags, "Glossary")      SORT file.name</code>);</p>
         <p>// replace wikilinks with markdown links let table =
         te.value.replace(/[[([^|]+)\|([^|]+)]]/gm, “<a
         href="$1">$2</a>”);</p>
