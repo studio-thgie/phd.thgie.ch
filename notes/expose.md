@@ -1,5 +1,5 @@
 ---
-updated: 2023-12-11T13:22
+updated: 2023-12-13T14:00
 created: 2023-09-10T21:25
 title: Procedural visuality - Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
 author: Adrian Demleitner
@@ -201,6 +201,8 @@ The initial comparison between and author's tools to write and source code doesn
 
 The third and last focus of this method's application in this dissertation is on the relation between code and video game graphics as the designed output of a programming design practice. This interconnection was outline in 4.3.5 through design rhetoric.
 
+#todo main methods and contextual methods
+
 #### 4.3.7 Discourse Analysis
 Discourse analysis is a method of analysing language and communication use in its social context. It goes beyond examining formal aspects to understand how language functions in communication and how it shapes and is shaped by social structures, power relations, and cultural norms. Discourse analysis will be applied in the case studies to draw out from formal analysis into the larger dynamics of effects and meaning-creation of the researched video games. This is in part to root this dissertation in the research project that it is part of, as well as to the overarching research inquiry into the early history of Swiss video game development.
 
@@ -226,10 +228,12 @@ Video game images are amongst the most complex images to research. In comparison
 #### 4.4.3 Image reception
 As a historical analysis, research into the reception of the image, an important aspect of design rhetoric, is limited. This shortcoming can be balanced by the Horror-Game-Politics method, which is a source-critical approach that builds on research into the context. 
 
-	x## 5. Timetable and pursued output
+## 5. Timetable and pursued output
+#todo #wip 
+
 These are estimates and projections which might change during the actual research and writing process.
 
-### 5.1 Timetable Overview
+### 5.1 Timetable
 
 | Timeframe       | WP  | Milestones   | Steps                                                                            |
 | --------------- | --- | ------------ | -------------------------------------------------------------------------------- |
@@ -240,34 +244,25 @@ These are estimates and projections which might change during the actual researc
 | 2025, Jul - Dec | WP4 | 4. Paper     | - Work on formal aspects of video game graphics                                  |
 | 2026 - 2027     | WP5 | Dissertation | - Writing of synopsis<br> - Finishing publication processes                      |
 
-### 5.2 Projected tasks and output
-#### 5.2.1 Ongoing tasks
-- Maintaining corpora for dissertation as well as CH-Ludens
-- Applying design rhetoric and visual analysis in CH-Ludens
-- Making interviews for oral history project, relevant for dissertation and CH-Ludens
-
-#### 5.2.2 Output for dissertation thesis
-WP3 and WP4 depend partially on work done in WP1 and WP2, mainly the gathering of research data, acquisition of knowledge and the definition of case studies. I will, where possible, with case studies and video games from the CH-Ludens corpus.
-
 - WP0: Exposé as well as published material on the case studies
-- WP1: Report on the analysis of metadata and corpora regarding the research question, including a reflection on the state of researching video game images in the digital humanities
+- WP1:
 - WP2:
-	- Paper on the creative application and designerly practices around graphics modes[^11] in early home computers
-	- Paper on the development of video game graphics coding and programming languages in the 1980ies and 1990ies
-- WP3: Research paper on design rhetoric in the context of ported games, which were perceived as the same game on different computing system, but differing massively in graphics.
+- WP3:
+	- Research paper on design rhetoric in the context of ported games, which were perceived as the same game on different computing system, but differing massively in graphics.
 - WP4
-	- Paper on design rhetoric and critical code analysis of early video game graphics regarding the case studies
 	- Report on proposed interdisciplinary approach to study video game graphics through design rhetoric and critical code analysis
 - WP5: Synopsis
+### 5.2 Output
+WP3 and WP4 depend partially on work done in WP1 and WP2, mainly the gathering of research data, acquisition of knowledge and the definition of case studies. I will, where possible, with case studies and video games from the CH-Ludens corpus.
 
-#### 5.2.3 Additional output
-- Video game (image) metadata modelling and ontologies (Wikidata, Tropy)
-- Online publication for the exploration of the image corpus and/or the case studies
-- Online publication for showcasing creative application of graphics modes and/or the history of video game graphics programming
-- Possible co-authored articles
-	- Source code as historical material (Daniel Gammenthaler)
-	- Working with digital-born archives as source material (Lara Kothe)
-	- Designerly implications of creative coding (Max Frischknecht)
+- Papers
+	- Corpuspaper: Report on the analysis of metadata and corpora regarding the research question, including a reflection on the state of researching video game images in the digital humanities
+		- [Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com/)
+	- Methodpaper: Distant Reading Source Code
+		- [Alliance of Digital Humanities Organizations – A Global Coalition of Digital Humanities Organizations](https://adho.org/)
+	- Paper on the development of video game graphics coding and programming languages in the 1980ies and 1990ies
+	- Paper on the creative application and designerly practices around graphics modes[^11] in early home computers
+	- Paper on design rhetoric and critical code analysis of early video game graphics regarding the case studies
 
 ## 6. Appendix
 ### 6.1 Visuality

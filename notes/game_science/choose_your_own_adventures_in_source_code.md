@@ -1,6 +1,7 @@
 ---
 created: 2023-08-31T09:43
-updated: 2023-12-06T15:21
+updated: 2023-12-13T09:20
+title: Choose Your Own Adventures in Source Code
 ---
 # Choose Your Own Adventures in Source Code
 <br>**Critically Reading the Commodore 64 Emulator VICE's Code Base**<br>

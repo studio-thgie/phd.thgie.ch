@@ -1,7 +1,3 @@
----
-updated: 2023-08-14T16:12
-created: 2023-08-14T16:12
----
 <%*
 const dv = app.plugins.plugins["dataview"].api;
 const te = await dv.queryMarkdown(`
@@ -10,7 +6,7 @@ const te = await dv.queryMarkdown(`
 		join(tags) as Tags
 	FROM "notes"
 	WHERE contains(tags, "Notes") 
-	SORT title
+	SORT file.name
 `);
 
 // replace wikilinks with markdown links

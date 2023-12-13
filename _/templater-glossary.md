@@ -6,7 +6,7 @@ const te = await dv.queryMarkdown(`
 		join(tags) as Tags
 	FROM "notes"
 	WHERE contains(tags, "Glossary") 
-	SORT title ASC
+	SORT file.name
 `);
 
 // replace wikilinks with markdown links

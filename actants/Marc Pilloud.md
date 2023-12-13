@@ -1,13 +1,13 @@
 ---
 created: 2023-08-25T18:04
-updated: 2023-10-31T09:15
+updated: 2023-12-12T15:20
 ---
 # Marc Pilloud
 
 ## Interview
 > the topic is interesting - influences etc. a little bit 'hitch-hiker's guide to the galaxy'. for sure interesting, also what happend with them afterwards ([http://nextmeme.ch/digital](http://nextmeme.ch/digital "http://nextmeme.ch/digital")) . will also be interesting in a later interview to discuss about technology behind. one interesting thing is also that they use the hires graphic mode. "hals und beinbruch"
 ---
-While searching for a mail of him I found a mail from 2013, from my BA at HyperWerk in Basel. He was announced for giving a workshop at our institute and titled "comparis-Mitgründer Marc Pilloud", which I didn't knew ![😅](https://discord.com/assets/b45af785b0e648fe2fb7e318a6b8010c.svg) He also co-developed a thing called "Fonopoly":
+	While searching for a mail of him I found a mail from 2013, from my BA at HyperWerk in Basel. He was announced for giving a workshop at our institute and titled "comparis-Mitgründer Marc Pilloud", which I didn't knew ![😅](https://discord.com/assets/b45af785b0e648fe2fb7e318a6b8010c.svg) He also co-developed a thing called "Fonopoly":
 
 > Ich habe später 2001 mit Fonopoly auch noch ein anderes Spiel "mit-entwickelt". Es war eines der ganz frühen Mixed Reality Spiele in der Schweiz. Leider gibt es nicht mehr viele Infos dazu. Der Hauptentwickler war Christoph Ellenberger, die Idee/Konzeption war wesentlich eine Adaption von einem Spiel das wir ohne IT in Lagern mit Kindern gespielt haben.
 
