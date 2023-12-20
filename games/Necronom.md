@@ -11,7 +11,7 @@ actants:
   - Michael Tschögl
 wikidata: Q2688033
 created: 2023-11-23T15:24
-updated: 2023-11-29T17:36
+updated: 2023-12-20T14:46
 ---
 # Necronom
 

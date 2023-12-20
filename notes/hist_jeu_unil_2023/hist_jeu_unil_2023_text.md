@@ -1,8 +1,7 @@
 ---
 created: 2023-10-27T13:11
-updated: 2023-12-20T14:44
+updated: 2023-12-20T14:51
 publisher: Jeu Lausanne Blog
-bibliography: " /Users/dna4/Repositories/phd.thgie.ch/assets/minarett_attack.bib"
 ---
 # Minarett Attack - A video game as rhetoric device in the political communication of the extreme right
 
