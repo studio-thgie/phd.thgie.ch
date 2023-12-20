@@ -1,5 +1,5 @@
 ---
-updated: 2023-12-13T14:00
+updated: 2023-12-15T12:17
 created: 2023-09-10T21:25
 title: Procedural visuality - Interdisciplinary perspectives on en/decoding the visuality of early Swiss digital games
 author: Adrian Demleitner
@@ -18,29 +18,11 @@ author: Adrian Demleitner
 
 ## Table of Contents
 - [1. Introduction and problem statement](#1-introduction-and-problem-statement)
-- [2. Current state of research](#2-current-state-of-research)
-	- [2.1 State of research](#21-state-of-research)
-	- [2.2 Research gap](#22-research-gap)
-	- [2.3 Own research](#23-own-research)
-- [3. Objectives and research questions](#3-objectives-and-research-questions)
-	- [3.1 Objectives](#31-objectives)
-	- [3.2 Research interest](#32-research-interest)
-	- [3.3 Research question](#33-research-question)
+- [2. Current state of research](#23-own-research)
+- [3. Objectives and research questions](#33-research-question)
 - [4. Research design and methodology](#4-research-design-and-methodology)
-	- [4.1 Research data](#41-research-data)
-	- [4.2 Cumulative dissertation](#42-cumulative-dissertation)
-	- [4.3 Methodology](#43-methodology)
-	- [4.3 Theoretical position](#43-theoretical-position)
-	- [4.4 Possible problems](#44-possible-problems)
 - [5. Timetable and pursued output](#5-timetable-and-pursued-output)
-	- [5.1 Timetable Overview](#51-timetable-overview)
-	- [5.2 Projected tasks and output](#52-projected-tasks-and-output)
 - [6. Appendix](#6-appendix)
-	- [6.1 Visuality](#61-visuality)
-	- [6.2 (Historical) Visuality in digital games](#62-historical-visuality-in-digital-games)
-		- [6.2.1 Ergodicity](#621-ergodicity)
-		- [6.2.2 Vocabulary of analysis](#622-vocabulary-of-analysis)
-		- [6.2.3 Techno-historic limits](#623-techno-historic-limits)
 - [7. Bibliography](#7-bibliography)
 
 ## 1. Introduction and problem statement
@@ -141,20 +123,21 @@ The research material consists of three corpora – the digital games list, and 
 This is a cumulative dissertation. The thesis takes form through four papers, which have been accepted for publishing in peer-reviewed journals. This means, that not all the outlined methods below are applied during the whole of the project, but only partially in their respective work packages.  The final dissertation further needs a synopsis to frame the four papers. More information on when which methods are used towards which inquiry and output is outlined under 5.2.
 
 ### 4.3 Methodology
-#### 4.3.1 Literature Review
-Relevant literature has been covered in point 2.1. The literature review was key to identifying the research gap outlined in point 2.2. Further literature review will be conducted towards visuality in video games from a media theoretical perspective as well as the notion of text regarding program code, as well as upcoming subjects where needed.
+The selection of methods can be divided in main and contextual approaches. The main methods are focused on and the core of the papers, whereas the contextual methods aid in filling the gaps and shortcomings of the former.
 
-#### 4.3.2 Corpora building and analysis
+#### 4.3.1 Main Methods
+
+##### Corpora building. maintenance and analysis
 In this dissertation project, I will help build, maintain and analyse three different corpora.
 
 1. A comprehensive list of Swiss digital games until the year 2000 and their accompanying metadata, such as factual information, computing systems, genre, and actors involved in the development and distribution
 2. A catalogue of images containing visual material for the games in the first corpus
 3. An archive of source code from the games in the first corpus
 
-##### Metadata
+###### Metadata
 The first consists of the digital games that are researched in the Confoederatio Ludens project. The project will maintain its own dataset, hosted on the Swiss Games Garden platform, which consists of a Drupal installation and a custom frontend. To uphold FAIR/CARE principles, I will maintain a duplicate dataset on Wikidata. Being linked-data and graph-based, Wikidata will enable some machine-assisted research approaches, such as visualizing networks of actors.
 
-##### Images
+###### Images
 The second corpus consists of visual material regarding the digital games from the games list. The images will mainly be taken directly from the games according to a predefined strategy, as well as collected from online archives. The strategy is to include as much material as is necessary to fully represent a games' aesthetics and content. Next to formal elements, a list of the visual content of a game the Game FAVR (see 2.1) model of categorization of the visuality of a digital game can help to obtain the right material. Since the focus of the dissertation is on the interplay of code and image, paratextual material such as box arts or advertisements will only be collected for case studies.
 
 - FAVR: Visual modes, ocularizations, framing mechanisms, construction of tangible space
@@ -164,7 +147,7 @@ The second corpus consists of visual material regarding the digital games from t
 
 More information about the thoughts that went into the creation of the image corpus can found on my dissertation wiki under [Image Corpus](https://phd.thgie.ch/notes/Image%20Corpus.html) as well as 4.4.2.
 
-##### Source code
+###### Source code
 As mentioned in 1. and 3.1.2, the source code of the researched games is of special interest to me. Critical code analysis treats code not only as functional instructions to a machine, but also as a text that can be hermeneutically approached and semiotically read [@marinoCriticalCodeStudies2020]. Further, from the perspective of design theory, a digital game is a second order design [@willumsenSourceCodeFormal2016]. The game developers don't design the game, they design the structures that generate the game. Akin to the writing aid for an author, like pens or keyboards, source code has formal and structural influence on the what and how the game developers design. Taken together, these two approaches outline source code as a carrier of meaning, as well as the tools and material for designing games. This makes source code a core focus of my dissertation.
 
 Working with source code can be difficult. Source code is text, but can reach levels of abstraction down to being a string of seemingly random alphanumeric strings, in the case of Assembler. A certain level of knowledge and experience is needed to fruitfully dive into source code with close readings. I have made first attempts in critical code analysis, as mentioned under 2.3.3. Distant readings, in which the digital humanities are especially strong, are yet to be established when approaching source code hermeneutically. 
@@ -177,22 +160,7 @@ Archiving digital game source code could be done easily, for example, by setting
 
 All three corpora are built and maintained with FAIR/CARE principles in mind. The metadata in the corpus on Swiss digital games will be regularly published as linked open data on Wikidata. The catalogue of images will be worked on in Tropy and disseminated in an Omeka archive, as well as on Zenodo. The archive of source code has no clear long-term path yet, but efforts are being made to create sustainable digital games archives in Switzerland. Cooperation with these archives is desirable.
 
-#### 4.3.3 Case studies
-While the larger corpora can aid in identifying patterns in design and production, a set of case studies will help in qualitative and in-depth analysis of code and design practices. The case studies will be defined during corpora-building, at the beginning of the dissertation and will be worked on through the proposed interdisciplinary approach including design rhetoric, critical code analysis and oral history, as well as creating context through the HGP-method and discourse analysis. All of these are outlined in the following. The case studies should offer data and research material for all of these methods.
-
-#### 4.3.4 Horror Game Politics Method
-The HGP method is a historical, source-critical approach to studying video games, which focuses on analysing production, product, and reception. Developed by Eugen Pfister and Arno Görgen, this method aids in reconstructing the original context through production-, media- and reception analysis.
-
-Since I will study the visuality as well as the source code of digital games mainly from the 1980ies and 1990ies, it is important to situate the analysis properly in its historical context. The HGP method is building on Roland Barthes approach to myth-making, and was applied to reading into the political myth of horror games. This aspect of the HGP method will help me in the hermeneutic analysis of case studies.
-
-#### 4.3.5 Design rhetoric, Bernese model
-Design rhetoric examines the rhetorical principles in designed artefacts regarding their intentions and effects. Rhetorical design analysis according to the Bernese model attempts to bridge the gap between a close study of designed objects and the discourse (social, political, psychological) that they interact with. This approach then tries to bring together intimate expert-knowledge on why things are designed as they are and how these designs relate to and shape the world at large.
-
-Design rhetoric is at once interested in the designing, the designed, and the effects of both. It as an interdisciplinary approach that can profit from interactional expertise, the ability to converse expertly in more than one discipline [@collinsRethinkingExpertise2009] and bridging formal analysis, hermeneutics and collaborative elicitation. There is a tension between the intentions of the developers and graphic artists, that are deposited into the source code, and the effects created in the image on screen. Design rhetoric's interdisciplinary approach is in favour of bringing together these two separate domains and will accompany me throughout the dissertation.
-
-An important aspect of the Bernese model is a focus on formal aspects of the designed as well as production processes. This favouring of a formal analysis helps in transcending approaches which mere state technical effects or capabilities, while not reducing the analysis to discourse alone. Design rhetoric after the Bernese model aids in capturing technical aspects but also reflecting on the influence of a reduced colour palette, i.e., on design practice and the designed, leading up to a discourse analysis.
-
-#### 4.3.6 Critical code analysis
+##### Critical code analysis
 Critical code analysis describes source code for software not only as functional instructions for machines, but also as cultural artefacts written by humans for humans. This means, that source code could potentially be read to acquire knowledge about socio-cultural and historical contexts. To what extent source code can be treated as a literary text, or leaning more on the Foucauldian notion of text, has been tested and described in 2.4.4. First preliminary results indicate that source code is rich in knowledge, but difficult to access through digital humanities distant readings approaches.
 
 There are many different aspects, or aggregate states, of source code that could be analysed. Critical code analysis traditionally seems to lean towards code as literature, reading it rather literally, and trying to stay as close to the original code written than possible. This dissertation is interested in source code as the device for designing video game graphics. This implies that other aggregates could be of interest, as long as the designers' intentions and practices are still legible.
@@ -200,40 +168,61 @@ There are many different aspects, or aggregate states, of source code that could
 The initial comparison between and author's tools to write and source code doesn't hold up completely. Source code is not merely the material means of writing. Source code contains aspects of the pen, the paper, and the words written on the latter.  While being a means to an end, writing code to generate video game graphics, it is also a documentation about design practices and technical affordances, which is the second important focus of critical code analysis in this dissertation.
 
 The third and last focus of this method's application in this dissertation is on the relation between code and video game graphics as the designed output of a programming design practice. This interconnection was outline in 4.3.5 through design rhetoric.
+##### Design research and visual analysis
+*Visual analysis*
+#todo
 
-#todo main methods and contextual methods
+*Design practice in the context of programming for video game graphics*
+#todo
 
-#### 4.3.7 Discourse Analysis
+*Design rhetoric*
+Design rhetoric examines the rhetorical principles in designed artefacts regarding their intentions and effects. Rhetorical design analysis according to the Bernese model attempts to bridge the gap between a close study of designed objects and the discourse (social, political, psychological) that they interact with. This approach then tries to bring together intimate expert-knowledge on why things are designed as they are and how these designs relate to and shape the world at large.
+
+Design rhetoric is at once interested in the designing, the designed, and the effects of both. It as an interdisciplinary approach that can profit from interactional expertise, the ability to converse expertly in more than one discipline [@collinsRethinkingExpertise2009] and bridging formal analysis, hermeneutics and collaborative elicitation. There is a tension between the intentions of the developers and graphic artists, that are deposited into the source code, and the effects created in the image on screen. Design rhetoric's interdisciplinary approach is in favour of bringing together these two separate domains and will accompany me throughout the dissertation.
+
+An important aspect of the Bernese model is a focus on formal aspects of the designed as well as production processes. This favouring of a formal analysis helps in transcending approaches which mere state technical effects or capabilities, while not reducing the analysis to discourse alone. Design rhetoric after the Bernese model aids in capturing technical aspects but also reflecting on the influence of a reduced colour palette, i.e., on design practice and the designed, leading up to a discourse analysis.
+
+#### 4.3.2 Contextual Methods
+##### Literature Review
+Relevant literature has been covered in point 2.1. The literature review was key to identifying the research gap outlined in point 2.2. Further literature review will be conducted towards visuality in video games from a media theoretical perspective as well as the notion of text regarding program code, as well as upcoming subjects where needed.
+
+##### Case studies
+While the larger corpora can aid in identifying patterns in design and production, a set of case studies will help in qualitative and in-depth analysis of code and design practices. The case studies will be defined during corpora-building, at the beginning of the dissertation and will be worked on through the proposed interdisciplinary approach including design rhetoric, critical code analysis and oral history, as well as creating context through the HGP-method and discourse analysis. All of these are outlined in the following. The case studies should offer data and research material for all of these methods.
+
+##### Horror Game Politics Method
+The HGP method is a historical, source-critical approach to studying video games, which focuses on analysing production, product, and reception. Developed by Eugen Pfister and Arno Görgen, this method aids in reconstructing the original context through production-, media- and reception analysis.
+
+Since I will study the visuality as well as the source code of digital games mainly from the 1980ies and 1990ies, it is important to situate the analysis properly in its historical context. The HGP method is building on Roland Barthes approach to myth-making, and was applied to reading into the political myth of horror games. This aspect of the HGP method will help me in the hermeneutic analysis of case studies.
+
+##### Discourse Analysis
 Discourse analysis is a method of analysing language and communication use in its social context. It goes beyond examining formal aspects to understand how language functions in communication and how it shapes and is shaped by social structures, power relations, and cultural norms. Discourse analysis will be applied in the case studies to draw out from formal analysis into the larger dynamics of effects and meaning-creation of the researched video games. This is in part to root this dissertation in the research project that it is part of, as well as to the overarching research inquiry into the early history of Swiss video game development.
 
-#### 4.3.8 Oral History
+##### Oral History
 Oral history is a method of preserving and conveying historical information through spoken accounts, personal narratives, and first-hand experiences. This approach is part of the Confoederatio Ludens project, where we focus on interviews with key people in the video game industry of the 1980ies and 1990ies, including developers, publishers, or people that worked on electronics, among others. Unlike written history, which relies on written records and documents, oral history captures the memories and perspectives of individuals who have witnessed or participated in historical events. As such, they can add important perspectives and context to the video games that this dissertation is inquiring through case studies.
 
-### 4.3 Theoretical position
+### 4.4 Theoretical position
 The theoretical vantage point of this dissertation will be Vilém Flusser's theory of the technical image. In his thinking, he started to differentiate between "traditional" and "technical" images [@flusserUniverseTechnicalImages2011]. The latter do not necessarily represent reality, but are constructed and in turn construct reality. The "technical" image alienates the viewer from direct experience and creates its own world. Flusser's work can be ascribed to critical theory, as he did not only ponder on the subject, but also warn of possible problems arising from the rise of the "technical" image.
 
 Flusser's theoretical approach will be expanded by Marino's theories on code as a cultural artefact [@marinoCriticalCodeStudies2020]. Critical code analysis is not only a methodological approach but also a theoretical perspective, in which code is not only textual instruction for machines. Code is also a socio-cultural artefact that can be approached through hermeneutics. Code is comprehended not just by programmers, but also by lawyers, artists, journalists, political activists, and literary scholars. Its utility extends beyond mere programming and finds application in political discourse, artistic creations, popular culture, and the documentation of history.
 
-### 4.4 Possible problems
+### 4.5 Possible problems
 In the following I will reflect on possible weaknesses in the outlined research design as well as how to mitigate the risks.
 
-#### 4.4.1 Critical code analysis
+#### 4.5.1 Critical code analysis
 Although researching context is key to this methodology, its main focus is source code. In the case of old digital games, such source code can be difficult to obtain. Problems can arise, for example if the original developers can't be contacted, don't want to share their code base or don't have it any more. It is certain that some source code can be found, although maybe not of the originally targeted games. As a fallback, games from beyond the scope of the corpus could be included to find material for this approach. Being able to research the interplay of technology and visuality in our Swiss digital games corpus would be the best possible outcome. 
 
 It is one of these dissertations appeals to open data: To study digital games, we need not only their compiled executable versions, but also their raw source material, their game code [@konzackComputerGameCriticism2002; @willumsenSourceCodeFormal2016].
 
-#### 4.4.2 Video game image complexities
+#### 4.5.2 Video game image complexities
 Video game images are amongst the most complex images to research. In comparison to a still image, video game images add the two dimensions of time and interactivity, leading to a large amount of possible image material. Studying video game graphics can quickly overstrain the available resources, making it necessary to reduce complexities and make choices regarding corpus saturation. Approaches in digital humanities, such as large corpus analysis and distant reading, can help to tackle some of these problems. Reducing the number of games analysed is applied to create a feasible workload. Finally, some compromises have to be made in choosing the image material, which are outlined in the considerations regarding the image corpus[^10]
 
-#### 4.4.3 Image reception
+#### 4.5.3 Image reception
 As a historical analysis, research into the reception of the image, an important aspect of design rhetoric, is limited. This shortcoming can be balanced by the Horror-Game-Politics method, which is a source-critical approach that builds on research into the context. 
 
 ## 5. Timetable and pursued output
-#todo #wip 
-
 These are estimates and projections which might change during the actual research and writing process.
 
-### 5.1 Timetable
+### 5.1 Timetable Projection
 
 | Timeframe       | WP  | Milestones   | Steps                                                                            |
 | --------------- | --- | ------------ | -------------------------------------------------------------------------------- |
@@ -244,25 +233,27 @@ These are estimates and projections which might change during the actual researc
 | 2025, Jul - Dec | WP4 | 4. Paper     | - Work on formal aspects of video game graphics                                  |
 | 2026 - 2027     | WP5 | Dissertation | - Writing of synopsis<br> - Finishing publication processes                      |
 
-- WP0: Exposé as well as published material on the case studies
-- WP1:
-- WP2:
-- WP3:
-	- Research paper on design rhetoric in the context of ported games, which were perceived as the same game on different computing system, but differing massively in graphics.
-- WP4
-	- Report on proposed interdisciplinary approach to study video game graphics through design rhetoric and critical code analysis
-- WP5: Synopsis
 ### 5.2 Output
-WP3 and WP4 depend partially on work done in WP1 and WP2, mainly the gathering of research data, acquisition of knowledge and the definition of case studies. I will, where possible, with case studies and video games from the CH-Ludens corpus.
+WP3 and WP4 depend partially on work done in WP1 and WP2, mainly the gathering of research data, acquisition of knowledge and the definition of case studies. I will, where possible, with case studies and video games from the CH-Ludens corpus. In the following I list the papers I intend to write.
 
-- Papers
-	- Corpuspaper: Report on the analysis of metadata and corpora regarding the research question, including a reflection on the state of researching video game images in the digital humanities
-		- [Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com/)
-	- Methodpaper: Distant Reading Source Code
-		- [Alliance of Digital Humanities Organizations – A Global Coalition of Digital Humanities Organizations](https://adho.org/)
-	- Paper on the development of video game graphics coding and programming languages in the 1980ies and 1990ies
-	- Paper on the creative application and designerly practices around graphics modes[^11] in early home computers
-	- Paper on design rhetoric and critical code analysis of early video game graphics regarding the case studies
+#### Corpora
+- Building, maintaining and analysis of metadata and corpora regarding the research question, including a reflection on the state of researching video game images in the digital humanities
+- [Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com/)
+
+#### Distant Reading Source Code
+- Paper on methodology of working on source code as a research object with a distant reading approach
+- [Alliance of Digital Humanities Organizations – A Global Coalition of Digital Humanities Organizations](https://adho.org/)
+
+#### History of Creative Coding in Video Games
+- Development of video game graphics coding and programming languages in the 1980ies and 1990ies; ie creative application and designerly practices around graphics modes[^11] in early home computers
+
+#### Ported Games
+- Design research in the context of ported games, which were perceived as the same game on different computing system, but differing massively in graphics.
+
+#### Bridging Design Research and Critical Code Analysis
+- Qualitative approach
+- Paper on design research and critical code analysis of early video game graphics regarding the case studies
+- Report on proposed interdisciplinary approach to study video game graphics through design rhetoric and critical code analysis
 
 ## 6. Appendix
 ### 6.1 Visuality

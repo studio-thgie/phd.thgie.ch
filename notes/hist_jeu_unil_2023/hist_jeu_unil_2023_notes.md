@@ -1,5 +1,5 @@
 ---
-updated: 2023-12-06T15:27
+updated: 2023-12-18T18:49
 created: 2023-11-22T13:54
 ---
 # Notes
@@ -7,6 +7,17 @@ created: 2023-11-22T13:54
 - 15'000 - 20'000 Zeichen
 - toujours sourcer
 - 7 Minuten des presentation
+
+## 2023-12-18
+- generally perceived as shooting
+- not much about the game, except for a brief description of it's looks and game mechanics
+- part of a larger campaign
+
+## 2023-12-13
+- feedback in course:
+	- the game inscribes itself in a large history of reproducing rassist stereotypes
+	- is this a first, where did it take influence from? how did it influence the gamescape?
+	- how do we talk (publicly) about difficult games as this, how do we treat such games in terms of heritage and preservation?
 
 ## 2023-12-06
 The last few days I was thinking about Minarett Attack and extrem right rhetoric today and came up with some theses.
