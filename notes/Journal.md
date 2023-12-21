@@ -2,12 +2,13 @@
 title: Journal
 author: Adrian Demleitner
 created: 2023-09-09T10:42
-updated: 2023-12-13T09:38
+updated: 2023-12-21T11:31
 ---
 # Journal
 
 | Title                                                                                         | Date               | Tags                                      |
 | --------------------------------------------------------------------------------------------- | ------------------ | ----------------------------------------- |
+| [End of year, semester and work package 0](journal/2023-12-21.md)                           | December 21, 2023  | courses, reflection, expose               |
 | [Working and Maintaining the Wiki](journal/2023-12-13.md)                                   | December 13, 2023  | wiki, maintenance, reflection             |
 | [Necronom and visual layouts as methodology](journal/2023-11-30.md)                         | November 30, 2023  | necronom, auslegeordnung, case-study      |
 | [Case studies](journal/2023-11-29.md)                                                       | November 29, 2023  | process, case-study                       |

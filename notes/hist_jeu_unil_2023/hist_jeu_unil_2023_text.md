@@ -1,6 +1,6 @@
 ---
 created: 2023-10-27T13:11
-updated: 2023-12-20T14:51
+updated: 2023-12-21T10:04
 publisher: Jeu Lausanne Blog
 ---
 # Minarett Attack - A video game as rhetoric device in the political communication of the extreme right
@@ -20,15 +20,15 @@ Although it was not the kind of game I hoped for, it fitted my research question
 ## Description and context
 The game was developed[^1] by Alexander Segert at Goal AG in 2009. The marketing and communication agency has existed since at least 1979 and had always had ties to the political scene on the right. So did Segert[^2] [^3], who had taken over the agency long before the development of Minarett Attack. The game was developed to be part of a larger political project, the Swiss minaret referendum[^4], which wanted to forbid the building of new minarets in Switzerland. Another component of the campaign was a poster, also widely discussed in the press and the political landscape of Switzerland for its inherent depiction of racism.
 
-[Image of poster]
-
 Produced in Flash and published under its own domain minarett-attack.ch, the game fitted right into the emerging area of casual and shareable online games. For example, the famous and widely popular FarmVille was released the same year. An indication is a call-to-action button at the game's end, inviting to share the game with "friends", a term that Facebook popularised for social media. Adobe Flash was a tool for the creation of animations that could be shared online through the application of a browser plugin. It introduced the simple scripting language ActionScript later and enabled the creation of interactive media. Casual games became easy and affordable to realise. Although it is difficult to acquire social media content from 2009, there are still traces of Minarett Attack in the blogosphere of that time, indicating the circulation of references to the game.
 
-[Screenshot of empty screen]
+![](oyun_minarett_attack_4.jpg)
+*Screenshot provided by [FARKINDAYIZ.GOV.TR](https://farkindayiz.gov.tr/oyun_minarett_attack.html)*
 
 Starting the game, the player is welcomed by a simplified but idyllic depiction of Switzerland. We have a handful of Swiss monuments, the famous Swiss Alps as background and, above all, the sun. Little by little, minarets start to emerge. The player controls a little circle, with which he must aim at the towers. A mouse click "stops" the appearance. A low dong sound is hearable, and the circle transforms into a stop-sign. If one is too slow to stop the emergence of a tower, it rests in place and can't be removed any more. Instead, muezzin appear, chanting their prayers. The player can now aim and "stop" them instead, gaining points in the process. Minarett Attack references established game mechanics, known since Duck Hunt or the in the German-speaking countries widely popular Mohrhuhn[^5]. 
 
-[Screenshot of filled screen]
+![](oyun_minarett_attack_3.jpg)
+*Screenshot provided by [FARKINDAYIZ.GOV.TR](https://farkindayiz.gov.tr/oyun_minarett_attack.html)*
 
 Being part of a larger political project in parallel with an equally provocative billboard campaign, the game generated a lot of press coverage. The FPÖ, an extreme right political party of Austria and another client of Goal AG, deemed the application of Minarett Attack successful. In the following year, they republished a customised version of the game during their election campaign. The game was rebranded as Moschee Baba and featured Austrian monuments instead of Swiss ones. Although beyond the scope of this text, I deem it important to state that Moschee Baba triggered much more serious discussion in Austria about the racism in the game and actually led to legal actions and political consequences[^6].
 
@@ -48,6 +48,9 @@ Finally, I would like to mention, that with the specific depiction of the muezzi
 The game itself is relatively devoid of direct messages. The game's ending produces the following text:
 
 > Die Schweiz ist voller Minarette. Damit das nicht passiert: Am 29. November «JA zur Minarettverbots-Initiative»
+
+![](minarett_Attack220091019153139.jpg)
+*Screenshot provided by [DiePresse.com](https://www.diepresse.com/516099/schweiz-minarette-abknallen-als-online-spiel)*
 
 The same screen for Moschee Baba reads:
 
@@ -71,6 +74,39 @@ My research uncovered an internal document by the FPÖ Steiermark, anonymously a
 I want to end on a more personal side. In my opinion, Minarett Attack is not only a commissioned work, done by a professional communication agency for a political party. Through contextualizing the game, I learned about the background of the developer, Alexander Segert. He was since early on part of the extreme right, warning in Islamophobic magazines about "the creeping infiltration of the Christian West by Islam". This makes the creation of Minarett Attack a personal affair as well, a personally authored game [@siegelJeuAuteursBeginner2018]. Minarett Attack then becomes the amalgamation of an opportunity, the Anti-Minarett campaign, and personal convictions and the desire to express these. It is an ugly realisation, that a single person can have that much political influence through the development of a racist and Islamophobic game with graphics suitable for children's books.
 
 I close with the question of how to deal with Minarett Attack's legacy. Although it posited some difficulties, I'm happy that the game can't be played any more. At the same time, I deem it important that the knowledge about this game's existence and effects on the political landscape of Switzerland is preserved. But how does one preserve such a game, and its context, and not just reducing it to metadata? I can't decide myself how we handle our past and ongoing racism. This needs to be a public discourse. Opening up the video games studies perspective on this specific game might be a first step.
+
+## Media list
+_Anti Mosque Game for protection freedom_ (2011). Available at: [https://www.youtube.com/watch?v=TcMauUUS610](https://www.youtube.com/watch?v=TcMauUUS610) (Accessed: 20 December 2023).
+
+Bühler, D. (2016) _Österreich - FPÖ und SVP: Wie Brüder – aber keine Zwillinge_, _Aargauer Zeitung_. Available at: [https://www.aargauerzeitung.ch/international/fpo-und-svp-wie-bruder-aber-keine-zwillinge-ld.1556557](https://www.aargauerzeitung.ch/international/fpo-und-svp-wie-bruder-aber-keine-zwillinge-ld.1556557) (Accessed: 18 December 2023).
+
+deutschlandfunk.de (no date) _Stimmungsmache gegen den Islam_, _Deutschlandfunk_. Available at: [https://www.deutschlandfunk.de/stimmungsmache-gegen-den-islam-100.html](https://www.deutschlandfunk.de/stimmungsmache-gegen-den-islam-100.html) (Accessed: 18 December 2023).
+
+_Goal: ‘Minarett-Attack’ sorgt in Österreich für Wirbel_ (no date) _persoenlich.com_. Available at: [https://www.persoenlich.com/kategorie-werbung/minarett-attack-sorgt-in-oesterreich-fuer-wirbel-294590](https://www.persoenlich.com/kategorie-werbung/minarett-attack-sorgt-in-oesterreich-fuer-wirbel-294590) (Accessed: 18 December 2023).
+
+_Jetzt auch als Online-Game_ (2009) _Berner Oberländer_. Available at: [https://www.berneroberlaender.ch/jetzt-auch-als-online-game-737646831148](https://www.berneroberlaender.ch/jetzt-auch-als-online-game-737646831148) (Accessed: 18 December 2023).
+
+_Minarett-Verbot: Islamkritiker setzen sich in der Schweiz durch - WELT_ (2015) _DIE WELT_. Available at: [https://www.welt.de/politik/ausland/article5370219/Islamkritiker-setzen-sich-in-der-Schweiz-durch.html](https://www.welt.de/politik/ausland/article5370219/Islamkritiker-setzen-sich-in-der-Schweiz-durch.html) (Accessed: 18 December 2023).
+
+_Muezzine als Zielscheibe_ (2010) _Basler Zeitung_. Available at: [https://www.bazonline.ch/muezzine-als-zielscheibe-382457215277](https://www.bazonline.ch/muezzine-als-zielscheibe-382457215277) (Accessed: 18 December 2023).
+
+_Neonazis klauen Anti-Minarett-Spiel_ (2010) _20 Minuten_. Available at: [https://www.20min.ch/story/neonazis-klauen-anti-minarett-spiel-258446324959](https://www.20min.ch/story/neonazis-klauen-anti-minarett-spiel-258446324959) (Accessed: 18 December 2023).
+
+_Nouvelle affiche des opposants aux minarets_ (2009) _rts.ch_. Available at: [https://www.rts.ch/info/suisse/1066467-nouvelle-affiche-des-opposants-aux-minarets.html](https://www.rts.ch/info/suisse/1066467-nouvelle-affiche-des-opposants-aux-minarets.html) (Accessed: 18 December 2023).
+
+_Querelle de minarets dans la vallée suisse de Langenthal_ (2009) _Le Figaro_. Available at: [https://www.lefigaro.fr/international/2009/11/24/01003-20091124ARTFIG00006-querelle-de-minarets-dans-la-vallee-suisse-de-langenthal-.php](https://www.lefigaro.fr/international/2009/11/24/01003-20091124ARTFIG00006-querelle-de-minarets-dans-la-vallee-suisse-de-langenthal-.php) (Accessed: 18 December 2023).
+
+Riegler, B. (2010) _‘Moschee Baba’: FPÖ-Werbung lässt Muezzins abschießen_, _DER STANDARD_. Available at: [https://www.derstandard.at/story/1282978601717/game-moschee-baba-fpoe-werbung-laesst-muezzins-abschiessen](https://www.derstandard.at/story/1282978601717/game-moschee-baba-fpoe-werbung-laesst-muezzins-abschiessen) (Accessed: 24 November 2023).
+
+Scheidt, P. (2009) ‘Schweizer werben gegen Minarette: Schön einfach, schön blöd’, _Die Tageszeitung: taz_, 18 November. Available at: [https://taz.de/!5152351/](https://taz.de/!5152351/) (Accessed: 22 November 2023).
+
+_Schweiz: Minarette abknallen als Online-Spiel_ (2009) _Die Presse_. Available at: [https://www.diepresse.com/516099/schweiz-minarette-abknallen-als-online-spiel](https://www.diepresse.com/516099/schweiz-minarette-abknallen-als-online-spiel) (Accessed: 18 December 2023).
+
+Stawski, D. (2010) _Der Schweizer Krawallmacher - ein Deutscher_, _Süddeutsche.de_. Available at: [https://www.sueddeutsche.de/politik/kampagne-gegen-minarette-der-schweizer-krawallmacher-ein-deutscher-1.128918](https://www.sueddeutsche.de/politik/kampagne-gegen-minarette-der-schweizer-krawallmacher-ein-deutscher-1.128918) (Accessed: 22 November 2023).
+
+_SVP-Werber kommt mit Minarett-Spiel durch | Südostschweiz_ (no date). Available at: [https://www.suedostschweiz.ch/zeitung/svp-werber-kommt-mit-minarett-spiel-durch](https://www.suedostschweiz.ch/zeitung/svp-werber-kommt-mit-minarett-spiel-durch) (Accessed: 18 December 2023).
+
+_Verbotene Games und Skandalspiele Teil 25_ (2021). Available at: [https://www.youtube.com/watch?v=yWpSYvcL-dU](https://www.youtube.com/watch?v=yWpSYvcL-dU) (Accessed: 22 November 2023).
 
 ## Bibliography
 
